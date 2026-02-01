@@ -1,0 +1,971 @@
+company,valuation_($b),country,city,industry,total_raised,founded_year,deal_terms,portfolio_exits,select_investors,investor_score,time_score,investment_score
+SpaceX,$100.3,United States,Hawthorne,Other,$6.874B,2002,12.0,,"Founders Fund, Draper Fisher Jurvetson, Rothenberg Ventures",0.6888888888888889,0.8627450980392157,0.7758169934640523
+Stripe,$95,United States,San Francisco,Fintech,$2.901B,2010,12.0,1.0,"Khosla Ventures, LowercaseCapital, capitalG",0.5777777777777777,0.9215686274509804,0.7496732026143791
+Canva,$40,Australia,Surry Hills,Internet software & services,$571.26M,2012,8.0,,"Sequoia Capital China, Blackbird Ventures, Matrix Partners",0.7222222222222222,0.9019607843137255,0.8120915032679739
+Checkout.com,$40,United Kingdom,London,Fintech,$1.83B,2012,4.0,,"Tiger Global Management, Insight Partners, DST Global",0.8444444444444444,0.892156862745098,0.8683006535947713
+Instacart,$39,United States,San Francisco,"Supply chain, logistics, & delivery",$2.686B,2012,12.0,,"Khosla Ventures, Kleiner Perkins Caufield & Byers, Collaborative Fund",0.6888888888888889,0.9411764705882353,0.8150326797385621
+Databricks,$38,United States,San Francisco,Data management & analytics,$3.497B,2013,8.0,,"Andreessen Horowitz, New Enterprise Associates, Battery Ventures",0.6888888888888889,0.9019607843137255,0.7954248366013073
+Revolut,$33,United Kingdom,London,Fintech,$1.716B,2015,6.0,,"index Ventures, DST Global, Ribbit Capital",0.6666666666666667,0.9313725490196079,0.7990196078431373
+Fanatics,$27,United States,Jacksonville,E-commerce & direct-to-consumer,$4.19B,1995,10.0,,"SoftBank Group, Andreessen Horowitz, Temasek Holdings",0.7777777777777778,0.7941176470588236,0.7859477124183007
+BYJU's,$21,India,Bengaluru,Edtech,$5.183B,2008,19.0,,"Tencent Holdings, Lightspeed India Partners, Sequoia Capital India",0.5111111111111111,0.8725490196078431,0.6918300653594771
+Xiaohongshu,$20,China,Shanghai,E-commerce & direct-to-consumer,$917.5M,2013,3.0,,"GGV Capital, ZhenFund, Tencent",0.9111111111111111,0.9313725490196079,0.9212418300653595
+J&T Express,$20,Indonesia,Jakarta,"Supply chain, logistics, & delivery",$4.653B,2015,3.0,,"Hillhouse Capital Management, Boyu Capital, Sequoia Capital China",0.9111111111111111,0.9019607843137255,0.9065359477124183
+Miro,$17.5,United States,San Francisco,Internet software & services,$475M,2011,1.0,,"Accel, AltaIR Capital, Technology Crossover Ventures",0.8111111111111111,0.8529411764705882,0.8320261437908496
+DJI Innovations,$15,China,Shenzhen,Hardware,$1.135B,2006,3.0,,"Accel Partners, Sequoia Capital",0.9333333333333333,0.8725490196078431,0.9029411764705882
+SHEIN,$15,China,Shenzhen,E-commerce & direct-to-consumer,$553.36M,2008,3.0,,"Tiger Global Management, Sequoia Capital China, Shunwei Capital Partners",0.9222222222222223,0.8627450980392157,0.892483660130719
+goPuff,$15,United States,Philadelphia,E-commerce & direct-to-consumer,$3.397B,2013,4.0,,"Accel, Softbank Group, Anthos Capital",0.8333333333333334,0.892156862745098,0.8627450980392157
+Yuanqi Senlin,$15,China,Beijing,Consumer & retail,$721.31M,2016,3.0,,"Sequoia Capital China, Longfor Capitalm, Gaorong Capital",0.8666666666666667,0.9215686274509804,0.8941176470588236
+Ripple,$15,United States,San Francisco,Fintech,$293.9M,2012,5.0,1.0,"IDG Capital, Venture51, Lightspeed Venture Partners",0.6333333333333333,0.892156862745098,0.7627450980392156
+Plaid,$13.4,United States,San Francisco,Fintech,$734.8M,2012,5.0,,"New Enterprise Associates, Spar Capital, Index Ventures",0.7444444444444445,0.9019607843137255,0.8232026143790849
+OpenSea,$13.3,United States,New York,E-commerce & direct-to-consumer,$425.12M,2017,2.0,,"Andreessen Horowitz, Thirty Five Ventures, Sound Ventures",0.7222222222222222,0.9215686274509804,0.8218954248366013
+Grammarly,$13,United States,San Francisco,Internet software & services,$400M,2009,3.0,,"General Catalyst, Institutional Venture Partners, Breyer Capital",0.9222222222222223,0.8627450980392157,0.892483660130719
+Devoted Health,$12.6,United States,Waltham,Health,$1.969B,2017,4.0,,"Andreessen Horowitz, F-Prime Capital, Venrock",0.8333333333333334,0.9509803921568627,0.892156862745098
+Faire,$12.4,United States,San Francisco,Artificial intelligence,$1.096B,2017,6.0,,"Khosla Ventures, Forerunner Ventures, Sequoia Capital",0.8555555555555556,0.9411764705882353,0.8983660130718955
+Brex,$12.3,United States,San Francisco,Fintech,$1.49B,2017,7.0,,"DST Global, Ribbit Capital, Greenoaks Capital Management",0.7,0.9509803921568627,0.8254901960784313
+JUUL Labs,$12,United States,San Francisco,Consumer & retail,$1.49B,2015,7.0,,Tiger Global Management,0.7,0.9411764705882353,0.8205882352941176
+Bitmain Technologies,$12,China,Beijing,Hardware,$1.49B,2015,7.0,,"Coatue Management, Sequoia Capital China, IDG Capital",0.7,0.9313725490196079,0.8156862745098039
+Biosplice Therapeutics,$12,United States,San Diego,Health,$561.5M,2008,1.0,,"Vickers Venture Partners, IKEA GreenTech",0.9,0.8627450980392157,0.8813725490196078
+GoodLeap,$12,United States,Roseville,Internet software & services,$1.8B,2003,1.0,,"New Enterprise Associates, BDT Capital Partners, Davidson Kempner Capital Management",0.9222222222222223,0.7843137254901961,0.8532679738562092
+Airtable,$11.7,United States,San Francisco,Internet software & services,$1.353B,2013,6.0,,"Caffeinated Capital, CRV, Founder Collective",0.5555555555555556,0.9117647058823529,0.7336601307189543
+ZongMu Technology,$11.4,China,Shanghai,Auto & transportation,$210.83M,2013,2.0,,"LTW Capital, Legend Capital, Qualcomm Ventures",0.8,0.8823529411764706,0.8411764705882353
+Global Switch,$11.1,United Kingdom,London,Hardware,$6.255B,1998,2.0,,"Aviation Industry Corporation of China, Essence Financial, Jiangsu Sha Steel Group",0.9444444444444444,0.7843137254901961,0.8643790849673203
+Celonis,$11,Germany,Munich,Data management & analytics,$1.368B,2011,4.0,,"Accel, 83North",0.8666666666666667,0.892156862745098,0.8794117647058823
+Bolt,$11,United States,San Francisco,Fintech,$963M,2014,3.0,,"Activant Capital, Tribe Capital, General Atlantic",0.6,0.892156862745098,0.746078431372549
+Alchemy,$10.2,United States,San Francisco,Fintech,$545M,2017,3.0,,"DFJ Growth Fund, Coatue Management, Addition",0.7111111111111111,0.9215686274509804,0.8163398692810457
+Weilong,$10.88,China,Luohe,Consumer & retail,$559.74M,2001,1.0,,"Tencent Holdings, Hillhouse Capital Management, Yunfeng Capital",0.9333333333333333,0.7647058823529411,0.8490196078431372
+Lalamove,$10,Hong Kong,Cheung Sha Wan,"Supply chain, logistics, & delivery",$2.475B,2013,5.0,,"MindWorks Ventures, Shunwei Capital Partners, Xiang He Capital",0.8444444444444444,0.9019607843137255,0.873202614379085
+Figma,$10,United States,San Francisco,Internet software & services,$333.5M,2012,6.0,,"Index Ventures, Greylock Partners, Kleiner Perkins Caufield & Byers",0.7888888888888889,0.8823529411764706,0.8356209150326797
+Gusto,$10,United States,San Francisco,Fintech,$691.12M,2011,9.0,,"General Catalyst Partners, Google Ventures, Kleiner Perkins Caufield & Byers",0.23333333333333328,0.9215686274509804,0.5774509803921568
+Talkdesk,$10,United States,San Francisco,Internet software & services,$504.77M,2011,6.0,,"DJF, Salesforce Ventures, Storm Ventures",0.8,0.892156862745098,0.846078431372549
+Notion Labs,$10,United States,San Francisco,Internet software & services,$342M,2016,3.0,,"Index Ventures, Draft Ventures, Felicis Ventures",0.8222222222222222,0.9215686274509804,0.8718954248366013
+OutSystems,$9.5,United States,Boston,Internet software & services,$572.01M,2001,3.0,,"KKR, ES Ventures, North Bridge Growth Equity",0.8666666666666667,0.7941176470588236,0.8303921568627451
+ServiceTitan,$9.5,United States,Glendale,Internet software & services,$1.099B,2012,6.0,,"Bessemer Venture Partners, ICONIQ Capital, Battery Ventures",0.8333333333333334,0.9019607843137255,0.8676470588235294
+HEYTEA,$9.28,China,Shenzhen,Other,$579.23M,2012,3.0,,"Sequoia Capital China, Tencent Investment, BA Capital",0.8666666666666667,0.892156862745098,0.8794117647058823
+N26,$9.23,Germany,Berlin,Fintech,$1.722B,2013,7.0,,"Redalpine Venture Partners, Earlybird Venture Capital, Valar Ventures",0.7777777777777778,0.9019607843137255,0.8398692810457516
+Klaviyo,$9.2,United States,Boston,Internet software & services,$678.5M,2012,3.0,,"Summit Partners, Accel, Astral Capital",0.8444444444444444,0.8823529411764706,0.8633986928104576
+Northvolt,$9.08,Sweden,Stockholm,Other,$6.162B,2016,4.0,,"Vattenfall, Volkswagen Group, Goldman Sachs",0.4111111111111111,0.9313725490196079,0.6712418300653595
+Tanium,$9,United States,Kirkland,Cybersecurity,$1.17B,2007,13.0,,"Andreessen Horowitz, Nor-Cal Invest, TPG Growth",0.8444444444444444,0.8823529411764706,0.8633986928104576
+Chehaoduo,$9,China,Beijing,E-commerce & direct-to-consumer,$4.304B,2015,4.0,,"Sequoia Capital China, GX Capital",0.6222222222222222,0.9509803921568627,0.7866013071895425
+Niantic,$9,United States,San Francisco,Mobile & telecommunications,$770M,2015,5.0,,"Nintendo, Google, Pokemon Company International, Spark Capital",0.7666666666666666,0.9411764705882353,0.8539215686274509
+OYO Rooms,$9.6,India,Gurugram,Travel,$3.114B,2012,11.0,,"SoftBank Group, Sequoia Capital India,Lightspeed India Partners",0.7888888888888889,0.9019607843137255,0.8454248366013072
+Rapyd,$8.75,United Kingdom,London,Fintech,$775M,2016,4.0,,"Target Global, General Catalyst, Durable Capital Partners",0.7777777777777778,0.9313725490196079,0.8545751633986929
+Kavak,$8.7,Mexico,Lerma de Villada,E-commerce & direct-to-consumer,$1.188B,2016,4.0,,"DST Global, SoftBank Group, Mountain Nazca",0.8333333333333334,0.9215686274509804,0.8774509803921569
+Snyk,$8.6,United States,Boston,Cybersecurity,$1.026B,2015,9.0,,"BOLDstart Ventures, Google Ventures, Accel",0.7222222222222222,0.9117647058823529,0.8169934640522876
+Nuro,$8.6,United States,Mountain View,Auto & transportation,$2.132B,2016,4.0,,"SoftBank Group, Greylock Partners, Gaorong Capital",0.8888888888888888,0.9313725490196079,0.9101307189542484
+Bolt,$8.4,Estonia,Tallinn,Auto & transportation,$1.971B,2013,5.0,,"Didi Chuxing, Diamler, TMT Investments",0.7,0.9117647058823529,0.8058823529411765
+Lacework,$8.3,United States,San Jose,Cybersecurity,$1.907B,2015,4.0,,"Sutter Hill Ventures, Liberty Global Ventures, Coatue Management",0.8,0.9019607843137255,0.8509803921568628
+Tipalti,$8.3,United States,San Mateo,Fintech,$556M,2010,5.0,,"01 Advisors, Zeev Ventures, Group 11",0.9,0.8627450980392157,0.8813725490196078
+Tempus,$8.1,United States,Chicago,Health,$1.07B,2015,6.0,,"New Enterprise Associates, T. Rowe Associates, Lightbank",0.9,0.9313725490196079,0.915686274509804
+Xingsheng Selected,$8,China,Changsha,E-commerce & direct-to-consumer,$5.04B,2009,5.0,,"KKR, Tencent Holdings, Sequoia Capital China",0.8555555555555556,0.8529411764705882,0.854248366013072
+Dream11,$8,India,Mumbai,Internet software & services,$1.165B,2007,8.0,,"Kaalari Capital, Tencent Holdings, Steadview Capital",0.8444444444444444,0.8431372549019608,0.8437908496732026
+Fireblocks,$8,United States,New York,Fintech,$1.039B,2018,3.0,,"Tenaya Capital, Coatue Management, Stripes Group",0.7111111111111111,0.9313725490196079,0.8212418300653594
+Ramp,$8,United States,New York,Fintech,$827M,2019,5.0,,"D1 Capital Partners, Stripe, Coatue Management",0.8111111111111111,0.9411764705882353,0.8761437908496732
+Flexport,$8,United States,San Francisco,"Supply chain, logistics, & delivery",$2.237B,2013,6.0,,"Bloomberg Beta, Founders Fund, First Round Capital",0.7,0.9117647058823529,0.8058823529411765
+Caris Life Sciences,$7.83,United States,Irving,Health,$1.314B,1996,3.0,,"Sixth Street Partners, OrbiMed Advisors, Highland Capital Management",0.8222222222222222,0.7156862745098039,0.768954248366013
+Dapper Labs,$7.6,Canada,Vancouver,Fintech,$671.9M,2018,3.0,,"Union Square Ventures, Venrock, Andreessen Horowitz",0.06666666666666665,0.9313725490196079,0.49901960784313726
+Hopin,$7.75,United Kingdom,London,Internet software & services,$671.9M,2019,3.0,,"Accel, Northzone Ventures, Institutional Venture Partners",0.06666666666666665,0.9509803921568627,0.5088235294117647
+Getir,$7.5,Turkey,Istanbul,E-commerce & direct-to-consumer,$1.172B,2015,3.0,,"Tiger Global Management, Sequoia Capital, Revo Capital",0.8444444444444444,0.9019607843137255,0.873202614379085
+Netskope,$7.5,United States,Santa Clara,Cybersecurity,$1.04B,2012,8.0,,"Lightspeed Venture Partners, Social Capital, Accel",0.8666666666666667,0.9019607843137255,0.884313725490196
+Razorpay,$7.5,India,Bengaluru,Fintech,$741.62M,2013,6.0,,"Sequoia Capital India, Tiger Global Management, Matrix Partners India",0.7444444444444445,0.892156862745098,0.8183006535947712
+Toss,$7.4,South Korea,Seoul,Fintech,$844.2M,2013,6.0,,"Bessemer Venture Partners, Qualcomm Ventures, Kleiner Perkins Caufield & Byers",0.8222222222222222,0.9117647058823529,0.8669934640522876
+Argo AI,$7.25,United States,Pittsburgh,Artificial intelligence,$500M,2016,1.0,,"Volkswagen Group, Ford Autonomous Vehicles",0.9888888888888889,0.9313725490196079,0.9601307189542484
+Gong,$7.25,United States,Palo Alto,Artificial intelligence,$583M,2015,4.0,,"Norwest Venture Partners, Next World Capital, Wing Venture Capital",0.8666666666666667,0.9117647058823529,0.8892156862745098
+TripActions,$7.25,United States,Palo Alto,Travel,$1.04B,2015,6.0,,"Andreessen Horowitz, Lightspeed Venture Partners, Zeev Ventures",0.8666666666666667,0.9313725490196079,0.8990196078431373
+Gemini,$7.1,United States,New York,Fintech,$400M,2015,1.0,,"Morgan Creek Digital, Marcy Venture Partners, 10T Fund",0.8444444444444444,0.9019607843137255,0.873202614379085
+We Doctor,$7,China,Hangzhou,Health,$1.786B,2010,3.0,,"Tencent, Morningside Group",0.8333333333333334,0.9117647058823529,0.8725490196078431
+Discord,$7,United States,San Francisco,Internet software & services,$979.3M,2012,10.0,,"Benchmark, Greylock Partners, Tencent Holdings",0.7,0.9019607843137255,0.8009803921568628
+Ro,$7,United States,New York,Health,$1.027B,2017,5.0,,"Initialized Capital, General Catalyst, SignalFire",0.7111111111111111,0.9313725490196079,0.8212418300653594
+Automation Anywhere,$6.8,United States,San Jose,Artificial intelligence,$840M,2003,3.0,,"General Atlantic, Goldman Sachs, New Enterprise Associates",0.9222222222222223,0.8137254901960784,0.8679738562091504
+1Password,$6.8,Canada,Toronto,Cybersecurity,$920.14M,2005,2.0,,"Slack Fund, Accel, Skip Capital",0.6777777777777778,0.803921568627451,0.7408496732026144
+Ziroom,$6.6,China,Beijing,E-commerce & direct-to-consumer,$2.121B,2011,3.0,,"Sequoia Capital China, Warburg Pincus, General Catalyst",0.8777777777777778,0.892156862745098,0.8849673202614379
+Mollie,$6.5,Netherlands,Amsterdam,Fintech,$934.32M,2004,2.0,,Technology Crossover Ventures,0.8777777777777778,0.803921568627451,0.8408496732026144
+Rippling,$6.5,United States,San Francisco,Internet software & services,$447.12M,2017,4.0,,"Initialized Capital, Y Combinator, Kleiner Perkins Caufield & Byers",0.8444444444444444,0.9313725490196079,0.8879084967320261
+DataRobot,$6.3,United States,Boston,Artificial intelligence,$1.089B,2012,7.0,,"New Enterprise Associates, Accomplice, IA Ventures",0.6111111111111112,0.892156862745098,0.7516339869281046
+Personio,$6.3,Germany,Munich,Internet software & services,$524.83M,2015,4.0,,"Global Founders Capital, Nortzone Ventures, Picus Capital",0.8222222222222222,0.9019607843137255,0.8620915032679739
+Upgrade,$6.28,United States,San Francisco,Fintech,$562.5M,2016,5.0,,"Union Square Ventures, Ribbit Capital, VY Capital",0.7555555555555555,0.9411764705882353,0.8483660130718954
+Hinge Health,$6.2,United States,San Francisco,Health,$853.85M,2015,6.0,,"Atomico, Insight Partners, Coatue Management",0.8666666666666667,0.9019607843137255,0.884313725490196
+Black Unicorn Factory,$6.1,United States,Los Angeles,Other,$645M,2020,1.0,,Barter Ventures,1.0,0.9509803921568627,0.9754901960784313
+Benchling,$6.1,United States,San Francisco,Internet software & services,$412M,2012,5.0,,"Thrive Capital, Benchmark, MenloVentures",0.6888888888888889,0.8725490196078431,0.780718954248366
+Royole Corporation,$6,China,Shenzhen,Hardware,$1.414B,2012,4.0,,"Warmsun Holding, IDG Capital Partners",0.6555555555555556,0.9313725490196079,0.7934640522875818
+Better.com,$6,United States,New York,Fintech,$1.42M,2018,,,"Pine Brook, American Express Ventures, Kleiner Perkins Caufield & Byers",0.9888888888888889,0.9411764705882353,0.9650326797385621
+Wiz,$6,Israel,Tel Aviv,Cybersecurity,$600M,2020,4.0,,"Insight Partners, Sequoia Capital, Index Ventures",0.9,0.9509803921568627,0.9254901960784314
+iCapital Network,$6,United States,New York,Fintech,$729.22M,2013,2.0,,"BlackRock, Blackstone, UBS",0.7,0.8823529411764706,0.7911764705882353
+Pine Labs,$6,India,Noida,Fintech,$1.077B,1998,6.0,,"Sequoia Capital India, Temasek, PayPal Ventures",0.7333333333333334,0.7450980392156863,0.7392156862745098
+6Sense,$5.2,United States,San Francisco,Artificial intelligence,$424M,2013,6.0,,"Venrock, Battery Ventures, Insight Partners",0.8,0.8823529411764706,0.8411764705882353
+Attentive,$5.99,United States,Hoboken,Mobile & telecommunications,$864.52M,2016,2.0,,"NextView Ventures, Eniac Ventures, Sequoia Capital",0.8777777777777778,0.9215686274509804,0.8996732026143791
+Cityblock Health,$5.7,United States,Brooklyn,Health,$891.3M,2017,3.0,,"Thrive Capital, Maverick Ventures, Redpoint Ventures",0.8222222222222222,0.9313725490196079,0.876797385620915
+Workato,$5.7,United States,Mountain View,Internet software & services,$415M,2013,3.0,,"Battery Ventures, Storm Ventures, Redpoint Ventures",0.8888888888888888,0.8823529411764706,0.8856209150326797
+Back Market,$5.7,France,Paris,E-commerce & direct-to-consumer,$1.021B,2014,4.0,,"Aglae Ventures, Eurazeo, Daphni",0.8777777777777778,0.892156862745098,0.8849673202614379
+RELEX Solutions,$5.7,Finland,Helsinki,"Supply chain, logistics, & delivery",$792.36M,2005,1.0,,"Blackstone, Technology Crossover Ventures, Summit Partners",0.9666666666666667,0.7941176470588236,0.8803921568627451
+Postman,$5.6,United States,San Francisco,Internet software & services,$433M,2014,3.0,,"Nexus Venture Partners, CRV, Insight Partners",0.9222222222222223,0.9019607843137255,0.912091503267974
+FiveTran,$5.6,United States,Oakland,Data management & analytics,$728.02M,2012,3.0,,"Matrix Partners, Andreessen Horowitz, General Catalyst",0.9222222222222223,0.8823529411764706,0.9022875816993464
+Pony.ai,$5.3,United States,Fremont,Artificial intelligence,$1.093B,2016,7.0,,"Sequoia Capital China, IDG Capital, DCM Ventures",0.7333333333333334,0.9411764705882353,0.8372549019607843
+Trade Republic,$5.3,Germany,Berlin,Fintech,$986.88M,2015,1.0,,"Founders Fund. Accel, Creandum",0.9333333333333333,0.9019607843137255,0.9176470588235295
+Rappi,$5.25,Colombia,Bogota,"Supply chain, logistics, & delivery",$2.248B,2015,5.0,,"DST Global, Andreessen Horowitz, Sequoia Capital, Redpoint e.ventures",0.6222222222222222,0.9313725490196079,0.776797385620915
+Collibra,$5.25,Belgium,Brussels,Data management & analytics,$595.9M,2008,6.0,,"Index Ventures, Battery Ventures, ICONIQ Capital",0.8666666666666667,0.8529411764705882,0.8598039215686275
+OneTrust,$5.1,United States,Atlanta,Internet software & services,$937.29M,2016,3.0,,Insight Partners,0.9555555555555556,0.9313725490196079,0.9434640522875817
+QuintoAndar,$5.1,Brazil,Campinas,E-commerce & direct-to-consumer,$755.74M,2012,6.0,,"Kaszek Ventures, General Atlantic, SoftBank Group",0.8333333333333334,0.892156862745098,0.8627450980392157
+C6 Bank,$5.05,Brazil,Sao Paulo,Fintech,$755.74M,2018,6.0,,Credit Suisse,0.8333333333333334,0.9411764705882353,0.8872549019607843
+United Imaging Healthcare,$5,China,Shanghai,Health,$500M,2011,1.0,,"China Life Insurance, China Development Bank Capital, CITIC Securities International",0.9444444444444444,0.9019607843137255,0.923202614379085
+Hello TransTech,$5,China,Shanghai,Auto & transportation,$2.701B,2016,3.0,,"Ant Financial Services Group, GGV Capital",0.8666666666666667,0.9411764705882353,0.903921568627451
+Deel,$5.5,United States,San Francisco,Fintech,$625.15M,2018,3.0,,"Andreessen Horowitz, Spark Capital, Y Combinator",0.8,0.9313725490196079,0.865686274509804
+Airwallex,$5.5,Australia,Melbourne,Fintech,$802M,2015,8.0,,"DST Global, Sequoia Capital China, Tencent Holdings",0.7555555555555555,0.9215686274509804,0.838562091503268
+Mambu,$5.5,Netherlands,Amsterdam,Fintech,$445.51M,2011,4.0,,"Runa Capital, Acton Capital Partners, Point Nine Capital",0.9,0.8627450980392157,0.8813725490196078
+Horizon Robotics,$5,China,Beijing,Artificial intelligence,$2.2B,2015,2.0,,"Hillhouse Capital Management, Linear Venture, Morningside Venture Capital",0.38888888888888884,0.9215686274509804,0.6552287581699346
+WM Motor,$5,China,Shanghai,Auto & transportation,$5.987B,2015,1.0,,"Baidu Capital, Linear Venture, Tencent",0.6222222222222222,0.9215686274509804,0.7718954248366013
+Howden Group Holdings,$5,United Kingdom,London,Other,$187.26M,1994,3.0,2.0,"General Atlantic, 3i Group, Huagai Capital",0.9666666666666667,0.7058823529411764,0.8362745098039215
+SambaNova Systems,$5,United States,Palo Alto,Data management & analytics,$1.132B,2017,2.0,,"Walden International, Google Ventures, Intel Capital",0.9,0.9215686274509804,0.9107843137254903
+ZEPZ,$5,United Kingdom,London,Fintech,$692M,2010,6.0,,"Accel, Technology Crossover Ventures, LeapFrog Investments",0.9111111111111111,0.8529411764705882,0.8820261437908496
+OfBusiness,$5,India,Gurgaon,E-commerce & direct-to-consumer,$855.55M,2015,6.0,,"Matrix Partners India, Falcon Edge Capital, SoftBank Group",0.8555555555555556,0.9019607843137255,0.8787581699346405
+Cockroach Labs,$5,United States,New York,Data management & analytics,$632.85M,2015,5.0,,"Google Ventures, Benchmark, FirstMark Capital",0.8222222222222222,0.9019607843137255,0.8620915032679739
+Qonto,$5,France,Paris,Fintech,$703.39M,2016,3.0,,"Alven Capital, Valar Ventures, Tencent Holdings",0.8222222222222222,0.9019607843137255,0.8620915032679739
+Ola Electric Mobility,$5,India,Bengaluru,Auto & transportation,$822.29M,2019,3.0,,"SoftBank Group, Tiger Global Management, Matrix Partners India",0.7888888888888889,0.9607843137254902,0.8748366013071895
+Icertis,$5,United States,Bellevue,Artificial intelligence,$371.5M,2009,6.0,,"Eight Roads Ventures, Greycroft, Ignition Partners",0.8777777777777778,0.8627450980392157,0.8702614379084967
+Hopper,$5,Canada,Montreal,Travel,$614.2M,2007,6.0,,"Capital One Growth Ventures, Citi Ventures, OMERS Ventures",0.8111111111111111,0.8235294117647058,0.8173202614379085
+Meesho,$4.9,India,Bengaluru,Internet software & services,$1.061B,2015,5.0,,"Venture Highway, Sequoia Capital India, Prosus Ventures",0.7222222222222222,0.9019607843137255,0.8120915032679739
+Chipone,$4.73,China,Beijing,Hardware,$1.024B,2008,1.0,,"China Grand Prosperity Investment, Silk Road Huacheng, Oriza Equity Investment",0.6777777777777778,0.8333333333333334,0.7555555555555555
+Pleo,$4.7,Denmark,Copenhagen,Fintech,$428.8M,2015,4.0,,"Creandum, Founders, Kinnevik",0.8333333333333334,0.9019607843137255,0.8676470588235294
+Anduril,$4.6,United States,Irvine,Artificial intelligence,$828.5M,2017,4.0,,"Andreessen Horowitz, Founders Fund, Revolution Ventures",0.8555555555555556,0.9411764705882353,0.8983660130718955
+Lyra Health,$5.85,United States,Burlingame,Health,$906.13M,2015,7.0,,"Greylock Partners, Venrock, Providence Ventures",0.7666666666666666,0.9117647058823529,0.8392156862745097
+Dataiku,$4.6,United States,New York,Internet software & services,$646.6M,2013,5.0,,"Alven Capital, FirstMark Capital, capitalG",0.8333333333333334,0.9019607843137255,0.8676470588235294
+Checkr,$4.6,United States,San Francisco,Internet software & services,$559M,2014,5.0,,"Y Combinator, Accel, T. Rowe Price",0.7444444444444445,0.9117647058823529,0.8281045751633986
+Color,$4.6,United States,Burlingame,Health,$496.04M,2013,5.0,,"General Catalyst, Viking Global Investors, T. Rowe Price",0.7333333333333334,0.8823529411764706,0.807843137254902
+Vinted,$4.53,Lithuania,Vilnius,E-commerce & direct-to-consumer,$562.23M,2008,5.0,,"Accel, Insight Partners, Burda Principal Investments",0.9111111111111111,0.8529411764705882,0.8820261437908496
+VIPKid,$4.5,China,Beijing,Edtech,$975.49M,2013,3.0,,"Sequoia Capital China, Tencent Holdings, Sinovation Ventures",0.8777777777777778,0.9313725490196079,0.9045751633986928
+Socure,$4.5,United States,New York,Cybersecurity,$648.25M,2012,4.0,,"Two Sigma Ventures, Flint Capital, Commerce Ventures",0.7666666666666666,0.8725490196078431,0.8196078431372549
+Outreach,$4.4,United States,Seattle,Internet software & services,$489.78M,2011,9.0,,"Mayfield Fund, M12, Trinity Ventures",0.7111111111111111,0.8823529411764706,0.7967320261437909
+WeRide,$4.4,China,Guangzhou,Auto & transportation,$789M,2017,6.0,,"Atop Capital, IDInvest Partners, Qiming Venture Partners",0.6777777777777778,0.9313725490196079,0.8045751633986928
+BetterUp,$4.7,United States,San Francisco,Internet software & services,$566.9M,2013,4.0,,"Threshold Ventures, Lightspeed Venture Partners, Crosslink Capital",0.8111111111111111,0.8823529411764706,0.8467320261437908
+Arctic Wolf Networks,$4.3,United States,Eden Prairie,Cybersecurity,$498.25M,2012,4.0,,"Lightspeed Venture Partners, Redpoint Ventures, Viking Global Investors",0.8555555555555556,0.8823529411764706,0.8689542483660131
+Sorare,$4.3,France,Paris,E-commerce & direct-to-consumer,$737.08M,2019,1.0,,"Benchmark, Accel, SoftBank Group",0.7444444444444445,0.9411764705882353,0.8428104575163399
+Relativity Space,$4.2,United States,Inglewood,Other,$1.385B,2016,4.0,,"Playground Global, Bond, Tribe Capital",0.6222222222222222,0.9215686274509804,0.7718954248366013
+Miaoshou Doctor,$4.25,China,Beijing,E-commerce & direct-to-consumer,$971.14M,2015,4.0,,"Sequoia Capital China, Qiming Venture Partners, Tencent Holdings",0.7777777777777778,0.9215686274509804,0.8496732026143792
+Chainalysis,$4.2,United States,New York,Fintech,$366.72M,2014,4.0,,"Addition, Benhcmark, Accel",0.7333333333333334,0.9019607843137255,0.8176470588235294
+ThoughtSpot,$4.2,United States,Sunnyvale,Internet software & services,$673.7M,2012,7.0,,"Lightspeed Venture Partners, Khosla Ventures, Geodesic Capital",0.7888888888888889,0.9019607843137255,0.8454248366013072
+Globalization Partners,$4.2,United States,Boston,Internet software & services,$353.5M,2012,1.0,,"Vista Equity Partners, Wincove, TDR Capital",0.9555555555555556,0.8627450980392157,0.9091503267973857
+dbt Labs,$4.2,United States,Philadelphia,Data management & analytics,$415.9M,2016,2.0,,"Andreessen Horowitz, Amplify Partners, Sequoia Capital",0.8777777777777778,0.9117647058823529,0.8947712418300653
+SSENSE,$4.15,Canada,Montreal,E-commerce & direct-to-consumer,$415.9M,2003,2.0,,Sequoia Capital,0.8777777777777778,0.7843137254901961,0.8310457516339869
+Dataminr,$4.1,United States,New York,Artificial intelligence,$1.044B,2009,6.0,,"Venrock, Institutional Venture Partners, Goldman Sachs",0.6222222222222222,0.8725490196078431,0.7473856209150327
+BitPanda,$4.11,Austria,Vienna,Fintech,$497.43M,2014,2.0,,"Speedinvest, Valar Ventures, Uniqa Ventures",0.8777777777777778,0.892156862745098,0.8849673202614379
+Weee!,$4.1,United States,Fremont,"Supply chain, logistics, & delivery",$836.3M,2015,3.0,,"Goodwater Capital, iFly, XVC Venture Capital",0.8555555555555556,0.9019607843137255,0.8787581699346405
+Houzz,$4,United States,Palo Alto,E-commerce & direct-to-consumer,$613.6M,2008,5.0,,"New Enterprise Associates, Sequoia Capital, Comcast Ventures",0.8111111111111111,0.9019607843137255,0.8565359477124184
+CRED,$4.01,India,Bengaluru,Fintech,$613.6M,2018,5.0,,"Tiger Global Management, DST Global, Sequoia Capital India",0.8111111111111111,0.9313725490196079,0.8712418300653595
+MEGVII,$4,China,Beijing,Artificial intelligence,$1.358B,2011,6.0,,"Ant Financial Services Group, Russia-China Investment Fund, Foxconn Technology Company",0.8111111111111111,0.9019607843137255,0.8565359477124184
+Greensill,$4,United Kingdom,London,Fintech,$1.705B,2011,2.0,2.0,"SoftBank Group, General Atlantic",0.9888888888888889,0.892156862745098,0.9405228758169935
+Impossible Foods,$4,United States,Redwood City,Consumer & retail,$2.006B,2011,7.0,,"Khosla Ventures, Horizons Ventures, Temasek Holdings",0.5888888888888889,0.8823529411764706,0.7356209150326798
+Radiology Partners,$4,United States,El Segundo,Health,$1.347B,2012,1.0,,"New Enterprise Associates, Starr Investment Holdings",0.9666666666666667,0.892156862745098,0.9294117647058824
+Next Insurance,$4,United States,Palo Alto,Fintech,$881M,2016,6.0,,"Zeev Ventures, Ribbit Capital, TLV Partners",0.8222222222222222,0.9313725490196079,0.876797385620915
+PointClickCare,$4,Canada,Mississauga,Internet software & services,$86.88M,2000,1.0,,"Dragoneer Investment Group, Hellman & Friedman, JMI Equity",0.9777777777777777,0.7549019607843137,0.8663398692810458
+Zapier,$4,United States,Sunnyvale,Internet software & services,$2.58M,2011,1.0,,"Sequoia Capital, Bessemer Venture Partners, Threshold Ventures",0.9444444444444444,0.8627450980392157,0.9035947712418301
+Clubhouse,$4,United States,San Francisco,Mobile & telecommunications,$2.58M,2020,1.0,,"Andreessen Horowitz, TQ Ventures",0.9444444444444444,0.9509803921568627,0.9477124183006536
+BrowserStack,$4,Ireland,Dublin,Internet software & services,$250M,2011,2.0,,"Accel, Insight Partners, Bond Capital",0.9777777777777777,0.8627450980392157,0.9202614379084968
+Rubrik,$4,United States,Palo Alto,Data management & analytics,$553M,2014,6.0,,"Greylock Partners, Lightspeed Venture Partners, Khosla Ventures",0.9,0.9313725490196079,0.915686274509804
+Melio,$4,United States,New York,Fintech,$504M,2018,2.0,,"Accel, Aleph, American Express Ventures",0.8666666666666667,0.9313725490196079,0.8990196078431373
+Vuori,$4,United States,Carlsbad,E-commerce & direct-to-consumer,$802M,2015,8.0,,"SoftBank Group, Norwest Venture Partners",0.7555555555555555,0.9019607843137255,0.8287581699346405
+ClickUp,$4,United States,San Diego,Internet software & services,$535M,2017,2.0,,"Georgian Partners, Craft Ventures",0.9444444444444444,0.9313725490196079,0.9379084967320261
+Cerebras Systems,$4,United States,Los Altos,Hardware,$718M,2016,3.0,,"Benchmark, Foundation Capital, Sequoia Capital",0.8555555555555556,0.9411764705882353,0.8983660130718955
+Farmers Business Network,$4,United States,San Carlos,Other,$739.6M,2014,5.0,,"Blackrock, Kleiner Perkins Caulfield & Byers, Google Ventures",0.7777777777777778,0.9019607843137255,0.8398692810457516
+Branch,$4,United States,Redwood City,Mobile & telecommunications,$542M,2014,5.0,,"New Enterprise Associates, Pear, Cowboy Ventures",0.8444444444444444,0.9215686274509804,0.8830065359477124
+Aurora Solar,$4,United States,San Francisco,Internet software & services,$520.4M,2013,2.0,,"Fifth Wall Ventures, Energize Ventures, 	ICONIQ Capital",0.9111111111111111,0.8823529411764706,0.8967320261437908
+Medlinker,$3.92,China,Chengdu,Health,$764.74M,2014,6.0,,"China Health Industry Investment Fund, China Renaissance, and Sequoia Capital China",0.9,0.9215686274509804,0.9107843137254903
+Intarcia Therapeutics,$3.8,United States,Boston,Health,$1.487B,1995,14.0,,"New Enterprise Associates, New Leaf Venture Partners, Charter Venture Capital",0.5888888888888889,0.7745098039215687,0.6816993464052288
+StockX,$3.8,United States,Detroit,E-commerce & direct-to-consumer,$520M,2016,4.0,,"Google Ventures, Battery Ventures, DST Global",0.6777777777777778,0.9313725490196079,0.8045751633986928
+MessageBird,$3.8,Netherlands,Amsterdam,Mobile & telecommunications,$1.1B,2011,3.0,,"Y Combinator, Atomico, Accel",0.8444444444444444,0.8725490196078431,0.8584967320261438
+Guild Education,$3.75,United States,Denver,Internet software & services,$376.5M,2015,5.0,,"General Atlantic, Blackstone, ICONIQ Growth",0.7333333333333334,0.9215686274509804,0.8274509803921569
+Articulate,$3.75,United States,New York,Edtech,$376.5M,2015,5.0,,"Blackstone, ICONIQ Growth, General Atlantic",0.7333333333333334,0.9019607843137255,0.8176470588235294
+FalconX,$3.75,United States,San Mateo,Fintech,$277M,2018,2.0,,"Tiger Global Management, American Express Ventures, B Capital Group",0.8444444444444444,0.9313725490196079,0.8879084967320261
+Dutchie,$3.75,United States,Bend,E-commerce & direct-to-consumer,$603M,2017,2.0,,"Casa Verde Capital, Gron Ventures, Thrity Five Ventures",0.8555555555555556,0.9215686274509804,0.888562091503268
+Cohesity,$3.7,United States,San Jose,Data management & analytics,$660M,2013,6.0,,"SoftBank Group, Sequoia Capital, Wing Venture Capital",0.7666666666666666,0.9117647058823529,0.8392156862745097
+VAST Data,$3.7,United States,New York,Data management & analytics,$263M,2016,2.0,,"Norwest Venture Partners, Goldman Sachs, Dell Technologies Capital",0.8888888888888888,0.9215686274509804,0.9052287581699346
+GOAT,$3.7,United States,Culver City,E-commerce & direct-to-consumer,$491.62M,2015,6.0,,"Upfront Ventures, Webb Investment Network, D1 Capital Partners",0.7,0.9117647058823529,0.8058823529411765
+Noom,$3.7,United States,New York,Health,$627.8M,2006,3.0,,"Qualcomm Ventures, Samsung Ventures, Silver Lake",0.7,0.8137254901960784,0.7568627450980392
+Redwood Materials,$3.7,United States,Carson City,Other,$792M,2017,1.0,,"Breakthrough Energy Ventures, Capricorn Investment Group, Valor Equity Partners",0.8777777777777778,0.9215686274509804,0.8996732026143791
+Papaya Global,$3.7,United States,New York,Internet software & services,$438M,2016,2.0,,"Bessemer Venture Partners, Insight Partners, New Era Ventures",0.8333333333333334,0.9117647058823529,0.8725490196078431
+ShareChat,$3.7,India,Bengaluru,Internet software & services,$1.277B,2015,7.0,,"India Quotient, Elevation Capital, Lightspeed Venture Partners",0.7666666666666666,0.9019607843137255,0.834313725490196
+Relativity,$3.6,United States,Chicago,Internet software & services,$125M,2001,1.0,,"Silver Lake, ICONIQ Capital",0.9888888888888889,0.7647058823529411,0.876797385620915
+Whoop,$3.6,United States,Boston,E-commerce & direct-to-consumer,$404.38M,2012,6.0,,"NextView Ventures, Promus Ventures, Two Sigma Ventures",0.6111111111111112,0.8823529411764706,0.7467320261437909
+Applied Intuition,$3.6,United States,Sunnyvale,Data management & analytics,$340M,2017,2.0,,"Andreessen Horowitz, Lux Capital, General Catalyst",0.7777777777777778,0.9313725490196079,0.8545751633986929
+Course Hero,$3.6,United States,Redwood City,Edtech,$475.68M,2006,4.0,,"NewView Capital, Maveron, Ridge Ventures",0.8222222222222222,0.8235294117647058,0.822875816993464
+Otto Bock HealthCare,$3.52,Germany,Duderstadt,Health,$815.49M,1919,1.0,,EQT Partners,0.9888888888888889,0.0,0.49444444444444446
+Indigo Ag,$3.5,United States,Boston,Artificial intelligence,$1.177B,2014,5.0,,"Activant Capital Group, Alaska Permanent Fund, Baillie Gifford & Co.",0.9,0.9313725490196079,0.915686274509804
+HyalRoute,$3.5,Singapore,Singapore,Mobile & telecommunications,$263.12M,2015,1.0,,Kuang-Chi,1.0,0.9117647058823529,0.9558823529411764
+Rec Room,$3.5,United States,Seattle,Internet software & services,$294.82M,2016,3.0,,"First Round Capital, Sequoia Capital, Index Ventures",0.8666666666666667,0.9117647058823529,0.8892156862745098
+Digit Insurance,$3.5,India,Bengaluru,Fintech,$424.16M,2016,5.0,,"Fairfax Financial Holdings, A91 Partners, TVS Capital",0.8444444444444444,0.9117647058823529,0.8781045751633987
+Commure,$3.5,United States,San Francisco,Internet software & services,$743.89M,2017,2.0,,"General Catalyst, HCA Healthcare",0.9888888888888889,0.9215686274509804,0.9552287581699347
+Mirakl,$3.5,France,Paris,E-commerce & direct-to-consumer,$948M,2011,4.0,,"Elaia Partners, 83North, Felix Capital",0.9444444444444444,0.8725490196078431,0.9084967320261438
+Coalition,$3.5,United States,San Francisco,Cybersecurity,$520M,2017,4.0,,"Two Sigma Ventures, Flint Capital, Commerce Ventures",0.8555555555555556,0.9215686274509804,0.888562091503268
+Tekion,$3.5,United States,San Ramon,Internet software & services,$400M,2016,2.0,,"Airbus Ventures, Index Ventures, Advent International",0.8555555555555556,0.9215686274509804,0.888562091503268
+Celsius Network,$3.5,United States,Hoboken,Fintech,$778.8M,2017,3.0,,"WestCap Group, Caisse de depot et placement du Quebec",0.9666666666666667,0.9215686274509804,0.9441176470588235
+GoStudent,$3.5,Austria,Vienna,Edtech,$684.79M,2017,3.0,,"DN Capital, Left Lane Capital, Coatue Management",0.8666666666666667,0.9215686274509804,0.8941176470588236
+Highspot,$3.5,United States,Seattle,Internet software & services,$652.85M,2013,5.0,,"Madrona Venture Group, Shasta Ventures, Salesforce Ventures",0.8666666666666667,0.8823529411764706,0.8745098039215686
+Handshake,$3.5,United States,San Francisco,Internet software & services,$430.5M,2014,6.0,,"Kleiner Perkins Caufield & Byers, Lightspeed Venture Partners, True Ventures",0.8333333333333334,0.892156862745098,0.8627450980392157
+ChargeBee Technologies,$3.5,United States,Walnut,Fintech,$468.65M,2011,4.0,,"Insight Partners, Tiger Global Management, Accel",0.9444444444444444,0.8627450980392157,0.9035947712418301
+Flock Safety,$3.5,United States,Atlanta,Hardware,$382.14M,2017,2.0,,"Matrix Partners, Initialized Capital, Tiger Global Management",0.8444444444444444,0.9215686274509804,0.8830065359477124
+Unacademy,$3.44,India,Bengaluru,Edtech,$875.73M,2015,9.0,,"Blume Ventures, Nexus Venture Partners, Sequoia Capital India",0.6333333333333333,0.9117647058823529,0.7725490196078431
+MoonPay,$3.4,United States,Miami,Fintech,$555M,2019,1.0,,"New Enterprise Associates, Coatue Management, Tiger Global Management",0.9444444444444444,0.9411764705882353,0.9428104575163399
+Upstox,$3.4,India,Mumbai,Fintech,$54M,2010,2.0,,"Tiger Global Management, Kalaari Capital",0.9666666666666667,0.8529411764705882,0.9098039215686274
+Youxia Motors,$3.35,China,Shanghai,Auto & transportation,$1.326B,2014,2.0,,"China Environmental Protection Industry, China Fortune Ocean",0.9333333333333333,0.9215686274509804,0.9274509803921569
+OwnBackup,$3.35,United States,Englewood Cliffs,Data management & analytics,$507.25M,2015,4.0,,"Insight Partners, Salesforce Ventures, Vertex Ventures",0.8777777777777778,0.9019607843137255,0.8898692810457516
+Cloudwalk,$3.32,China,Guangzhou,Artificial intelligence,$778.82M,2015,1.0,,"Oriza Holdings, Guangdong Technology Financial Group",0.5888888888888889,0.9313725490196079,0.7601307189542483
+ECARX,$3.31,China,Wuhan,Auto & transportation,$443.67M,2016,3.0,,"Geely, SIG Asia Investments, China State Capital Venture Capital Fund",0.9444444444444444,0.9215686274509804,0.9330065359477124
+Sila Nanotechnologies,$3.3,United States,Alameda,Other,$930.83M,2011,2.0,,"Bessemer Venture Partners, Sutter Hill Ventures, Matrix Partners",0.8444444444444444,0.8823529411764706,0.8633986928104576
+Komodo Health,$3.3,United States,San Francisco,Health,$315M,2014,1.0,,"Andreessen Horowitz, IA Ventures, Felicis Ventures",0.9,0.9019607843137255,0.9009803921568628
+Kurly,$3.3,South Korea,Seoul,"Supply chain, logistics, & delivery",$769.86M,2014,6.0,,"Sequoia Capital China, DST Global, DST Global",0.7888888888888889,0.892156862745098,0.8405228758169934
+Cars24,$3.3,India,Gurgaon,E-commerce & direct-to-consumer,$1.296B,2015,5.0,,"Moore Strategic Ventures, DST Global, Sequoia Capital India",0.6777777777777778,0.9117647058823529,0.7947712418300654
+BlockDaemon,$3.25,United States,Los Angeles,Fintech,$401.54M,2016,2.0,,"BOLDstart Ventures, Lerer Hippeau, Kenetic Capital",0.6333333333333333,0.9117647058823529,0.7725490196078431
+Dadi Cinema,$3.24,China,Shenzhen,Other,$154M,2006,1.0,,Alibaba Pictures Group,1.0,0.8627450980392157,0.9313725490196079
+Thumbtack,$3.2,United States,San Francisco,E-commerce & direct-to-consumer,$698.85M,2008,9.0,,"Tiger Global, Sequoia Capital, Google Capital",0.7222222222222222,0.892156862745098,0.8071895424836601
+Cedar,$3.2,United States,New York,Fintech,$350.81M,2016,3.0,,"Thrive Capital, Founders Fund, Cocnord Health Partners",0.8333333333333334,0.9117647058823529,0.8725490196078431
+Eruditus Executive Education,$3.2,India,Mumbai,Edtech,$593.46M,2010,5.0,,"Sequoia Capital India, Softbank, Bertelsmann India Investments",0.8666666666666667,0.8529411764705882,0.8598039215686275
+Blockstream,$3.2,Canada,Vancouver,Fintech,$311M,2014,4.0,,"AME Cloud Ventures, Future Perfect Ventures, Blockchain Capital",0.7555555555555555,0.892156862745098,0.8238562091503268
+ConsenSys,$3.2,United States,New York,Fintech,$282.5M,2014,1.0,,"Third Point, Electric Capital, Coinbase Ventures",0.7444444444444445,0.892156862745098,0.8183006535947712
+Innovaccer,$3.2,United States,San Francisco,Health,$375.68M,2014,4.0,,"M12, WestBridge Capital, Lightspeed Venture Partners",0.7111111111111111,0.892156862745098,0.8016339869281046
+Ironclad,$3.2,United States,Sacramento,Internet software & services,$331.12M,2014,3.0,,"Accel, Sequoia Capital, Y Combinator",0.9,0.8823529411764706,0.8911764705882352
+Skims,$3.2,United States,Los Angeles,E-commerce & direct-to-consumer,$394M,2019,2.0,,"Thrive Capital, Alliance Consumer Growth, Imaginary Ventures",0.9555555555555556,0.9411764705882353,0.9483660130718954
+PsiQuantum,$3.15,United States,Palo Alto,Hardware,$728.5M,2016,1.0,,"Playground Global, M12, BlackRock",0.9,0.9117647058823529,0.9058823529411765
+SpotOn,$3.15,United States,San Francisco,Fintech,$600M,2017,3.0,,"Dragoneer Investment Group, DST Global, Franklin Templeton",0.8666666666666667,0.9215686274509804,0.8941176470588236
+Udaan,$3.1,India,Bengaluru,"Supply chain, logistics, & delivery",$1.447B,2016,5.0,,"DST Global, Lightspeed Venture Partners, Microsoft ScaleUp",0.7777777777777778,0.9411764705882353,0.8594771241830066
+HighRadius,$3.1,United States,Houston,Fintech,$475M,2006,2.0,,"Susquehanna Growth Equity, Citi Ventures, ICONIQ Capital",0.8888888888888888,0.8235294117647058,0.8562091503267973
+Nuvemshop,$3.1,Brazil,Sao Paulo,E-commerce & direct-to-consumer,$628.3M,2011,2.0,,"Kaszek Ventures, Qualcomm Ventures, Accel",0.7444444444444445,0.8627450980392157,0.8035947712418301
+DailyHunt,$3.1,India,Bengaluru,Internet software & services,$868.67M,2007,7.0,,"Falcon Edge Capital, Omidyar Network, Sequoia Capital India",0.7444444444444445,0.8333333333333334,0.788888888888889
+Yixia,$3,China,Beijing,Mobile & telecommunications,$775M,2011,2.0,,"Sequoia Capital China, Sina Weibo, Kleiner Perkins Caufield & Byers, Redpoint Ventures",0.9,0.9215686274509804,0.9107843137254903
+Traveloka,$3,Indonesia,Jakarta,Travel,$1.17B,2012,3.0,,"Global Founders Capital, East Ventures, Expedia Inc.",0.9222222222222223,0.9117647058823529,0.9169934640522877
+SouChe Holdings,$3,China,Hangzhou,E-commerce & direct-to-consumer,$1.282B,2012,2.0,,"Morningside Ventures, Warburg Pincus, CreditEase Fintech Investment Fund",0.7666666666666666,0.9117647058823529,0.8392156862745097
+Zuoyebang,$3,China,Beijing,Edtech,$3.435B,2014,2.0,,"Sequoia Capital China, Xiang He Capital, GGV Capital",0.8222222222222222,0.9215686274509804,0.8718954248366013
+Delhivery,$3,India,Gurgaon,"Supply chain, logistics, & delivery",$1.361B,2011,5.0,,"Times Internet, Nexus Venture Partners, SoftBank Group",0.8333333333333334,0.8823529411764706,0.857843137254902
+FlixMobility,$3,Germany,Munich,Auto & transportation,$1.211B,2013,3.0,,"Holtzbrinck Ventures, Unternehmertum Venture Capital, General Atlantic",0.8333333333333334,0.9019607843137255,0.8676470588235294
+Wildlife Studios,$3,Brazil,Sao Paulo,Other,$180M,2011,2.0,,"Benchmark, Bessemer Venture Partners",0.9111111111111111,0.8823529411764706,0.8967320261437908
+ApplyBoard,$3,Canada,Kitchener,Edtech,$479.91M,2015,3.0,,"Artiman Ventures, Plug and Play Ventures, Anthos Capital",0.8,0.9117647058823529,0.8558823529411765
+Forter,$3,United States,New York,Cybersecurity,$525M,2013,4.0,,"Sequoia Capital Israel, Scale Venture Partners, Commerce Ventures",0.8222222222222222,0.892156862745098,0.8571895424836601
+Calendly,$3,United States,Atlanta,Internet software & services,$350.55M,2013,1.0,,"ICONIQ Capital, OpenView Venture Partners",0.9666666666666667,0.8823529411764706,0.9245098039215687
+BlockFi,$3,United States,Jersey City,Fintech,$512.75M,2017,3.0,,"ConsenSys Ventures, Valar Ventures, PUC",0.5222222222222221,0.9215686274509804,0.7218954248366013
+ActiveCampaign,$3,United States,Chicago,Internet software & services,$360M,2003,1.0,,"Silversmith Capital Partners, Susquehanna Growth Equity, Tiger Global Management",0.9666666666666667,0.7843137254901961,0.8754901960784314
+CMR Surgical,$3,United Kingdom,Cambridge,Health,$986.3M,2014,4.0,,"Cambridge Innovation Capital, LGT Capital Partners, Escala Capital",0.8555555555555556,0.9117647058823529,0.8836601307189542
+Lucid Software,$3,United States,South Jordan,Internet software & services,$166M,2010,4.0,,"Spectrum Equity, ICONIQ Capital, Grayhawk Capital",0.8555555555555556,0.8529411764705882,0.854248366013072
+Age of Learning,$3,United States,Glendale,Edtech,$481.5M,2007,2.0,,Iconiq Capital,0.9666666666666667,0.8725490196078431,0.919607843137255
+Carbon Health,$3,United States,San Francisco,Health,$523.18M,2015,2.0,,"Brookfield Asset Management, Blackstone, Data Collective",0.6111111111111112,0.9019607843137255,0.7565359477124183
+Contentful,$3,Germany,Berlin,Internet software & services,$331M,2013,3.0,,"Balderton Capital, General Catalyst, Tiger Global Management",0.8666666666666667,0.8823529411764706,0.8745098039215686
+LaunchDarkly,$3,United States,Oakland,Internet software & services,$330.34M,2014,4.0,,"Uncork Capital, Threshold Ventures, Bloomberg Beta",0.8666666666666667,0.892156862745098,0.8794117647058823
+Seismic,$3,United States,San Diego,Internet software & services,$426.5M,2010,6.0,,"Jackson Square Ventures, General Atlantic, Lightspeed Venture Partners",0.9222222222222223,0.8823529411764706,0.9022875816993464
+Grafana Labs,$3,United States,New York,Internet software & services,$330.23M,2014,1.0,,"Lightspeed Venture Partners, Lead Edge Capital, Coatue Management",0.9555555555555556,0.892156862745098,0.9238562091503268
+Gorillas,$3.1,Germany,Berlin,E-commerce & direct-to-consumer,$1.335B,2020,2.0,,"Coatue Management, Atlantic Food Labs, DST Global",0.8555555555555556,0.9509803921568627,0.9032679738562092
+Sky Mavis,$3,Vietnam,Ho Chi Minh City,Internet software & services,$161M,2019,1.0,,"Fabric Ventures, 500 Global, Standard Crypto",0.8111111111111111,0.9411764705882353,0.8761437908496732
+Outschool,$3,United States,San Francisco,Edtech,$240.02M,2015,2.0,,"Uniion Square Ventures, Tiger Global Management, Lightspeed Venture Capital",0.8666666666666667,0.9019607843137255,0.884313725490196
+TradingView,$3,United States,Westerville,Fintech,$339.37M,2011,4.0,,"Tiger Global Management, Insight Partners, Jump Capital",0.9,0.8627450980392157,0.8813725490196078
+Groww,$3,India,Bengaluru,Fintech,$399.89M,2017,3.0,,"Tiger Global Management, Sequoia Capital India, Ribbit Capital",0.8222222222222222,0.9215686274509804,0.8718954248366013
+Podium,$3,United States,Lehi,Internet software & services,$422.22M,2014,4.0,,"Accel, Summit Partners, Google Ventures",0.8777777777777778,0.9019607843137255,0.8898692810457516
+Via,$3.3,United States,New York,Auto & transportation,$697.06M,2012,6.0,,"83North, RiverPark Ventures, Pitango Venture Capital",0.7555555555555555,0.8823529411764706,0.818954248366013
+Anchorage Digital,$3,United States,San Francisco,Fintech,$487M,2017,1.0,,"Andreessen Horowitz, Blockchain Capital, Lux Capital",0.7,0.9215686274509804,0.8107843137254902
+Inxeption,$3,United States,San Francisco,Fintech,$486.5M,2017,1.0,,"Coatue Management, BMO Capital, Schonfeld Strategic Advisors",0.9555555555555556,0.9117647058823529,0.9336601307189543
+Lattice,$3,United States,San Francisco,Internet software & services,$329.32M,2015,6.0,,"Khosla Ventures, Thrive Capital, Y Combinator",0.8222222222222222,0.9019607843137255,0.8620915032679739
+Flutterwave,$3,United States,San Francisco,Fintech,$474.71M,2016,5.0,,"Green Visor Capital, CRE Venture Capital, Greycroft",0.5555555555555556,0.9117647058823529,0.7336601307189543
+Amber Group,$3,Hong Kong,China,Fintech,$328M,2015,3.0,,"Tiger Global Management, Tiger Brokers, DCM Ventures",0.8111111111111111,0.9019607843137255,0.8565359477124184
+Kraken,$2.92,United States,San Francisco,Fintech,$18.57M,2011,1.0,,"Bnk To The Future, Trammell Ventures, SBI Investment",0.8888888888888888,0.8823529411764706,0.8856209150326797
+OpenAI,$2.92,United States,San Francisco,Artificial intelligence,$1.25B,2015,,,Khosla Ventures,0.9444444444444444,0.9215686274509804,0.9330065359477124
+Workrise,$2.9,United States,Austin,Internet software & services,$752.5M,2014,5.0,,"Founders Fund, Quantum Energy Partners, Bedrock Capital",0.8333333333333334,0.9117647058823529,0.8725490196078431
+Loft,$2.9,Brazil,Sao Paulo,E-commerce & direct-to-consumer,$788M,2018,4.0,,"Monashees+, Andreessen Horowitz, QED Investors",0.6333333333333333,0.9411764705882353,0.7872549019607843
+BharatPe,$2.85,India,New Delhi,Fintech,$702.25M,2018,4.0,,"Insight Partners, Sequoia Capital India, BEENEXT",0.7666666666666666,0.9313725490196079,0.8490196078431372
+DriveWealth,$2.85,United States,Chatham,Fintech,$537.71M,2012,3.0,,"Point72 Ventures, Route 66 Ventures, Accel",0.8666666666666667,0.8725490196078431,0.8696078431372549
+Flink,$2.85,Germany,Berlin,E-commerce & direct-to-consumer,$1.042B,2021,1.0,,"Mubadala Capital, Bond, Prosus Ventures",0.9,0.9607843137254902,0.9303921568627451
+Meicai,$2.8,China,Beijing,Mobile & telecommunications,$651.6M,2014,1.0,,"Tiger Global Management, Blue Lake Capital, ZhenFund",0.9111111111111111,0.9411764705882353,0.9261437908496732
+ContentSquare,$2.8,France,Paris,Internet software & services,$812M,2012,3.0,,"Highland Europe, Eurazeo, Canaan Partners",0.8888888888888888,0.8725490196078431,0.880718954248366
+Zipline,$2.8,United States,South San Francisco,"Supply chain, logistics, & delivery",$487.16M,2014,4.0,,"Sequoia Capital, Baillie Gifford & Co., Google Ventures",0.6,0.9117647058823529,0.7558823529411764
+Graphcore,$2.77,United Kingdom,Bristol,Artificial intelligence,$682M,2016,5.0,,"Dell Technologies Capital, Pitango Venture Capital, Amadeus Capital Partners",0.6888888888888889,0.9411764705882353,0.8150326797385621
+Illumio,$2.75,United States,Sunnyvale,Cybersecurity,$557.15M,2013,5.0,,"Data Collective, Formation 8, General Catalyst Partners",0.8111111111111111,0.9411764705882353,0.8761437908496732
+Convoy,$2.75,United States,Seattle,"Supply chain, logistics, & delivery",$675.46M,2015,4.0,,"Greylock Partners, capitalG, Y Combinator",0.5333333333333333,0.9313725490196079,0.7323529411764707
+MasterClass,$2.75,United States,San Francisco,Edtech,$461.4M,2015,4.0,,"Institutional Venture Partners, New Enterprise Associates, Javelin Venture Partners",0.6666666666666667,0.9019607843137255,0.7843137254901962
+Dream Games,$2.75,Turkey,Istanbul,Mobile & telecommunications,$467.2M,2019,3.0,,"Makers Fund, Index Ventures, Inova Ventures Participacees",0.9444444444444444,0.9411764705882353,0.9428104575163399
+Transmit Security,$2.74,Israel,Tel Aviv,Cybersecurity,$583M,2014,1.0,,"General Atlantic, Insight Partners, Vintage Investment Partners",0.8888888888888888,0.892156862745098,0.8905228758169934
+Hozon Auto,$3.95,China,Shanghai,Auto & transportation,$3.146B,2014,2.0,,"HD Capital, Qihoo 360 Technology, China Fortune Land Development",0.8666666666666667,0.892156862745098,0.8794117647058823
+Tradeshift,$2.7,United States,San Francisco,Fintech,$1.103B,2009,9.0,,"Notion Capital, Scentan Ventures, Kite Ventures",0.7,0.8725490196078431,0.7862745098039216
+Nextiva,$2.7,United States,Scottsdale,Internet software & services,$207.5M,2008,1.0,,Goldman Sachs Asset Management,0.9888888888888889,0.8333333333333334,0.9111111111111112
+o9 Solutions,$2.7,United States,Dallas,Artificial intelligence,$420M,2009,2.0,,KKR,0.9777777777777777,0.8529411764705882,0.915359477124183
+ManoMano,$2.6,France,Paris,E-commerce & direct-to-consumer,$708.73M,2013,3.0,,"General Atlantic, Piton Capital, Partech Partners",0.8777777777777778,0.8823529411764706,0.8800653594771242
+Sourcegraph,$2.62,United States,San Francisco,Internet software & services,$223M,2013,2.0,,"Redpoint Ventures, Goldcrest Capital, Insight Partners",0.9222222222222223,0.8823529411764706,0.9022875816993464
+Pendo,$2.6,United States,Raleigh,Internet software & services,$359.17M,2013,4.0,,"Contour Venture Partners, Battery Ventures, Core Capital Partners",0.8111111111111111,0.9019607843137255,0.8565359477124184
+Plume,$2.6,United States,Palo Alto,Internet software & services,$712.93M,2015,6.0,,"Insight Partners, Jackson Square Ventures, Liberty Gloval Ventures",0.8444444444444444,0.9019607843137255,0.873202614379085
+Moglix,$2.6,Singapore,Singapore,E-commerce & direct-to-consumer,$470.71M,2015,6.0,,"Jungle Ventures, Accel, Venture Highway",0.8333333333333334,0.9019607843137255,0.8676470588235294
+JumpCloud,$2.62,United States,Louisville,Data management & analytics,$418.45M,2012,4.0,,"Foundry Group, General Atlantic, BlackRock",0.7888888888888889,0.8725490196078431,0.830718954248366
+Vista Global,$2.5,United Arab Emirates,Dubai,Other,$418.45M,2004,4.0,,Rhone Capital,0.7888888888888889,0.8333333333333334,0.8111111111111111
+BYTON,$2.5,China,Nanjing,Auto & transportation,$1.208B,2016,3.0,,"FAW Group, Tencent Holdings, Tus Holdings",0.8888888888888888,0.9411764705882353,0.9150326797385621
+Acronis,$2.5,Switzerland,Schaffhausen,Cybersecurity,$427.51M,2003,2.0,,"Goldman Sachs, VebVentures, Insight Partners",0.9222222222222223,0.803921568627451,0.8630718954248366
+Side,$2.5,United States,San Francisco,Internet software & services,$262.82M,2017,2.0,,"Coatue Managemeny, Trinity Ventures, Matrix Partners",0.9,0.9215686274509804,0.9107843137254903
+Infra.Market,$2.5,India,Thane,E-commerce & direct-to-consumer,$381.4M,2016,2.0,,"Accel, Tiger Global Management, Nexus Venture Partners",0.7222222222222222,0.9117647058823529,0.8169934640522876
+Varo Bank,$2.5,United States,San Francisco,Fintech,$991.33M,2015,3.0,,"Warburg Pincus, The Rise Fund, HarbourVest Partners",0.8555555555555556,0.9019607843137255,0.8787581699346405
+Cato Networks,$2.5,Israel,Tel Aviv,Cybersecurity,$512M,2015,4.0,,"Aspect Ventures, SingTel Innov8, Greylock Partners",0.9,0.9117647058823529,0.9058823529411765
+Aura,$2.5,United States,Burlington,Cybersecurity,$561.82M,2019,2.0,,"Warburg Pincus, General Catalyst",0.9444444444444444,0.9411764705882353,0.9428104575163399
+Vercel,$2.5,United States,San Francisco,Internet software & services,$313M,2015,2.0,,"CRV, Accel, Google Ventures",0.8333333333333334,0.9019607843137255,0.8676470588235294
+Sysdig,$2.5,United States,San Francisco,Cybersecurity,$728.2M,2013,4.0,,"Accel, Bain Capital Ventures, Insight Partners",0.8777777777777778,0.8823529411764706,0.8800653594771242
+Zetwerk,$2.5,India,Bengaluru,Internet software & services,$656.67M,2018,3.0,,"Sequoia Capital India, Kae Capital, Accel",0.7444444444444445,0.9313725490196079,0.8379084967320262
+Uniphore,$2.5,United States,Palo Alto,Artificial Intelligence,$626.63M,2008,3.0,,"Chiratae Ventures, March Capital Partners, National Grid Partners",0.7333333333333334,0.8235294117647058,0.7784313725490196
+Somatus,$2.5,United States,McLean,Health,$465M,2016,3.0,,"The Blue Venture Fund, Flare Capital Partners, Longitude Capital",0.8555555555555556,0.9019607843137255,0.8787581699346405
+Uala,$2.45,Argentina,Buenos Aires,Fintech,$608M,2017,4.0,,"Soros Fund Management, Ribbit Capital, Monashees+",0.7777777777777778,0.9215686274509804,0.8496732026143792
+Mobile Premier League,$2.45,India,Bengaluru,Internet software & services,$377.7M,2018,3.0,,"Sequoia Capital India, RTP Global, Go-Ventures",0.6777777777777778,0.9313725490196079,0.8045751633986928
+Cybereason,$2.44,United States,Boston,Cybersecurity,$713.62M,2012,5.0,,"SoftBank Group, CRV, Spark Capital",0.9222222222222223,0.892156862745098,0.9071895424836601
+Cgtz,$2.41,China,Hangzhou,Fintech,$535.86M,2014,1.0,,"Shunwei Capital Partners, China Media Group, Guangzhou Huiyin Aofeng Equity Investment Fund",0.9666666666666667,0.9313725490196079,0.9490196078431372
+Star Charge,$2.41,China,Changzhou,Auto & transportation,$125.58M,2014,1.0,,"Shunwei Capital Partners, China Media Group, Guangzhou Huiyin Aofeng Equity Investment Fund",0.9111111111111111,0.892156862745098,0.9016339869281045
+Carbon,$2.4,United States,Redwood City,Hardware,$692M,2013,5.0,,"Google Ventures, Sequoia Capital, Wakefield Group",0.7444444444444445,0.9411764705882353,0.8428104575163399
+PolicyBazaar,$2.4,India,Gurgaon,Fintech,$633.78M,2008,7.0,,"Info Edge, Softbank Capital",0.7666666666666666,0.8529411764705882,0.8098039215686275
+Exabeam,$2.4,United States,Foster City,Cybersecurity,$390M,2013,5.0,,"Norwest Venture Partners, Aspect Ventures, Lightspeed Venture Partners",0.9111111111111111,0.8823529411764706,0.8967320261437908
+BitSight Technologies,$2.4,United States,Boston,Cybersecurity,$390M,2013,5.0,,"Menlo Ventures, GGV Capital, Flybridge Capital Partners",0.9111111111111111,0.8823529411764706,0.8967320261437908
+Trumid,$2.4,United States,New York,Fintech,$711.73M,2014,5.0,,"T. Rowe Price, Dragoneer Investment Group, BlackRock",0.7666666666666666,0.9019607843137255,0.834313725490196
+ABL Space Systems,$2.4,United States,El Segundo,Other,$483.5M,2017,2.0,,"T. Rowe Price, Lockheed Martin Ventures, Fidelity Investment",0.9111111111111111,0.9215686274509804,0.9163398692810458
+Project44,$2.62,United States,Chicago,"Supply chain, logistics, & delivery",$928.8M,2014,4.0,,"Emergence Capital Partners, 8VC, Chicago Ventures",0.7888888888888889,0.892156862745098,0.8405228758169934
+Bought By Many,$2.35,United Kingdom,London,Fintech,$477.27M,2012,3.0,,"Octopus Ventures, Munich Re Ventures, CommerzVentures",0.9222222222222223,0.8725490196078431,0.8973856209150327
+Jobandtalent,$2.35,Spain,Madrid,Internet software & services,$1.072B,2009,3.0,,"Kibo Ventures, SoftBank Group, Atomico",0.7888888888888889,0.8431372549019608,0.8160130718954248
+WEMAKEPRICE,$2.34,South Korea,Seoul,E-commerce & direct-to-consumer,$486.65M,2009,4.0,,"IMM Investment, NXC",0.9777777777777777,0.9019607843137255,0.9398692810457516
+Biren Technology,$2.32,China,Shanghai,Hardware,$288.22M,2019,3.0,,"V FUND, IDG Capital, Green Pine Capital Partners",0.6555555555555556,0.9509803921568627,0.8032679738562092
+Voodoo,$2.31,France,Paris,Other,$569.95M,2013,2.0,,"Tencent Holdings, Goldman Sachs",0.9777777777777777,0.892156862745098,0.9349673202614379
+Uptake,$2.3,United States,Chicago,Artificial intelligence,$317M,2014,4.0,,"Revolution, New Enterprise Associates, Caterpillar",0.9222222222222223,0.9509803921568627,0.9366013071895425
+KeepTruckin,$2.3,United States,San Francisco,"Supply chain, logistics, & delivery",$417.3M,2013,5.0,,"Google Ventures, Index Ventures, Scale Venture Partners",0.9222222222222223,0.9019607843137255,0.912091503267974
+Skydance Media,$2.3,United States,Santa Monica,Other,$2.075B,2010,1.0,,"RedBird Capital Partners, CJ ENM, Tencent Holdings",0.9666666666666667,0.8627450980392157,0.9147058823529413
+Greenlight,$2.3,United States,Atlanta,Fintech,$556.5M,2014,3.0,,"Relay Ventures, TTV Capital, Canapi Ventures",0.7666666666666666,0.9019607843137255,0.834313725490196
+Bowery Farming,$2.3,United States,New York,Other,$630.9M,2015,2.0,,"Temasek, Google Ventures, General Catalyst",0.6666666666666667,0.9019607843137255,0.7843137254901962
+Odoo,$2.3,Belgium,Louvain-la-Neuve,Internet software & services,$319M,2005,1.0,,"Summit Partners, Noshaq, Sofinnova Partners",0.9444444444444444,0.803921568627451,0.8741830065359477
+MoMo,$2.27,Vietnam,Ho Chi Minh City,Fintech,$433.7M,2013,3.0,,"Goodwater Capital, Warburg Pincus, GS Growth",0.9,0.8823529411764706,0.8911764705882352
+Ankorstore,$2.26,France,Paris,E-commerce & direct-to-consumer,$420.89M,2019,1.0,,"Global Founders Capital, Aglae Ventures, Alven Capital",0.9111111111111111,0.9313725490196079,0.9212418300653595
+Zume,$2.25,United States,Mountain View,Consumer & retail,$445.69M,2015,3.0,,"Softbank Group, AME Cloud Ventures, SignalFire",0.9444444444444444,0.9313725490196079,0.9379084967320261
+Algolia,$2.25,United States,San Francisco,Internet software & services,$334.34M,2012,3.0,,"Accel, Alven Capital, Storm Ventures",0.7,0.8725490196078431,0.7862745098039216
+Pattern,$2.25,United States,Lehi,Internet software & services,$277M,2013,1.0,,"Knox Lane, Ainge Advisory, Carlson Private Capital Partners,/td>",0.9555555555555556,0.8823529411764706,0.9189542483660131
+MUSINSA,$2.2,South Korea,Seoul,E-commerce & direct-to-consumer,$286.36M,2001,2.0,,Sequoia Capital,0.9888888888888889,0.7843137254901961,0.8866013071895424
+Current,$2.2,United States,New York,Fintech,$383.41M,2015,3.0,,"Expa, QED Investors, Foundation Capital",0.8111111111111111,0.9019607843137255,0.8565359477124184
+Bitso,$2.2,Mexico,Mexico City,Fintech,$314.66M,2014,2.0,,"Pantera Capital, QED Investors, Coinbase Ventures",0.7666666666666666,0.892156862745098,0.8294117647058823
+Gympass,$2.2,United States,New York,Internet software & services,$529.16M,2012,2.0,,"General Atlantic, SoftBank Group, Atomico",0.9,0.892156862745098,0.896078431372549
+Reify Health,$2.2,United States,Boston,Health,$257.64M,2012,2.0,,"Sierra Ventures, Battery Ventures, Asset Management Ventures",0.9222222222222223,0.8725490196078431,0.8973856209150327
+Dialpad,$2.2,United States,San Francisco,Internet software & services,$425.96M,2011,7.0,,"Andreessen Horowitz, Google Ventures, Section 32",0.8444444444444444,0.8725490196078431,0.8584967320261438
+G7 Networks,$2.2,China,Beijing,"Supply chain, logistics, & delivery",$710M,2006,1.0,,"Eastern Bell Capital 32, SDIC CMC Investment Management, Trustbridge Partners",0.8222222222222222,0.803921568627451,0.8130718954248366
+BloomReach,$2.2,United States,Mountain View,Artificial intelligence,$422M,2009,6.0,,"Bain Capital Ventures, Sixth Street Growth, Lightspeed Venture Partners",0.9222222222222223,0.8333333333333334,0.8777777777777778
+Huaqin Telecom Technology,$2.19,China,Shanghai,Mobile & telecommunications,$276.35M,2005,1.0,,"Zhangjiang Haocheng Venture Capital, Walden International, Intel Capital",0.8333333333333334,0.8235294117647058,0.8284313725490196
+Accelerant,$2.19,United Kingdom,Colchester,Other,$190M,2018,1.0,,"Deer Park Road, Altamont Capital Partners, Eldridge",0.9555555555555556,0.9215686274509804,0.938562091503268
+Hesai Tech,$2.18,China,Shanghai,Artificial intelligence,$717.29M,2013,3.0,,"Lightspeed China Partners, Baidu Ventures, Qiming Venture Partners",0.7888888888888889,0.892156862745098,0.8405228758169934
+Addepar,$2.17,United States,Mountain View,Fintech,$513.93M,2009,5.0,,"8VC, D1 Capital Partners, Sway Ventures",0.8111111111111111,0.8431372549019608,0.8271241830065359
+Neo4j,$2.15,United States,San Mateo,Data management & analytics,$581.1M,2007,4.0,,"Eight Roads Ventures, One Peak Partners, Creandum",0.8111111111111111,0.8235294117647058,0.8173202614379085
+CloudWalk,$2.15,Brazil,Sao Paulo,Fintech,$345M,2013,1.0,,"Plug and Play Ventures, Valor Capital Group, DST Global",0.8555555555555556,0.8823529411764706,0.8689542483660131
+FirstCry,$2.1,India,Pune,E-commerce & direct-to-consumer,$831M,2010,6.0,,"SoftBank Group, SAIF Partners India, Valiant Capital Partners",0.8444444444444444,0.8627450980392157,0.8535947712418301
+Eightfold.ai,$2.1,United States,Santa Clara,Internet software & services,$397M,2016,3.0,,"Foundation Capital, Institutional Venture Partners, General Catalyst",0.9444444444444444,0.9215686274509804,0.9330065359477124
+Webflow,$2.1,United States,San Francisco,Internet software & services,$214.92M,2012,2.0,,"Accel, Silversmith Capital Partners, capitalG",0.9111111111111111,0.8725490196078431,0.8918300653594771
+Urban Company,$2.1,India,Gurgaon,E-commerce & direct-to-consumer,$441.24M,2014,7.0,,"VY Capital, Accel, Elevation Capital",0.8222222222222222,0.892156862745098,0.8571895424836601
+Moveworks,$2.1,United States,Mountain View,Artificial intelligence,$305M,2016,1.0,,"Lightspeed Venture Partners, Sapphire Ventures, Kleiner Perkins Caufield & Byers",0.8888888888888888,0.9117647058823529,0.9003267973856208
+Medable,$2.1,United States,Palo Alto,Internet software & services,$533.75M,2013,2.0,,"GSR Ventures, Sapphire Ventures, Streamlined Ventures",0.8666666666666667,0.8823529411764706,0.8745098039215686
+SoundHound,$2.1,United States,Santa Clara,Artificial intelligence,$214.1M,2005,8.0,,"Tencent Holdings, Walden Venture Capital, Global Catalyst Partnera",0.7444444444444445,0.8333333333333334,0.788888888888889
+GoCardless,$2.1,United Kingdom,London,Fintech,$529.32M,2011,4.0,,"Accel, Passion Capital, Balderton Capital",0.8333333333333334,0.8529411764705882,0.8431372549019608
+Trendy Group International,$2,Hong Kong,Kowloon,Consumer & retail,$200M,1999,1.0,,L Capital Partners,1.0,0.8333333333333334,0.9166666666666667
+Avant,$2,United States,Chicago,Artificial intelligence,$1.73B,1973,6.0,,"RRE Ventures, Tiger Global, August Capital",0.8555555555555556,0.5784313725490196,0.7169934640522876
+Tubatu.com,$2,China,Shenzhen,E-commerce & direct-to-consumer,$216.48M,2008,1.0,,"Sequoia Capital China, Matrix Partners China, 58.com",0.9777777777777777,0.892156862745098,0.9349673202614379
+BlaBlaCar,$2,France,Paris,Auto & transportation,$564.3M,2006,6.0,,"Accel Partners, Index Ventures, Insight Venture Partners",0.8666666666666667,0.8725490196078431,0.8696078431372549
+HuiMin,$2,China,Beijing,E-commerce & direct-to-consumer,$519.63M,2013,1.0,,"Zheshang Venture Capital, GP Capital, Western Capital Management",0.8666666666666667,0.9313725490196079,0.8990196078431373
+Quora,$2,United States,Mountain View,Internet software & services,$286M,2009,5.0,,"Y Combinator, Matrix Partners, Benchmark",0.9,0.8823529411764706,0.8911764705882352
+Improbable,$2,United Kingdom,London,Other,$603.93M,2012,4.0,,"Andreessen Horowitz, SoftBank Group, Temasek Holdings",0.9333333333333333,0.9117647058823529,0.9225490196078432
+Preferred Networks,$2,Japan,Tokyo,Artificial intelligence,$152.19M,2014,2.0,,"Toyota Motor Corporation, Mizuho Financial Group, FANUC",0.8888888888888888,0.9215686274509804,0.9052287581699346
+Formlabs,$2,United States,Somerville,Hardware,$261.25M,2011,6.0,,"Pitango Venture Capital, DFJ Growth Fund, Foundry Group",0.7444444444444445,0.892156862745098,0.8183006535947712
+4Paradigm,$2,China,Beijing,Artificial intelligence,$930M,2015,2.0,,"Sequoia Capital China, China Construction Bank, Bank of China",0.5777777777777777,0.9313725490196079,0.7545751633986928
+Calm,$2,United States,San Francisco,Consumer & retail,$217.98M,2012,4.0,,"Insight Venture Partners, TPG Growth, Sound Ventures",0.7,0.892156862745098,0.796078431372549
+Kaseya,$2,United States,Miami,Cybersecurity,$617.57M,2000,1.0,,"Insight Partners, TPG Alternative & Renewable Technologies, Ireland Strategic Investment Fund",0.9777777777777777,0.7745098039215687,0.8761437908496732
+Mafengwo,$2,China,Beijing,Travel,$488M,2010,1.0,,"Qiming Venture Partners, Capital Today, General Atlantic",0.8666666666666667,0.8725490196078431,0.8696078431372549
+Druva,$2,United States,Sunnyvale,Data management & analytics,$475M,2007,4.0,,"Nexus Venture Partners, Tenaya Capital, Sequoia Capital",0.8333333333333334,0.8431372549019608,0.8382352941176471
+Kujiale,$2,China,Hangzhou,Internet software & services,$312M,2011,5.0,,"GGV Capital, IDG Capital, Linear Venture",0.8444444444444444,0.8823529411764706,0.8633986928104576
+AppsFlyer,$2,United States,San Francisco,Mobile & telecommunications,$303.1M,2011,4.0,,"Magma Venture Partners, Pitango Venture Capital, Qumra Capital",0.9222222222222223,0.8725490196078431,0.8973856209150327
+Keep,$2,China,Beijing,Mobile & telecommunications,$614.49M,2014,2.0,,"Bertelsmann Asia Investments, GGV Capital, Morningside Venture Capital",0.8888888888888888,0.9019607843137255,0.8954248366013071
+Redis Labs,$2,United States,Mountain View,Data management & analytics,$355M,2011,5.0,,"Viola Ventures, Dell Technologies Capital, Bain Capital Ventures",0.8666666666666667,0.8725490196078431,0.8696078431372549
+Xingyun Group,$2,China,Shenzhen,E-commerce & direct-to-consumer,$953.5M,2015,1.0,,"Matrix Partners China, Eastern Bell Capital, Hongtai Capital Holdings",0.6888888888888889,0.9117647058823529,0.800326797385621
+Unqork,$2,United States,New York,Fintech,$367.17M,2017,1.0,,"Blackrock, capitalG, World Lab Innovation",0.8555555555555556,0.9313725490196079,0.8934640522875817
+Virta Health,$2,United States,San Francisco,Health,$376.5M,2015,3.0,,"Caffeinated Capital, Obvious Ventures, Venrock",0.8444444444444444,0.9117647058823529,0.8781045751633987
+Earnix,$2,Israel,Giv'atayim,Fintech,$98.5M,2001,2.0,,"Jerusalem Venture Partners, Israel Growth Partners, Insight Partners",0.9444444444444444,0.7647058823529411,0.8545751633986928
+Guoquan Shihui,$2,China,Shanghai,Consumer & retail,$423.44M,2017,2.0,,"Tiantu Capital, CMB International Capital, Vision Knight Capital",0.9111111111111111,0.9215686274509804,0.9163398692810458
+Arrail Dental,$1.05,China,Beijing,Health,$449M,1999,7.0,,"Qiming Venture Partners, Kleiner Perkins Caufield & Byers, OrbiMed Advisors",0.8444444444444444,0.7450980392156863,0.7947712418300654
+Clearco,$2,Canada,Toronto,Fintech,$935.01M,2015,1.0,,"Highland Capital Partners, Oak HC/FT Partners, Emergence Capital Partners",0.7555555555555555,0.9019607843137255,0.8287581699346405
+Hive,$2,United States,San Francisco,Artificial intelligence,$85M,2013,1.0,,"Tomales Bay Capital, Bain & Company, General Catalyst",0.9555555555555556,0.8823529411764706,0.9189542483660131
+KRY,$2,Sweden,Stockholm,Health,$570.99M,2014,3.0,,"Index Ventures, Creandum, Accel",0.9,0.892156862745098,0.896078431372549
+Kajabi,$2,United States,Irvine,Internet software & services,$550M,2010,1.0,,"Meritech Capital Partners, Tiger Global Management, Spectrum Equity",0.9444444444444444,0.8529411764705882,0.8986928104575163
+Ethos,$2.7,United States,San Francisco,Fintech,$520K,2019,,,"Sequoia Capital, Google Ventures, Accel",1.0,0.9411764705882353,0.9705882352941176
+PayFit,$2.1,United Kingdom,London,Fintech,$497.24M,2016,3.0,,"Accel, frst, Kima Ventures",0.8666666666666667,0.9019607843137255,0.884313725490196
+Beisen,$2,China,Beijing,Internet software & services,$421.18M,2002,2.0,,"Matrix Partners China, Sequoia Capital China, Genesis Capital",0.8111111111111111,0.7745098039215687,0.7928104575163399
+Pipe,$2,United States,Miami,Fintech,$366M,2019,1.0,,"next47, MaC Venture Capital, FinVC",0.6111111111111112,0.9411764705882353,0.7761437908496732
+Iterable,$2,United States,San Francisco,Internet software & services,$342.4M,2013,4.0,,"CRV, Blue Cloud Ventures, Index Ventures",0.8111111111111111,0.8823529411764706,0.8467320261437908
+Bunq,$2,Netherlands,Amsterdam,Fintech,$228M,2013,1.0,,Undisclosed,1.0,0.8823529411764706,0.9411764705882353
+Clip,$2,Mexico,Mexico City,Fintech,$397.36M,2012,4.0,,"Alta Ventures Mexico, General Atlantic, SoftBank Group",0.8444444444444444,0.8725490196078431,0.8584967320261438
+Loggi,$2,Brazil,Sao Paulo,"Supply chain, logistics, & delivery",$484.32M,2013,4.0,,"Qualcomm Ventures, SoftBank Group. Monashees+",0.8444444444444444,0.9019607843137255,0.873202614379085
+MURAL,$2,United States,San Francisco,Internet software & services,$192.27M,2011,5.0,,"Insight Partners, Tiger Global Management, Gradient Ventures",0.8444444444444444,0.8627450980392157,0.8535947712418301
+Pagaya,$2,Israel,Tel Aviv,Fintech,$417.25M,2015,3.0,,"Oak HC/FT Partners, GF Investments, Harvey Golub Family Office",0.8444444444444444,0.9117647058823529,0.8781045751633987
+OCSiAl,$2,Luxembourg,Leudelange,Other,$5M,2012,2.0,,"A&NN, Rusnano",0.9777777777777777,0.892156862745098,0.9349673202614379
+XtalPi,$2,China,Shenzhen,Artificial intelligence,$783.81M,2014,3.0,,"Tencent Holdings, 5Y Capital, Sequoia Capital China",0.6777777777777778,0.892156862745098,0.7849673202614379
+Divvy Homes,$2,United States,San Francisco,Fintech,$1.127B,2017,1.0,,"Andreessen Horowitz, Caffeinated Capital, SciFi VC",0.8333333333333334,0.9215686274509804,0.8774509803921569
+Apeel Sciences,$2,United States,Goleta,Other,$640M,2012,6.0,,"Upfront Ventures, Tao Capital Partners, Andreessen Horowitz",0.7333333333333334,0.8823529411764706,0.807843137254902
+Opay,$2,Nigeria,Lagos,Fintech,$570M,2018,1.0,,"Sequoia Capital China, Source Code Capital, Redpoint Ventures China",0.8666666666666667,0.9313725490196079,0.8990196078431373
+Aviatrix,$2,United States,Santa Clara,Internet software & services,$340M,2014,4.0,,"Ignition Partners, Formation 8, CRV",0.8777777777777778,0.892156862745098,0.8849673202614379
+SmartNews,$2,Japan,Tokyo,Mobile & telecommunications,$409.6M,2012,7.0,,"Japan Post Capital, Globis Capital Partners, Atomico",0.7888888888888889,0.892156862745098,0.8405228758169934
+Misfits Market,$2,United States,Pennsauken,E-commerce & direct-to-consumer,$526.5M,2018,2.0,,"Accel, D1 Capita Partners, Greenoaks Capital Management",0.9111111111111111,0.9313725490196079,0.9212418300653595
+Spring Health,$2,United States,New York,Health,$296.2M,2016,3.0,,"Rethink Impact, Work-Bench, RRE Ventures",0.7333333333333334,0.9117647058823529,0.8225490196078431
+Black Sesame Technologies,$2,China,Shanghai,Artificial intelligence,$115M,2016,1.0,,"Northern Light Venture Capital, Xiaomi, FutureX Capital",0.8111111111111111,0.9117647058823529,0.8614379084967321
+Advance Intelligence Group,$2,Singapore,Singapore,Artificial intelligence,$536M,2016,1.0,,"Vision Plus Capital, GSR Ventures, ZhenFund",0.8666666666666667,0.9117647058823529,0.8892156862745098
+Modern Treasury,$2,United States,San Francisco,Fintech,$133.12M,2018,1.0,,"Benchmark, Altimeter Capital, Quiet Capital",0.9555555555555556,0.9313725490196079,0.9434640522875817
+Magic Leap,$2,United States,Plantation,Hardware,$3.484B,2010,7.0,,"Obvious Ventures, Qualcomm Ventures, Andreessen Horowitz",0.7222222222222222,0.9215686274509804,0.8218954248366013
+Tier,$2,Germany,Berlin,Travel,$667.38M,2018,2.0,,"Northzone Ventures, White Star Capital, Novator Partners",0.7888888888888889,0.9313725490196079,0.8601307189542484
+Aiven,$2,Finland,Helsinki,Internet software & services,$209.93M,2016,2.0,,"Institutional Venture Partners, Atomico, Earlybird Venture Capital",0.8555555555555556,0.9117647058823529,0.8836601307189542
+ClickHouse,$2,United States,Portola Valley,Data management & analytics,$300M,2021,1.0,,"Lightspeed Venture Partners, Almaz Capital Partners, Altimeter Capital",0.8888888888888888,0.9607843137254902,0.9248366013071896
+Mynt,$2,Philippines,Taguig City,Fintech,$475M,2015,1.0,,"Insight Partners, Warburg Pincus, Ayala Corporation",0.9333333333333333,0.9019607843137255,0.9176470588235295
+Everlaw,$2,United States,Oakland,Internet software & services,$314.61M,2010,5.0,,"K9 Ventures, Menlo Ventures, Andreessen Horowitz",0.9333333333333333,0.8529411764705882,0.8931372549019607
+Zilch,$2,United Kingdom,London,Fintech,$339.2M,2018,2.0,,"Gauss Ventures, Ventura Capital, dmg ventures",0.9444444444444444,0.9313725490196079,0.9379084967320261
+VerbIT,$2,United States,New York,Artificial intelligence,$532M,2016,2.0,,"ClalTech, Vertex Ventures, Oryzn Capital",0.7555555555555555,0.9117647058823529,0.8336601307189542
+StarkWare,$2,Israel,Netanya,Cybersecurity,$167.7M,2018,1.0,,"Sequoia Capital, Paradigm, Pantera Capital",0.7888888888888889,0.9313725490196079,0.8601307189542484
+Netlify,$2,United States,San Francisco,Internet software & services,$211.87M,2014,2.0,,"Andreessen Horowitz, Kleiner Perkins Caufield & Byers, EQT Ventures",0.8444444444444444,0.892156862745098,0.8683006535947713
+Deliverr,$2,United States,San Francisco,"Supply chain, logistics, & delivery",$490.1M,2017,2.0,,"8VC, Activant Capital, GLP Capital Partners",0.9,0.9215686274509804,0.9107843137254903
+SWORD Health,$2,United States,New York,Health,$322.16M,2015,2.0,,"Khosla Ventures, Green Innovations, Founders Fund",0.7888888888888889,0.9019607843137255,0.8454248366013072
+LTK,$2,United States,Dallas,Internet software & services,$315M,2011,2.0,,"SoftBank Group, Maverick Capital",0.9555555555555556,0.8627450980392157,0.9091503267973857
+Exotec,$2,France,Croix,Hardware,$446.7M,2015,3.0,,"Breega Capital, Iris Capital, 360 Capital Partners",0.9333333333333333,0.892156862745098,0.9127450980392157
+Dremio,$2,United States,Santa Clara,Data management & analytics,$405M,2015,4.0,,"Lightspeed Venture Partners, Redpoint Ventures, Norwest Venture Partners",0.9111111111111111,0.9019607843137255,0.9065359477124183
+Akulaku,$2,Indonesia,Jakarta,E-commerce & direct-to-consumer,$455M,2014,3.0,,"DCM Ventures, IDG Capital, Siam Commercial Bank",0.8444444444444444,0.8823529411764706,0.8633986928104576
+Fenbi Education,$1.95,China,Beijing,Edtech,$390M,2015,1.0,,"Trustbridge Partners, Hony Capital, IDG Capital",0.9222222222222223,0.9019607843137255,0.912091503267974
+Starling Bank,$1.95,United Kingdom,London,Fintech,$905.62M,2014,2.0,,"JTC Group, Qatar Investment Authority, Fidelity Investment",0.8888888888888888,0.892156862745098,0.8905228758169934
+Rokt,$1.95,United States,New York,Internet software & services,$488.5M,2012,4.0,,"Square Peg Capital, TDM Growth Partners, Tiger Global Management",0.8777777777777778,0.8725490196078431,0.8751633986928105
+InVision,$1.9,United States,New York,Internet software & services,$350.71M,2011,5.0,,"FirstMark Capital, Tiger Global Management, ICONIQ Capital",0.9111111111111111,0.9019607843137255,0.9065359477124183
+eDaili,$1.9,China,Shanghai,E-commerce & direct-to-consumer,$1M,2015,2.0,,"K2VC, Lightspeed China Partners, Sky9 Capital",0.9222222222222223,0.9215686274509804,0.9218954248366014
+MX Technologies,$1.9,United States,Lehi,Fintech,$454.13M,2010,2.0,,"Point72 Ventures, Pelion Venture Partners, Commerce Ventures",0.6666666666666667,0.8529411764705882,0.7598039215686274
+Aledade,$1.9,United States,Bethesda,Health,$294.65M,2014,2.0,,"Venrock, CVF Capital Partners, ARCH Venture Partners",0.8666666666666667,0.892156862745098,0.8794117647058823
+CoinSwitch Kuber,$1.9,India,Bangalore,Fintech,$300M,2017,2.0,,"Tiger Global Management, Sequoia Capital India, Ribbit Capital",0.9333333333333333,0.9215686274509804,0.9274509803921569
+ENOVATE,$1.85,China,Shanghai,Auto & transportation,$1.333B,2015,1.0,,Automobile Industry Guidance Fund,1.0,0.9215686274509804,0.9607843137254902
+CFGI,$1.85,United States,Boston,Fintech,$18.58M,2000,1.0,,"The Carlyle Group, CVC Capital Partners",0.9888888888888889,0.7549019607843137,0.8718954248366013
+Retool,$1.85,United States,San Francisco,Internet software & services,$18.58M,2000,1.0,,Sequoia Capital,0.9888888888888889,0.7549019607843137,0.8718954248366013
+Automattic,$1.8,United States,San Francisco,Internet software & services,$861.69M,2005,7.0,,"Insight Venture Partners, Lowercase Capital, Polaris Partners",0.7666666666666666,0.8823529411764706,0.8245098039215686
+ZocDoc,$1.8,United States,New York,Health,$383.02M,2007,4.0,,"Founders Fund, Khosla Ventures, Goldman Sachs",0.8444444444444444,0.8823529411764706,0.8633986928104576
+Diamond Foundry,$1.8,United States,San Francisco,Other,$300M,2012,1.0,,"Fashion Tech Lab, Fidelity Investments, Vast Ventures",0.8333333333333334,0.8725490196078431,0.8529411764705883
+FullStory,$1.8,United States,Atlanta,Internet software & services,$170.2M,2014,4.0,,"Google Ventures, Kleiner Perkins Caufield & Byers, Stripes Group",0.9111111111111111,0.892156862745098,0.9016339869281045
+Lightricks,$1.8,Israel,Jerusalem,Artificial intelligence,$335M,2013,3.0,,"Viola Ventures, Insight Partners, ClalTech, Goldman Sachs",0.8333333333333334,0.9019607843137255,0.8676470588235294
+Opentrons,$1.8,United States,New York,Hardware,$250.83M,2016,2.0,,"SOSV, Khosla Ventures, Lerer Hippeau",0.9222222222222223,0.9117647058823529,0.9169934640522877
+AIWAYS,$1.78,China,Shanghai,Auto & transportation,$330.93M,2017,1.0,,"Jiangsu Sha Steel Group, Shanghai Puyin Industry, Funa Yuanchuang Technology",0.9,0.9509803921568627,0.9254901960784314
+Trulioo,$1.75,Canada,Vancouver,Cybersecurity,$469.74M,2011,3.0,,"Blumberg Capital, American Express Ventures, BDC Venture Capital",0.8777777777777778,0.8627450980392157,0.8702614379084967
+Spinny,$1.75,India,Gurugram,E-commerce & direct-to-consumer,$515.9M,2015,5.0,,"General Catalyst, Eleation Capital, Avenir Growth Capital",0.7888888888888889,0.9019607843137255,0.8454248366013072
+Orca Security,$1.8,United States,Portland,Cybersecurity,$632M,2019,2.0,,"YL Ventures, Redpoint Ventures, GGV Capital",0.8444444444444444,0.9411764705882353,0.8928104575163398
+Apus Group,$1.73,China,Beijing,Mobile & telecommunications,$116.3M,2014,2.0,,"Redpoint Ventures, QiMing Venture Partners, Chengwei Capital",0.9444444444444444,0.9509803921568627,0.9477124183006536
+Harry's,$1.7,United States,New York,Consumer & retail,$659.1M,2013,5.0,1.0,"Thrive Capital, Tiger Global Management, Temasek",0.7333333333333334,0.9117647058823529,0.8225490196078431
+PAX,$1.7,United States,San Francisco,Consumer & retail,$544.93M,2007,3.0,,"Tao Capital Partners, Global Asset Capital, Tiger Global Management",0.9,0.8529411764705882,0.8764705882352941
+DispatchHealth,$1.7,United States,Denver,Health,$406.96M,2013,2.0,,"Alta Partners, Questa Capital, Echo Health Venturesl",0.9111111111111111,0.8823529411764706,0.8967320261437908
+Unite Us,$1.7,United States,New York,Health,$195.3M,2014,3.0,,"Insight Partners, Sequoia Capital, Index Ventures",0.8444444444444444,0.892156862745098,0.8683006535947713
+CircleCI,$1.7,United States,San Francisco,Internet software & services,$312.5M,2011,3.0,,"Threshold Ventures, Baseline Ventures, Harrison Metal",0.7222222222222222,0.8627450980392157,0.792483660130719
+Wave,$1.7,Senegal,Dakar,Fintech,$460K,2018,,,"Stripe, Founders Fund, Partech Partners",0.9888888888888889,0.9313725490196079,0.9601307189542484
+Vestiaire Collective,$1.7,France,Paris,E-commerce & direct-to-consumer,$664.45M,2009,4.0,,"Eurazeo, IDInvest Partners, Balderton Capital",0.8222222222222222,0.8431372549019608,0.8326797385620914
+Dragos,$1.7,United States,Hanover,Cybersecurity,$364.2M,2016,2.0,,"DataTribe, Energy Impact Partners, AllegisCyber Capital",0.8666666666666667,0.9117647058823529,0.8892156862745098
+Reltio,$1.7,United States,Redwood City,Data management & analytics,$240.5M,2011,4.0,,"Crosslink Capital, .406 Ventures, Sapphire Ventures",0.9111111111111111,0.8627450980392157,0.8869281045751634
+H2O.ai,$1.7,United States,Mountain View,Artificial intelligence,$246.12M,2011,4.0,,"Nexus Venture Partners, Transamerica Ventures, Crane Venture Partners",0.7777777777777778,0.8627450980392157,0.8202614379084967
+ZenBusiness,$1.7,United States,Austin,Fintech,$275.75M,2015,1.0,,"Greycroft, Lerer Hippeau, Geekdom Fund",0.8,0.9019607843137255,0.8509803921568628
+Carsome,$1.7,Malaysia,Selangor,E-commerce & direct-to-consumer,$597.35M,2015,5.0,,"Gobi Partners, 500 Startups, Ondine Capital",0.7444444444444445,0.9019607843137255,0.8232026143790849
+Productboard,$1.7,United States,San Francisco,Internet software & services,$261.3M,2014,4.0,,"Index Ventures, Kleiner Perkins Caufield & Byers, Bessemer Venture Partners",0.8666666666666667,0.8823529411764706,0.8745098039215686
+Spotter,$1.7,United States,Los Angeles,Fintech,$220.65M,2019,1.0,,"SoftBank Group, Access Industries, Crossbeam Venture Partners",0.9444444444444444,0.9313725490196079,0.9379084967320261
+Alan,$1.68,France,Paris,Fintech,$363.17M,2016,2.0,,"Index Ventures, Temasek, Portag3 Ventures",0.8666666666666667,0.9117647058823529,0.8892156862745098
+Hibob,$1.65,Israel,Tel Aviv,Internet software & services,$265M,2015,3.0,,"Bessemer Venture Partners, Eight Roads Ventures, Battery Ventures",0.8444444444444444,0.9019607843137255,0.873202614379085
+Trader Interactive,$1.63,United States,Norfolk,Other,$265M,2015,3.0,,Carsales,0.8444444444444444,0.9019607843137255,0.873202614379085
+Jusfoun Big Data,$1.62,China,Beijing,Data management & analytics,$137.13M,2010,3.0,,"Boxin Capital, DT Capital Partners, IDG Capital",0.7111111111111111,0.8823529411764706,0.7967320261437909
+Transcarent,$1.62,United States,San Francisco,Health,$298M,2020,1.0,,"Alta Partners, General Catalyst, Jove Equity Partners",0.8444444444444444,0.9411764705882353,0.8928104575163398
+DealShare,$1.7,India,Bengaluru,E-commerce & direct-to-consumer,$391.52M,2018,4.0,,"Alpha Wave Global, Matrix Partners India, Tiger Global Management",0.8,0.9215686274509804,0.8607843137254902
+Zhubajie,$1.61,China,Chongqing,Internet software & services,$429.6M,2006,1.0,,"Cybernaut Growth Fund, IDG Capital",0.9777777777777777,0.8725490196078431,0.9251633986928105
+solarisBank,$1.65,Germany,Berlin,Fintech,$402.46M,2016,5.0,,"Yabeo Capital, SBI Investment, Vulcan Capital",0.7888888888888889,0.9117647058823529,0.8503267973856209
+Infinidat,$1.6,United States,Waltham,Hardware,$325M,2011,3.0,,"TPG Growth, Goldman Sachs",0.9444444444444444,0.9215686274509804,0.9330065359477124
+Afiniti,$1.6,Bermuda,Hamilton,Artificial intelligence,$327.2M,2006,3.0,,GAM Holding,0.9,0.8529411764705882,0.8764705882352941
+Cao Cao Mobility,$1.6,China,Hangzhou,Auto & transportation,$968.86M,2015,1.0,,"People Electrical Appliance Group China, Zhongrong International Trust",0.9555555555555556,0.9313725490196079,0.9434640522875817
+Verkada,$1.6,United States,San Mateo,Cybersecurity,$139.64M,2016,3.0,,"next47, First Round Capital, Sequoia Capital",0.9333333333333333,0.9215686274509804,0.9274509803921569
+Clari,$2.6,United States,Sunnyvale,Internet software & services,$496M,2012,4.0,,"Sequoia Capital, Bain Capital Ventures, enaya Capital",0.8444444444444444,0.8725490196078431,0.8584967320261438
+Tonal,$1.6,United States,San Francisco,E-commerce & direct-to-consumer,$431.4M,2015,2.0,,"Mayfield Fund, Shasta Ventures, L Catterton",0.7111111111111111,0.9019607843137255,0.8065359477124183
+Clio,$1.6,Canada,Burnaby,Internet software & services,$415.79M,2008,2.0,,"OMERS Private Equity, T. Rowe Price, Technology Crossover Ventures",0.9,0.8333333333333334,0.8666666666666667
+SafetyCulture,$1.6,Australia,Sydney,Internet software & services,$222.81M,2004,6.0,,"Blackbird Ventures, IndexVentures, Tiger Global Management",0.8777777777777778,0.7941176470588236,0.8359477124183007
+Extend,$1.6,United States,San Francisco,Fintech,$222.81M,2004,6.0,,"GreatPoint Ventures, Meritech Capital Partners, PayPal Ventures",0.8777777777777778,0.7941176470588236,0.8359477124183007
+Cognite,$1.5,Norway,Lysaker,Data management & analytics,$346.8M,2016,3.0,,"Technology Crossover Ventures, Accel, Aker",0.9555555555555556,0.9117647058823529,0.9336601307189543
+ASAPP,$1.6,United States,New York,Artificial intelligence,$312.57M,2014,2.0,,"March Capital Partners, HOF Capital, Emergence Capital Partners",0.8666666666666667,0.892156862745098,0.8794117647058823
+SmartHR,$1.6,Japan,Tokyo,Fintech,$222.34M,2013,3.0,,"BEENEXT, World Innovation Lab, Light Street Capital",0.7888888888888889,0.8823529411764706,0.8356209150326797
+Mercury,$1.6,United States,San Francisco,Fintech,$150.93M,2019,2.0,,"Andreessen Horowitz, Coatue Management, Clocktower Technology Ventures",0.5777777777777777,0.9411764705882353,0.7594771241830065
+HomeLight,$1.6,United States,San Francisco,Fintech,$539.6M,2012,5.0,,"Zeev Ventures, Menlo Ventures,Crosslink Capital",0.8,0.8725490196078431,0.8362745098039216
+Truepill,$1.6,United States,Hayward,Health,$256.06M,2016,2.0,,"Initialized Capital, Sound Ventures, TI Platform Management",0.8777777777777778,0.9117647058823529,0.8947712418300653
+ezCater,$1.6,United States,Boston,"Supply chain, logistics, & delivery",$420.16M,2007,9.0,,"Insight Venture Partners, ICONIQ Capital, Launchpad Venture Group",0.7777777777777778,0.8431372549019608,0.8104575163398693
+Wayflyer,$1.6,Ireland,Dublin,Fintech,$336.2M,2019,1.0,,"QED Investors, DST Global, Left Lane Capital",0.8888888888888888,0.9313725490196079,0.9101307189542484
+Promasidor Holdings,$1.59,South Africa,Bryanston,Consumer & retail,$556M,1979,1.0,,"IFC, Ajinomoto",0.9888888888888889,0.5980392156862745,0.7934640522875818
+Baiwang,$1.55,China,Beijing,Fintech,$224.35M,2015,1.0,,"Guozhong Venture Capital Management, Shenzhen Capital Group, Oriental Fortune Capital",0.9222222222222223,0.9215686274509804,0.9218954248366014
+Iluvatar CoreX,$1.55,China,Shanghai,Hardware,$185.52M,2015,1.0,,"Centurium Capital, Cedarlake Capital, Unicom Innovation Venture Capital",0.9222222222222223,0.9019607843137255,0.912091503267974
+Wenheyou,$1.55,China,Hunan,Other,$92.44M,2013,2.0,,"Sequoia Capital China, Warburg Pincus, IDG Capital",0.9333333333333333,0.8823529411764706,0.907843137254902
+Loom,$1.53,United States,San Francisco,Internet software & services,$198.48M,2016,2.0,,"Kleiner Perkins Caufield & Byers, Sequoia Capital, General Catalyst",0.8444444444444444,0.9117647058823529,0.8781045751633987
+Ximalaya FM,$1.52,China,Shanghai,Mobile & telecommunications,$70.59M,2012,2.0,,"China Creation Ventures, Sierra Ventures, Xingwang Investment Management",0.8888888888888888,0.9117647058823529,0.9003267973856208
+Carzone,$1.52,China,Jiangsu,E-commerce & direct-to-consumer,$946.49M,1995,1.0,,"Alibaba Group,Co-Stone Venture Capital, Buhuo Venture Capital",0.8666666666666667,0.7254901960784313,0.7960784313725491
+Mu Sigma,$1.5,United States,Northbrook,Data management & analytics,$208M,2004,4.0,,"Sequoia Capital, General Atlantic",0.9222222222222223,0.8725490196078431,0.8973856209150327
+Mofang Living,$1.5,China,Shanghai,E-commerce & direct-to-consumer,$710M,2009,1.0,,"Warburg Pincus, Aviation Industry Corporation of China",0.9666666666666667,0.892156862745098,0.9294117647058824
+Gett,$1.5,United Kingdom,London,Auto & transportation,$1.057B,2010,9.0,,"Volkswagen, Access Industries, Vostok New Ventures",0.8888888888888888,0.9019607843137255,0.8954248366013071
+DT Dream,$1.5,China,Hangzhou,Data management & analytics,$260.35M,2015,2.0,,"Alibaba Group, China Everbright Investment Management, Yinxinggu Capital",0.9555555555555556,0.9411764705882353,0.9483660130718954
+Changingedu,$1.5,China,Shanghai,Edtech,$188M,2014,1.0,,"Trustbridge Partners, IDG Capital, Sequoia Capital China",0.9444444444444444,0.9313725490196079,0.9379084967320261
+XiaoZhu,$1.5,China,Beijing,Travel,$500M,2012,1.0,,"Morningside Ventures, Capital Today, JOY Capital",0.8777777777777778,0.9117647058823529,0.8947712418300653
+JOLLY Information Technology,$1.5,China,Hangzhou,E-commerce & direct-to-consumer,$100.12M,2008,1.0,,"Legend Capital, CDH Investments, Sequoia Capital China",0.9,0.8627450980392157,0.8813725490196078
+Yijiupi,$1.5,China,Beijing,Consumer & retail,$547.27M,2014,3.0,,"Source Code Capital, Meituan Dianping, Tencent Holdings",0.8666666666666667,0.9215686274509804,0.8941176470588236
+Cambridge Mobile Telematics,$1.5,United States,Cambridge,Mobile & telecommunications,$502.5M,2010,,,SoftBank Group,1.0,0.8823529411764706,0.9411764705882353
+Collective Health,$1.5,United States,San Francisco,Fintech,$714M,2013,4.0,,"New Enterprise Associates, Founders Fund, Google Ventures",0.7111111111111111,0.9019607843137255,0.8065359477124183
+Strava,$1.5,United States,San Francisco,Internet software & services,$179.85M,2009,6.0,,"Jackson Square Ventures, Madrone Capital Partners, Sequoia Capital",0.9333333333333333,0.8529411764705882,0.8931372549019607
+Zenoti,$1.5,United States,Bellevue,Internet software & services,$341.68M,2010,4.0,,"Norwest Venture Partners, Accel, Tiger Global Management",0.9111111111111111,0.8627450980392157,0.8869281045751634
+K Health,$1.5,United States,New York,Health,$278M,2016,1.0,,"Max Ventures, Mangrove Capital Partners, 14W",0.8,0.9117647058823529,0.8558823529411765
+Uplight,$1.5,United States,Boulder,Other,$278M,2019,1.0,,"Rubicon Technology Partners, Max Ventures, Inclusive Capital Partners",0.8,0.9411764705882353,0.8705882352941177
+ID.me,$1.5,United States,McLean,Cybersecurity,$273.07M,2010,3.0,,"Moonshots Capital, BoxGroup, Blu Venture Investors",0.6666666666666667,0.8529411764705882,0.7598039215686274
+Snapdocs,$1.5,United States,San Francisco,Fintech,$250M,2012,1.0,,"Sequoia Capital, Y Combinator, F-Prime Capital",0.8666666666666667,0.8725490196078431,0.8696078431372549
+Chipper Cash,$2,United States,San Francisco,Fintech,$302.6M,2017,3.0,,"Deciens Capital, Bezos Expeditions, 500 Startups",0.8444444444444444,0.9215686274509804,0.8830065359477124
+Ledger,$1.5,France,Paris,Hardware,$466.38M,2014,4.0,,"Digital Currency Group, Draper Esprit, Korelya Capital",0.5,0.892156862745098,0.696078431372549
+Next Silicon,$1.5,Israel,Tel Aviv,Hardware,$226.6M,2018,1.0,,"Amiti Ventures, Playground Global, Aleph",0.9111111111111111,0.9313725490196079,0.9212418300653595
+YunQuNa,$1.5,China,Shanghai,"Supply chain, logistics, & delivery",$342.37M,2015,1.0,,"Source Code Capital, Coatue Management, DCM Ventures",0.9,0.9019607843137255,0.9009803921568628
+Impact,$1.5,United States,Santa Barbara,Internet software & services,$274.15M,2008,2.0,,"Redpoint Ventures, Providence Equity Partners, Silversmith Capital Partners",0.9444444444444444,0.8333333333333334,0.8888888888888888
+SmartRecruiters,$1.5,United States,San Francisco,Internet software & services,$214.55M,2010,4.0,,"Mayfield Fund, Insight Partners, Rembrandt Venture Partners",0.9333333333333333,0.8529411764705882,0.8931372549019607
+NotCo,$1.5,Chile,Santiago,Artificial Intelligence,$395.84M,2015,1.0,,"Kaszek Ventures, SOSV, Tiger Global Management",0.8111111111111111,0.9019607843137255,0.8565359477124184
+Culture Amp,$1.5,Australia,Richmond,Internet software & services,$258.3M,2011,4.0,,"Felicis Ventures, Index Ventures, Blackbird Ventures",0.8777777777777778,0.8627450980392157,0.8702614379084967
+TaxBit,$1.5,United States,Draper,Fintech,$235.75M,2018,1.0,,"Insight Partners, Coinbase Ventures, PayPal Ventures",0.7777777777777778,0.9313725490196079,0.8545751633986929
+Pacaso,$1.5,United States,Cincinnati,Fintech,$1.467B,2020,2.0,,"Global Founders Capital, Shea Ventures, Greycroft",0.8333333333333334,0.9509803921568627,0.892156862745098
+1047 Games,$1.5,United States,Zephyr Cove,Internet software & services,$126.5M,2017,1.0,,"VGames, Lakestar, Galaxy Interactive",0.9,0.9215686274509804,0.9107843137254903
+Matillion,$1.5,United Kingdom,Altrincham,Data management & analytics,$310.32M,2011,2.0,,"Scale Venture Partners, Sapphire Ventures, Battery Ventures",0.9222222222222223,0.8627450980392157,0.892483660130719
+Persona,$1.5,United States,San Francisco,Cybersecurity,$217.5M,2018,1.0,,"Coatue Management, Index Ventures, Founders Fund",0.9444444444444444,0.9313725490196079,0.9379084967320261
+Whatnot,$1.5,United States,Marina del Rey,E-commerce & direct-to-consumer,$224.15M,2019,1.0,,"Y Combinator, Andreessen Horowitz, Wonder Ventures",0.7666666666666666,0.9411764705882353,0.8539215686274509
+Ascend Money,$1.5,Thailand,Bangkok,Fintech,$150M,2013,1.0,,"Ant Group, Charoen Pokphand Group, Bow Wave Capital",0.9777777777777777,0.8823529411764706,0.9300653594771242
+Andela,$1.5,United States,New York,Internet software & services,$374.61M,2014,4.0,,"Spark Capital, Google Ventures, CRE Venture Capital",0.6888888888888889,0.892156862745098,0.7905228758169934
+Built,$1.5,United States,Nashville,Internet software & services,$268.12M,2015,3.0,,"Nyca Partners, Index Ventures, Technology Crossover Ventures",0.7666666666666666,0.9019607843137255,0.834313725490196
+candy.com,$1.5,United States,New York,Fintech,$100M,2021,1.0,,"Insight Partners, Softbank Group, Connect Ventures",0.9111111111111111,0.9607843137254902,0.9359477124183007
+Devo,$1.5,United States,Cambridge,Data management & analytics,$381M,2011,3.0,,"Insight Partners, Kibo Ventures, Bessemer Venture Partners",0.9,0.8627450980392157,0.8813725490196078
+CoinList,$1.5,United States,San Francisco,Fintech,$169.2M,2017,2.0,,"Accomplice, Polychain Capital, GoldenTree Asset Management",0.7777777777777778,0.9215686274509804,0.8496732026143792
+Lusha,$1.5,United States,New York,Internet software & services,$245M,2016,1.0,,"PSG, ION Crossover Partners",0.9888888888888889,0.9117647058823529,0.9503267973856209
+CureFit,$1.5,India,Bengaluru,Health,$679.4M,2016,5.0,,"Chiratae Ventures, Accel, Kalaari Capital",0.5444444444444445,0.9117647058823529,0.7281045751633988
+Solugen,$1.5,United States,Houston,Other,$443.07M,2016,1.0,,"Fifty Years Fund, Refactor Capital, Temasek",0.7888888888888889,0.9117647058823529,0.8503267973856209
+Olist,$1.5,Brazil,Curitiba,E-commerce & direct-to-consumer,$318.75M,2015,2.0,,"Redpoint e.ventures, Valor Capital Group, SoftBank Latin America Fund",0.8666666666666667,0.9019607843137255,0.884313725490196
+Paradox,$1.5,United States,Scottsdale,Internet software & services,$253.46M,2016,1.0,,"Brighton Park Capital, Blue Cloud Ventures, Workday Ventures",0.8555555555555556,0.9117647058823529,0.8836601307189542
+Airbyte,$1.5,United States,San Francisco,Internet software & services,$181.35M,2020,1.0,,"Accel, Benchmark, SV Angel",0.8555555555555556,0.9509803921568627,0.9032679738562092
+StoreDot,$1.5,Israel,Herzliya,Other,$206M,2012,4.0,,"Samsung Ventures, SingulariTeam, BP Ventures",0.8555555555555556,0.8627450980392157,0.8591503267973857
+Il Makiage,$1.5,United States,New York,E-commerce & direct-to-consumer,$29M,2018,1.0,,"L Catterton, Franklin Templeton, First Light Capital Group",0.9555555555555556,0.9215686274509804,0.938562091503268
+Spendesk,$1.5,France,Paris,Fintech,$300.34M,2015,2.0,,"Index Ventures, Eight Roads Ventures, General Atlantic",0.8555555555555556,0.892156862745098,0.8738562091503268
+Veriff,$1.5,Estonia,Tallinn,Artificial intelligence,$192.32M,2015,2.0,,"Accel, Institutional Venture Partners, Tiger Global Management",0.8444444444444444,0.892156862745098,0.8683006535947713
+Athelas,$1.5,United States,Mountain View,Health,$136.08M,2016,1.0,,"Sequoia Capital, General Catalyst, 	Human Capital",0.8888888888888888,0.9019607843137255,0.8954248366013071
+ElasticRun,$1.5,India,Pune,"Supply chain, logistics, & delivery",$432.11M,2016,4.0,,"Kalaari Capital, Norwest Venture Partners, Prosus Ventures",0.9111111111111111,0.9019607843137255,0.9065359477124183
+Veho,$1.5,United States,Boulder,"Supply chain, logistics, & delivery",$299.28M,2016,2.0,,"General Catalyst, Origin Ventures, Fontinalis Partners",0.8777777777777778,0.9117647058823529,0.8947712418300653
+Temporal,$1.5,United States,Bellevue,Internet software & services,$121.75M,2019,1.0,,"Amplify Partners, Addition, Madrona Venture Group",0.9555555555555556,0.9313725490196079,0.9434640522875817
+Fabric,$1.5,United States,Bellevue,E-commerce & direct-to-consumer,$292.58M,2017,2.0,,"Redpoint Ventures, Norwest Venture Partners, Sierra Ventures",0.8888888888888888,0.9117647058823529,0.9003267973856208
+Yipin Shengxian,$1.49,China,Hefei,E-commerce & direct-to-consumer,$658.49M,2017,,,"Eastern Bell Capital, Capital Today, Longzhu Capital",0.9666666666666667,0.9411764705882353,0.9539215686274509
+Bordrin Motors,$1.48,China,Shanghai,Auto & transportation,$361M,2016,,,"China Grand Prosperity Investment, CSC Group",0.9333333333333333,0.9313725490196079,0.9323529411764706
+Coocaa,$1.45,China,Shenzhen,Hardware,$226.6M,2006,3.0,,"Baidu, Tencent Holdings",0.9666666666666667,0.8431372549019608,0.9049019607843137
+Juma Peisong,$1.45,China,Chengdu,"Supply chain, logistics, & delivery",$281.38M,2011,,,"Ding Xiang Capital, New Hope Fund, Sino-Ocean Capital",0.9333333333333333,0.892156862745098,0.9127450980392157
+Ouyeel,$1.45,China,Shanghai,Internet software & services,$433.72M,2015,,,Taigang Venture Capital,0.8111111111111111,0.9215686274509804,0.8663398692810458
+Gymshark,$1.45,United Kingdom,Solihull,E-commerce & direct-to-consumer,$300M,2012,1.0,,General Atlantic,1.0,0.8823529411764706,0.9411764705882353
+Zeta,$1.45,United States,San Francisco,Fintech,$303M,2015,3.0,,"Sodexo Ventures, SoftBank Group",0.9555555555555556,0.9019607843137255,0.9287581699346406
+M1 Finance,$1.45,United States,Chicago,Fintech,$328.17M,2015,3.0,,"Left Lane Capital, Clocktower Technology Ventures, Jump Capital",0.9333333333333333,0.9019607843137255,0.9176470588235295
+Aleo,$1.45,United States,San Francisco,Cybersecurity,$228M,2019,1.0,,"Slow Ventures, Andreessen Horowitz, SoftBank Group",0.8111111111111111,0.9313725490196079,0.8712418300653595
+Einride,$1.44,Sweden,Stockholm,Auto & transportation,$150.82M,2016,4.0,,"Temasek,	BUILD Capital Partners, 	Northzone Ventures",0.7888888888888889,0.9117647058823529,0.8503267973856209
+Justworks,$1.43,United States,New York,Internet software & services,$143M,2012,3.0,,"Index Ventures, Thrive Capital, Bain Capital Ventures",0.9111111111111111,0.8823529411764706,0.8967320261437908
+SonderMind,$1.42,United States,Denver,Health,$276.07M,2014,,,"Kickstart Fund, General Catalyst, Drive Capital",0.8111111111111111,0.892156862745098,0.8516339869281045
+Papa,$1.4,United States,Miami,Health,$242.05M,2016,1.0,,"Initialized Capital, Canaan Partners, Sound Ventures",0.8555555555555556,0.9117647058823529,0.8836601307189542
+Figment,$1.4,Canada,Toronto,Internet software & services,$163.84M,2018,2.0,,"Bonfire Ventures, Two Sigma Ventures, FJ Labs",0.7444444444444445,0.9313725490196079,0.8379084967320262
+Envoy,$1.4,United States,San Francisco,Internet software & services,$203.5M,2013,2.0,,"Andreessen Horowitz, Initialized Capital, TriplePoint Capital",0.8444444444444444,0.8725490196078431,0.8584967320261438
+Deliverect,$1.4,Belgium,Ghent,Fintech,$235.89M,2018,1.0,,"Newion Partners, SmartFin Capital, OMERS Ventures",0.9222222222222223,0.9215686274509804,0.9218954248366014
+SparkCognition,$1.4,United States,Austin,Artificial intelligence,$290.88M,2013,4.0,,"March Capital Partners, Temasek, Doha Venture Capital",0.6333333333333333,0.8725490196078431,0.7529411764705882
+Firebolt,$1.4,Israel,Tel Aviv,Data management & analytics,$264M,2019,1.0,,"TLV Partners, Zeev Ventures, Bessemer Venture Partners",0.9111111111111111,0.9313725490196079,0.9212418300653595
+Koudai,$1.4,China,Beijing,E-commerce & direct-to-consumer,$362M,2010,1.0,,"New Enterprise Associates, Tiger Global management, Tencent",0.8888888888888888,0.9215686274509804,0.9052287581699346
+Symphony,$1.4,United States,New York,Fintech,$461M,2014,4.0,,"BNP Paribas, Goldman Sachs, Google",0.7222222222222222,0.9313725490196079,0.826797385620915
+Yidian Zixun,$1.4,China,Beijing,Mobile & telecommunications,$15M,2021,,,"Phoenix New Media, Tianjin Haihe Industry Fund",0.9888888888888889,1.0,0.9944444444444445
+Cabify,$1.4,Spain,Madrid,Auto & transportation,$481.47M,2011,4.0,,"Seaya Ventures, Otter Rock Capital, Rakuten",0.7666666666666666,0.892156862745098,0.8294117647058823
+Hive Box,$1.4,China,Shenzhen,"Supply chain, logistics, & delivery",$1.24B,2015,2.0,,"Eastern Bell Capital, SF Holding Co, STO Express",0.8333333333333334,0.9313725490196079,0.8823529411764706
+Away,$1.4,United States,New York,E-commerce & direct-to-consumer,$181.1M,2015,4.0,,"Global Founders Capital, Comcast Ventures, Forerunner Ventures",0.8888888888888888,0.9215686274509804,0.9052287581699346
+Kong,$1.4,United States,San Francisco,Internet software & services,$170.5M,2007,3.0,,"New Enterprise Associates, CRV, Index Ventures",0.8222222222222222,0.8333333333333334,0.8277777777777777
+Epidemic Sound,$1.4,Sweden,Stockholm,Internet software & services,$476.14M,2009,6.0,,"EQT Partners, Blackstone",0.9111111111111111,0.8431372549019608,0.8771241830065359
+Yotpo,$1.4,United States,New York,Internet software & services,$436M,2011,3.0,,"Bessemer Venture Partners, Vintage Investment Partners, Blumberg Capital",0.7888888888888889,0.8627450980392157,0.8258169934640522
+Rebel Foods,$1.4,India,Pune,E-commerce & direct-to-consumer,$495.21M,2011,7.0,,"Sequoia Capital India, Lightbox Ventures, Coatue Management",0.8111111111111111,0.8627450980392157,0.8369281045751634
+Coda,$1.4,United States,Mountain View,Internet software & services,$495.21M,2014,7.0,,"Greylock Partners, General Catalyst, Khosla Ventures",0.8111111111111111,0.892156862745098,0.8516339869281045
+Five Star Business Finance,$1.4,India,Chennai,Other,$459.78M,1984,4.0,,"Sequoia Capital India, Tiger Global Management, Tencent",0.9333333333333333,0.5980392156862745,0.7656862745098039
+Stash,$1.4,United States,New York,Fintech,$439.25M,2015,6.0,,"Goodwater Capital, Entree Capital, Valar Ventures",0.8666666666666667,0.9019607843137255,0.884313725490196
+Phenom People,$1.4,United States,Ambler,Internet software & services,$163.02M,2011,3.0,,"Sierra Ventures, AXA Venture Partners, Sigma Prime Ventures",0.8666666666666667,0.8627450980392157,0.8647058823529412
+GupShup,$1.4,United States,San Francisco,Internet software & services,$163.02M,2011,3.0,,"Helion Venture Partners, Tiger Global management, CRV",0.8666666666666667,0.8627450980392157,0.8647058823529412
+Degreed,$1.4,United States,Pleasanton,Edtech,$385.92M,2012,3.0,,"Signal Peak Ventures, Owl Ventures, Jump Capital",0.8555555555555556,0.8725490196078431,0.8640522875816994
+Astranis Space Technologies,$1.4,United States,San Francisco,Mobile & telecommunications,$358.07M,2015,2.0,,"Refactor Capital, Andreessen Horowitz, Fifty Years Fund",0.7222222222222222,0.9019607843137255,0.8120915032679739
+Scalable Capital,$1.4,Germany,Munich,Fintech,$314.28M,2014,4.0,,"BlackRock, Tengelmann Ventures, Holtzbrinck Ventures",0.9,0.892156862745098,0.896078431372549
+VideoAmp,$1.4,United States,Los Angeles,Internet software & services,$437.1M,2014,3.0,,"Simon Equity Partners, Wavemaker Partners, Anthem Venture Partners",0.8111111111111111,0.892156862745098,0.8516339869281045
+Panther Labs,$1.4,United States,San Francisco,Cybersecurity,$140.38M,2018,1.0,,"Innovation Endeavors, s28 Capital, Lightspeed Venture Partners",0.9222222222222223,0.9313725490196079,0.9267973856209151
+Salt Security,$1.4,United States,Palo Alto,Cybersecurity,$270.74M,2016,2.0,,"Y Combinator, S Capital, Tenaya Capital",0.8555555555555556,0.9019607843137255,0.8787581699346405
+Tripledot Studios,$1.4,United Kingdom,London,Mobile & telecommunications,$202M,2017,2.0,,"Lightspeed Venture Partners, Access Industries, Eldridge",0.9555555555555556,0.9117647058823529,0.9336601307189543
+Veepee,$1.38,France,La Plaine Saint-Denis,E-commerce & direct-to-consumer,$202M,2001,2.0,,"Summit Partners, Qatar Holding",0.9555555555555556,0.9019607843137255,0.9287581699346406
+Neon,$1.38,Brazil,Sao Paulo,Fintech,$720.42M,2016,2.0,,"Propel Venture Partners, Monashees+, BBVA",0.8333333333333334,0.9019607843137255,0.8676470588235294
+DeepBlue Technology,$1.35,China,Shanghai,Artificial intelligence,$79.28M,2014,,,"DESUN Capital, Yunfeng Capital, Meridian Capital",0.9,0.9215686274509804,0.9107843137254903
+Klook,$1.35,Hong Kong,Central,Travel,$721.19M,2014,3.0,,"Sequoia Capital China, Goldman Sachs, Matrix Partners China",0.8555555555555556,0.9215686274509804,0.888562091503268
+Yaoshibang,$1.35,China,Guangzhou,Health,$497.19M,2015,2.0,,"Green Pine Capital Partners, Ivy Capital, DCM Ventures",0.8444444444444444,0.9019607843137255,0.873202614379085
+At-Bay,$1.35,United States,Mountain View,Fintech,$292M,2016,2.0,,"Lightspeed Venture Partners, Khosla Ventures, Munich Re Ventures",0.8888888888888888,0.9117647058823529,0.9003267973856208
+Alloy,$1.35,United States,New York,Fintech,$155.92M,2015,1.0,,"Bessemer Venture Partners, Eniac Ventures, Canapi Ventures",0.8777777777777778,0.9019607843137255,0.8898692810457516
+Epirus,$1.35,United States,Hawthorne,Other,$287.39M,2018,1.0,,"8VC, Bedrock Capital, Broom Ventures",0.8111111111111111,0.9215686274509804,0.8663398692810458
+Signifyd,$1.34,United States,San Jose,Fintech,$411.2M,2011,7.0,,"Menlo Ventures, Resolute Ventures, IA Ventures",0.8,0.8627450980392157,0.8313725490196079
+Motorway,$1.33,United Kingdom,London,E-commerce & direct-to-consumer,$274.59M,2017,1.0,,"Marchmont Ventures, BMW i Ventures, Index Ventures",0.9,0.9215686274509804,0.9107843137254903
+RIDI,$1.33,South Korea,Seoul,E-commerce & direct-to-consumer,$331.23M,2008,5.0,,"Atinum Investment, Company K Partners, GIC",0.8555555555555556,0.8235294117647058,0.8395424836601307
+Flipboard,$1.32,United States,Palo Alto,Internet software & services,$210.5M,2010,5.0,,"Kleiner Perkins Caufield & Byers, Comcast Ventures, Insight Partners",0.8,0.9117647058823529,0.8558823529411765
+Grove Collaborative,$1.32,United States,San Francisco,E-commerce & direct-to-consumer,$453.01M,2016,5.0,,"MHS Capital, NextView Ventures, Mayfield Fund",0.7777777777777778,0.9313725490196079,0.8545751633986929
+GPclub,$1.32,South Korea,Seoul,Other,$66.16M,2003,1.0,,Goldman Sachs,1.0,0.8137254901960784,0.9068627450980392
+Tongdun Technology,$1.32,China,Hangzhou,Cybersecurity,$361.44M,2013,5.0,,"Advantech Capital, Temasek Holdings Ltd., Tiantu Capital Co.",0.8222222222222222,0.9019607843137255,0.8620915032679739
+Athletic Greens,$1.32,United States,New York,Health,$115M,2010,1.0,,"SC.Holdings, Not Boring Capital, Bolt Ventures",0.6444444444444444,0.8431372549019608,0.7437908496732026
+Unisound,$1.31,China,Beijing,Artificial intelligence,$339.11M,2012,3.0,,"Qiming Venture Partners, China Internet Investment Fund, Qualcomm Ventures",0.8444444444444444,0.9019607843137255,0.873202614379085
+Alzheon,$1.31,United States,Framingham,Health,$94.4M,2013,2.0,,"ARCH Venture Partners, Ally Bridge Group",0.9666666666666667,0.892156862745098,0.9294117647058824
+HeartFlow,$1.3,United States,Redwood City,Health,$542.41M,2007,9.0,,"BlueCross BlueShield Venture Partners, US Venture Partners",0.8777777777777778,0.8627450980392157,0.8702614379084967
+Trax,$1.3,Singapore,Singapore,Artificial intelligence,$1.013B,2010,5.0,,"Hopu Investment Management, Boyu Capital, DC Thomson Ventures",0.9,0.8725490196078431,0.8862745098039215
+You & Mr Jones,$1.3,United States,New York,Other,$1.013B,2015,5.0,,Undisclosed,0.9,0.9215686274509804,0.9107843137254903
+InSightec,$1.3,Israel,Tirat Carmel,Health,$559.05M,1999,3.0,,"York Capital Management, GE Healthcare, Koch Disruptive Technologies",0.8888888888888888,0.7549019607843137,0.8218954248366013
+Everly Health,$1.3,United States,Austin,E-commerce & direct-to-consumer,$230.55M,2015,3.0,,"Highland Capital Partners, Next Coast Ventures, SoGal Ventures",0.8111111111111111,0.9117647058823529,0.8614379084967321
+Manner,$1.3,China,Shanghai,Other,$11.54M,2015,2.0,,"Coatue Management, H Capital, Capital Today",0.9444444444444444,0.9117647058823529,0.9281045751633987
+TalkingData,$1.3,China,Beijing,Mobile & telecommunications,$310M,2013,1.0,,"N5 Capital, CR Capital Mgmt, JD Digits",0.9333333333333333,0.8823529411764706,0.907843137254902
+Konfio,$1.3,Mexico,Mexico City,Fintech,$824.59M,2013,3.0,,"Kaszek Ventures, QED Investors, International Finance Corporation",0.8333333333333334,0.8823529411764706,0.857843137254902
+Betterment,$1.3,United States,New York,Fintech,$435M,2010,7.0,,"Bessemer Venture Partners, Menlo Ventures, Anthermis",0.7888888888888889,0.8529411764705882,0.8209150326797385
+Flock Freight,$1.3,United States,Encinitas,"Supply chain, logistics, & delivery",$399.7M,2015,2.0,,"SignalFire, GLP Capital Partners, Google Ventures",0.9111111111111111,0.9019607843137255,0.9065359477124183
+YugaByte,$1.3,United States,Sunnyvale,Data management & analytics,$290M,2016,3.0,,"Lightspeed Venture Partners, Dell Technologies Capital, Wipro Ventures",0.9,0.9117647058823529,0.9058823529411765
+Lukka,$1.3,United States,New York,Fintech,$207.3M,2014,4.0,,"Liberty City Ventures, Soros Fund Management, Summer Capital",0.8666666666666667,0.8823529411764706,0.8745098039215686
+TravelPerk,$1.3,Spain,Barcelona,Travel,$408.58M,2015,3.0,,"LocalGlobe, Kinnevik, Felix Capital",0.8444444444444444,0.892156862745098,0.8683006535947713
+iTrustCapital,$1.3,United States,Long Beach,Fintech,$125M,2018,1.0,,"Left Lane Capital, Walden Venture Capital",0.9888888888888889,0.9215686274509804,0.9552287581699347
+Domestika,$1.3,United States,Berkeley,Internet software & services,$200M,2012,2.0,,"Zeev Ventures, GSV Ventures",0.9888888888888889,0.8627450980392157,0.9258169934640523
+CoinTracker,$1.3,United States,San Francisco,Fintech,$101.62M,2017,1.0,,"Initialized Capital, General Catalyst, Kraken Ventures",0.8222222222222222,0.9117647058823529,0.8669934640522876
+Loadsmart,$1.3,United States,New York,"Supply chain, logistics, & delivery",$345.2M,2014,2.0,,"Chromo Invest, Maersk Growth, BlackRock",0.9,0.8823529411764706,0.8911764705882352
+TUNGEE,$1.3,China,Guangzhou,Artificial Intelligence,$171.05M,2016,1.0,,"UNITY VENTURES, Qiming Venture Partners, GGV Capital",0.9111111111111111,0.9117647058823529,0.911437908496732
+Starry,$1.29,United States,Boston,Mobile & telecommunications,$163M,2014,4.0,,"Social Capital, Bessemer Venture Partners",0.9333333333333333,0.9215686274509804,0.9274509803921569
+Intercom,$1.28,United States,San Francisco,Internet software & services,$240.25M,2011,5.0,,"FirstMark Capital, Tiger Global Management",0.7888888888888889,0.892156862745098,0.8405228758169934
+OVO Energy,$1.28,United Kingdom,Bristol,Other,$256M,2009,2.0,,"Mitsubishi Corporation, Mayfair Equity Partners",0.9888888888888889,0.8627450980392157,0.9258169934640523
+Huisuanzhang,$1.28,China,Beijing,Fintech,$227.34M,2015,3.0,,"IDG Capital, Gaocheng Capital, Chuanrong Capital",0.8444444444444444,0.9019607843137255,0.873202614379085
+WTOIP,$1.27,China,Guangzhou,Internet software & services,$306.98M,2013,1.0,,"Dark Horse Technology Group, Hopu Investment Management, Kefa Capital",0.8888888888888888,0.9117647058823529,0.9003267973856208
+BigID,$1.25,United States,New York,Cybersecurity,$246.1M,2015,4.0,,"BOLDstart Ventures, SAP.iO Fund, Scale Venture Partners",0.8,0.9117647058823529,0.8558823529411765
+Kuaikan Manhua,$1.25,China,Beijing,Internet software & services,$595M,2014,3.0,,"Sequoia Capital China, CMC Capital Partners, Tencent Holdings",0.8555555555555556,0.9313725490196079,0.8934640522875817
+Marshmallow,$1.25,United Kingdom,London,Fintech,$116.2M,2017,2.0,,"Passion Capital, Hedosophia, 	Outrun Ventures",0.9444444444444444,0.9215686274509804,0.9330065359477124
+Honor Technology,$1.25,United States,San Francisco,Internet software & services,$622.12M,2014,4.0,,"Andreessen Horowitz, Prosus Ventures, Thrive Capital",0.4222222222222223,0.892156862745098,0.6571895424836601
+Mythical Games,$1.25,United States,Sherman Oaks,Internet software & services,$260M,2018,1.0,,"Javelin Venture Partners, Struck Capital, Alumni Ventures Group",0.6666666666666667,0.9313725490196079,0.7990196078431373
+Incode Technologies,$1.25,United States,San Francisco,Cybersecurity,$255M,2015,1.0,,"Dila Capital, Framework Ventures, 3L",0.8777777777777778,0.9019607843137255,0.8898692810457516
+Tackle.io,$1.25,United States,Boise,Internet software & services,$155.9M,2016,1.0,,"Andreessen Horowitz, Bessemer Venture Partners, Coatue Management",0.9666666666666667,0.9117647058823529,0.9392156862745098
+Flipdish,$1.25,Ireland,Dublin,Internet software & services,$156.34M,2015,1.0,,"Tencent Holdings, Tiger Global Management, Global Founders Capital",0.9444444444444444,0.892156862745098,0.9183006535947712
+Route,$1.25,United States,Lehi,"Supply chain, logistics, & delivery",$247M,2018,1.0,,"Madrona Venture Group, Banner Ventures, FJ Labs",0.8888888888888888,0.9215686274509804,0.9052287581699346
+CaptivateIQ,$1.25,United States,San Francisco,Fintech,$159.12M,2014,1.0,,"Sequoia Capital, Y Combinator, Accel",0.9222222222222223,0.8823529411764706,0.9022875816993464
+BrewDog,$1.24,United Kingdom,Aberdeen,Consumer & retail,$296.77M,2007,1.0,,"TSG Consumer Partners, Crowdcube",0.9666666666666667,0.8627450980392157,0.9147058823529413
+Enflame,$1.24,China,Shanghai,Hardware,$470.52M,2018,1.0,,"Tencent Holdings, Delta Capital, Redpoint Ventures China",0.8111111111111111,0.9313725490196079,0.8712418300653595
+EQRx,$1.23,United States,Cambridge,Health,$700M,2020,1.0,,"Nextech Invest, Casdin Capital, Google Ventures",0.9222222222222223,0.9509803921568627,0.9366013071895425
+Nexii,$1.23,Canada,Vancouver,Other,$101.97M,2020,2.0,,"Trane Technologies, Honeywell",0.9666666666666667,0.9509803921568627,0.9588235294117646
+Spiber,$1.22,Japan,Tsuruoka,Other,$911.62M,2007,2.0,,"Cool Japan Fund, JAFCO, The Carlyle Group",0.7666666666666666,0.8235294117647058,0.7950980392156862
+Insider,$1.22,Turkey,Istanbul,Internet software & services,$166.2M,2012,3.0,,"Wamda Capital, Endeavor, Riverwood Capital",0.9111111111111111,0.8627450980392157,0.8869281045751634
+Yiguo,$1.2,China,Shanghai,"Supply chain, logistics, & delivery",$800M,2005,1.0,,"Alibaba Group, KKR, Goldman Sachs",0.8777777777777778,0.8529411764705882,0.865359477124183
+Glossier,$1.2,United States,New York,Consumer & retail,$267.4M,2014,3.0,,"Forerunner Ventures, Institutional Venture Partners, Thrive Capital",0.8333333333333334,0.9117647058823529,0.8725490196078431
+Workhuman,$1.2,Ireland,Dublin,Internet software & services,$11.3M,1999,3.0,,ICG,0.9777777777777777,0.7549019607843137,0.8663398692810458
+Qumulo,$1.2,United States,Seattle,Data management & analytics,$345.5M,2012,5.0,,"Madrona Venture Group, Kleiner Perkins Caufield & Byers, Highland Capital Partners",0.8777777777777778,0.8823529411764706,0.8800653594771242
+Tealium,$1.2,United States,San Diego,Internet software & services,$263.9M,2008,8.0,,"Georgian Partners, Silver Lake, Presidio Ventures",0.8444444444444444,0.8333333333333334,0.8388888888888889
+Public,$1.2,United States,New York,Fintech,$263.9M,2008,8.0,,"Accel, Greycroft, Advancit Capital",0.8444444444444444,0.8333333333333334,0.8388888888888889
+Axonius,$1.2,United States,New York,Cybersecurity,$195M,2017,1.0,,"Vertex Ventures Israel, Bessemer Venture Partners, Emerge",0.8555555555555556,0.9215686274509804,0.888562091503268
+Savage X Fenty,$1.2,United States,El Segundo,E-commerce & direct-to-consumer,$310M,2018,1.0,,"Speedinvest, Valar Ventures, Uniqa Ventures",0.9111111111111111,0.9313725490196079,0.9212418300653595
+Pipa Coding,$1.2,China,Beijing,Edtech,$267.73M,2017,2.0,,"Source Code Capital, XVC Venture Capital, Hillhouse Capital Management",0.8888888888888888,0.9215686274509804,0.9052287581699346
+Aibee,$1.2,China,Beijing,Artificial intelligence,$175.31M,2017,3.0,,"Sequoia Capital China, Lenovo Capital and Incubator, Group GSR Ventures",0.7666666666666666,0.9215686274509804,0.8441176470588235
+Cava Group,$1.3,United States,Washington,Other,$678.35M,2010,3.0,,"SWaN & Legend Ventures, Revolution Growth, Invus Group",0.9222222222222223,0.8529411764705882,0.8875816993464052
+Vectra Networks,$1.2,United States,San Jose,Artificial intelligence,$352.48M,2011,4.0,,"IA Ventures, Khosla Ventures, AME Cloud Ventures",0.8444444444444444,0.8627450980392157,0.8535947712418301
+Ada Support,$1.2,Canada,Toronto,Artificial intelligence,$190.73M,2016,1.0,,"Version One Ventures, Bessemer Venture Partners, FirstMark Capital",0.8888888888888888,0.9117647058823529,0.9003267973856208
+Inari,$1.2,United States,Cambridge,Other,$397M,2016,2.0,,"Flagship Pioneering, Alexandria Venture Investments, Investment Corporation of Dubai",0.9,0.9117647058823529,0.9058823529411765
+Alation,$1.2,United States,Redwood City,Internet software & services,$192M,2012,4.0,,"Costanoa Ventures, Data Collective, Salesforce Ventures",0.8333333333333334,0.8725490196078431,0.8529411764705883
+Forto,$1.2,Germany,Berlin,"Supply chain, logistics, & delivery",$615.83M,2016,3.0,,"Cherry Ventures, Northzone Ventures, Global Founders Capital",0.7888888888888889,0.9117647058823529,0.8503267973856209
+SmartMore,$1.2,China,Shenzhen,Artificial Intelligence,$300M,2019,1.0,,"IDG Capital, ZhenFund, Sequoia Capital China",0.9,0.9411764705882353,0.9205882352941177
+Rohlik,$1.2,Czech Republic,Prague,"Supply chain, logistics, & delivery",$300M,2019,1.0,,"Partech Partners, Index Ventures, Quadrille Capital",0.9,0.9411764705882353,0.9205882352941177
+Prime Medicine,$1.2,United States,Cambridge,Health,$315M,2019,1.0,,"Newpath Partners, Google Ventures, F-Prime Capital",0.8888888888888888,0.9411764705882353,0.9150326797385621
+FloQast,$1.2,United States,Los Angeles,Fintech,$181.5M,2013,3.0,,"Polaris Partners, Insight Partners, Norwest Venture Partners",0.8888888888888888,0.8823529411764706,0.8856209150326797
+MindTickle,$1.2,United States,San Francisco,Internet software & services,$281.3M,2012,5.0,,"Qualcomm Ventures, Accel, Canaan Partners",0.9111111111111111,0.8725490196078431,0.8918300653594771
+UpGrad,$1.2,India,Mumbai,Edtech,$361.23M,2015,3.0,,"Qualcomm Ventures, Accel, Canaan Partners",0.9555555555555556,0.9019607843137255,0.9287581699346406
+DailyPay,$1.2,United States,New York,Fintech,$517.5M,2016,3.0,,"RPM Ventures, Inspiration Ventures, Carrick Capital Partners",0.9222222222222223,0.9117647058823529,0.9169934640522877
+Oda,$1.2,Norway,Oslo,E-commerce & direct-to-consumer,$201.96M,2013,6.0,,"Kinnevik, Softbank Group, Prosus Ventures",0.9,0.8823529411764706,0.8911764705882352
+Offchain Labs,$1.2,United States,Princeton,Internet software & services,$123.7M,2018,1.0,,"Pantera Capital, Polychain Capital, Lightspeed Venture Partners",0.8777777777777778,0.9313725490196079,0.9045751633986928
+Copado,$1.2,United States,Chicago,Data management & analytics,$276.05M,2013,3.0,,"Insight Partners, Salesforce Ventures, Perpetual Investors",0.9,0.8823529411764706,0.8911764705882352
+Gem,$1.2,United States,San Francisco,Internet software & services,$146M,2017,1.0,,"Accel, Greylock Partners, Meritech Capital Partners",0.9555555555555556,0.9215686274509804,0.938562091503268
+CarDekho,$1.2,India,Jaipur,E-commerce & direct-to-consumer,$536.1M,2008,6.0,,"Sequoia Capital India, Hillhouse Capital Management, Sunley House Capital Management",0.7666666666666666,0.8333333333333334,0.8
+MyGlamm,$1.2,India,Mumbai,E-commerce & direct-to-consumer,$283.88M,2015,6.0,,"L'Occitane, Trifecta Capital, Bessemer Venture Partners",0.8111111111111111,0.9019607843137255,0.8565359477124184
+AgentSync,$1.2,United States,Denver,Fintech,$111.1M,2018,3.0,,"Craft Ventures, Caffeinated Capital, Operator Collective",0.8777777777777778,0.9313725490196079,0.9045751633986928
+Pristyn Care,$1.4,India,Gurugram,Health,$176.67M,2018,2.0,,"Sequoia Capital India, Hummingbird Ventures, Epiq Capital",0.8333333333333334,0.9313725490196079,0.8823529411764706
+Jokr,$1.2,United States,New York,E-commerce & direct-to-consumer,$430M,2021,1.0,,"GGV Capital, Tiger Global Management, Greycroft",0.8444444444444444,0.9607843137254902,0.9026143790849673
+Merama,$1.2,Mexico,Mexico City,E-commerce & direct-to-consumer,$445M,2020,3.0,,"SoftBank Latin America Fund, Advent International, Balderton Capital",0.8777777777777778,0.9509803921568627,0.9143790849673202
+SeekOut,$1.2,United States,Bellevue,Internet software & services,$188.2M,2017,2.0,,"Mayfield, Madrona Venture Group, Tiger Global Management",0.9666666666666667,0.9117647058823529,0.9392156862745098
+BigPanda,$1.2,United States,Mountain View,Artificial intelligence,$292.5M,2012,4.0,,"Advent International, Battery Ventures, Sequoia Capital Israel",0.8888888888888888,0.8627450980392157,0.8758169934640523
+Phantom,$1.2,United States,San Francisco,Fintech,$118.5M,2021,1.0,,"Paradigm, Andreessen Horowitz, Jump Capital",0.9111111111111111,0.9509803921568627,0.931045751633987
+LivSpace,$1.2,India,Bengaluru,E-commerce & direct-to-consumer,$371.69M,2015,3.0,,"Jungle Ventures, Helion Venture Partners, INGKA Investments",0.7777777777777778,0.892156862745098,0.8349673202614378
+Xpressbees,$1.2,India,Pune,"Supply chain, logistics, & delivery",$472.94M,2012,3.0,,"Norwest Venture Partners, Investcorp, Blackstone",0.8666666666666667,0.8627450980392157,0.8647058823529412
+Helium Systems,$1.2,United States,San Francisco,Internet software & services,$251M,2013,3.0,,"FirstMark Capital, Tiger Global Management, FTX Venture",0.8333333333333334,0.8725490196078431,0.8529411764705883
+CloudBees,$1.15,United States,San Jose,Data management & analytics,$368.26M,2010,5.0,,"Matrix Partners, Lightspeed Venture Partners, Verizon Ventures",0.8888888888888888,0.8529411764705882,0.8709150326797386
+L&P Cosmetic,$1.19,South Korea,Seoul,Consumer & retail,$118.64M,2009,4.0,,CDIB Capital,0.9666666666666667,0.892156862745098,0.9294117647058824
+Mininglamp Technology,$1.19,China,Beijing,Artificial intelligence,$1.003B,2014,,,"Russia-China Investment Fund, Tencent Holdings, Sequoia Capital China",0.8,0.9117647058823529,0.8558823529411765
+Luoji Siwei,$1.18,China,Beijing,Edtech,$188.15M,2012,2.0,,"Sequoia Capital China, Qiming Venture Partners, Tencent Holdings",0.9222222222222223,0.9117647058823529,0.9169934640522877
+Yimidida,$1.17,China,Shanghai,"Supply chain, logistics, & delivery",$553.61M,2015,2.0,,"Source Code Capital, Global Logistic Properties, K2VC",0.8555555555555556,0.9215686274509804,0.888562091503268
+Modern Health,$1.17,United States,San Francisco,Health,$168.06M,2017,1.0,,"Kleiner Perkins Caufield & Byers, Afore Capital, Founders Fund",0.8333333333333334,0.9215686274509804,0.8774509803921569
+IRL,$1.17,United States,San Francisco,Internet software & services,$197M,2017,2.0,,"Goodwater Capital, Floodgate, Founders Fund",0.8777777777777778,0.9215686274509804,0.8996732026143791
+Tuhu,$1.16,China,Shanghai,Auto & transportation,$580.45M,2011,2.0,,"Qiming Venture Partners, Yaxia Automobile, Far East Horizon",0.8,0.892156862745098,0.846078431372549
+SVOLT,$1.16,China,Changzhou,Auto & transportation,$3.207B,2018,2.0,,"IDG Capital, Bank Of China Group Investment,, SDIC CMC Investment Management",0.6777777777777778,0.9411764705882353,0.8094771241830065
+LifeMiles,$1.15,Colombia,Bogota,Other,$343.7M,2011,1.0,,Advent International,1.0,0.9215686274509804,0.9607843137254902
+Venafi,$1.15,United States,Salt Lake City,Cybersecurity,$174M,2000,4.0,,"Pelion Venture Partners, Foundation Capital, Thoma Bravo",0.8666666666666667,0.7647058823529411,0.8156862745098039
+Guideline,$1.15,United States,San Mateo,Fintech,$339M,2015,4.0,,"Pelion Venture Partners, Foundation Capital, Thoma Bravo",0.8555555555555556,0.9019607843137255,0.8787581699346405
+Rebellion Defense,$1.15,United States,Washington DC,Artificial intelligence,$150M,2019,1.0,,"Venrock, Innovation Endeavors, Insights Partners",0.9222222222222223,0.9411764705882353,0.9316993464052288
+Elemy,$1.15,United States,San Francisco,Health,$10K,2019,,,"General Catalyst, Bling Capital, Felicis Ventures",1.0,0.9411764705882353,0.9705882352941176
+Happy Money,$1.15,United States,Tustin,Fintech,$444.63M,2009,6.0,,"FirstMark Capital, Anthemis, CMFG Ventures",0.8666666666666667,0.8333333333333334,0.8500000000000001
+Doctolib,$1.14,France,Paris,Health,$266.98M,2013,3.0,,"BPI France, Kerala Ventures, Accel",0.8777777777777778,0.9019607843137255,0.8898692810457516
+STORD,$1.13,United States,Atlanta,"Supply chain, logistics, & delivery",$201.04M,2015,2.0,,"Dynamo VC, Susa Ventures, Founders Fund",0.7888888888888889,0.9019607843137255,0.8454248366013072
+TELD,$1.12,China,Qingdao,Fintech,$193.24M,2014,1.0,,"China Reform Fund, Gaopeng Capital, Jinhui Xingye",0.9111111111111111,0.9117647058823529,0.911437908496732
+TangoMe,$1.1,United States,Mountain View,Mobile & telecommunications,$373.44M,2009,4.0,,"Draper Fisher Jurtson, Qualcomm Ventures, Alibaba Group",0.8444444444444444,0.9117647058823529,0.8781045751633987
+Juanpi,$1.1,China,Wuhan,E-commerce & direct-to-consumer,$136.05M,2012,,,"Tiantu Capital, SAIF Partners China, Newsion Venture Capital",0.9333333333333333,0.9215686274509804,0.9274509803921569
+OVH,$1.1,France,Roubaix,Other,$1.243B,1999,1.0,,"KKR, TowerBrook Capital Partners",0.9,0.7941176470588236,0.8470588235294119
+Eat Just,$1.1,United States,San Francisco,Consumer & retail,$706.6M,2011,6.0,,"Khosla Ventures, Horizons Ventures, Founders Fund",0.6333333333333333,0.9019607843137255,0.7676470588235293
+GetYourGuide,$1.1,Germany,Berlin,Travel,$884.79M,2009,3.0,,"Spark Capital, Highland Europe, Sunstone Capital",0.7666666666666666,0.8627450980392157,0.8147058823529412
+Ivalua,$1.1,United States,Redwood City,Fintech,$133M,2000,1.0,,"Ardian, Tiger Global Management, KKR",0.9666666666666667,0.7745098039215687,0.8705882352941177
+Sisense,$1.1,United States,New York,Data management & analytics,$278M,2004,5.0,,"Opus Capital, Genesis Partners, Battery Ventures",0.9,0.803921568627451,0.8519607843137256
+Pharmapacks,$1.1,United States,Islandia,E-commerce & direct-to-consumer,$476M,2010,1.0,,The Carlyle Group,0.9,0.8627450980392157,0.8813725490196078
+Sennder,$1.1,Germany,Berlin,"Supply chain, logistics, & delivery",$310.02M,2015,3.0,,"Accelm Scania Growth Capital, Lakestar",0.8555555555555556,0.9019607843137255,0.8787581699346405
+Nexthink,$1.1,Switzerland,Prilly,Data management & analytics,$329.9M,2004,2.0,,"Auriga, Galeo Ventures, Highland Europe",0.8666666666666667,0.7941176470588236,0.8303921568627451
+Zego,$1.1,United Kingdom,London,Fintech,$255.5M,2016,2.0,,"LocalGlobe, Balderton Capital, Target Global",0.9111111111111111,0.9117647058823529,0.911437908496732
+Rightway,$1.1,United States,New York,Health,$130M,2017,1.0,,"Thrive Capital, Khosla Ventures, Tiger Global Management",0.9666666666666667,0.9215686274509804,0.9441176470588235
+Sunbit,$1.1,United States,Los Angeles,Fintech,$197.67M,2016,1.0,,"Zeev Ventures, Group11, Chicago Ventures",0.9222222222222223,0.9117647058823529,0.9169934640522877
+Qingting FM,$1.1,China,Shanghai,Internet software & services,$163.7M,2011,2.0,,"China Culture Industrial Investment Fund, We Capital, China Minsheng Investment Group",0.8333333333333334,0.8627450980392157,0.8480392156862746
+G2,$1.1,United States,Chicago,Internet software & services,$265.07M,2012,6.0,,"Pritzker Group Venture Capital, Accel, Hyde Park Venture Partners",0.7888888888888889,0.8725490196078431,0.830718954248366
+Hailo,$1,Israel,Tel Aviv,Artificial intelligence,$217M,2017,2.0,,"Glory Ventures, Maniv Mobility",0.8111111111111111,0.9215686274509804,0.8663398692810458
+People.ai,$1.1,United States,San Francisco,Internet software & services,$217M,2017,2.0,,"GGV Capital, Lightspeed Venture Partners, ICONIQ Capital",0.8111111111111111,0.9215686274509804,0.8663398692810458
+CoinDCX,$1.1,India,Maharashtra,Fintech,$109.4M,2017,1.0,,"Polychain Capital, Coinbase Ventures, Jump Capital",0.8222222222222222,0.9215686274509804,0.8718954248366013
+Carousell,$1.1,Singapore,Singapore,E-commerce & direct-to-consumer,$443M,2012,7.0,,"500 Global, Rakuten Ventures, Golden Gate Ventures",0.8333333333333334,0.8725490196078431,0.8529411764705883
+apna,$1.1,India,Bengaluru,Internet software & services,$192.5M,2019,2.0,,"Sequoia Capital India, Rocketship.vc, Lightspeed India Partners",0.9111111111111111,0.9411764705882353,0.9261437908496732
+Karat,$1.1,United States,Seattle,Internet software & services,$151.6M,2014,2.0,,"8VC, Norwest Venture Partners, Tiger Global Management",0.9222222222222223,0.892156862745098,0.9071895424836601
+Enpal,$1.1,Germany,Berlin,Internet software & services,$750.37M,2017,2.0,,"HV Capital, Softbank Group, BlackRock",0.8,0.9215686274509804,0.8607843137254902
+Acko General Insurance,$1.1,India,Bengaluru,Fintech,$428M,2016,4.0,,"Intact Ventures, Munich Re Ventures, General Atlantic",0.7666666666666666,0.9117647058823529,0.8392156862745097
+Daily Harvest,$1.1,United States,New York,E-commerce & direct-to-consumer,$120.98M,2014,2.0,,"M13, Lightspeed Venture Partners, Lone Pine Capital",0.8444444444444444,0.892156862745098,0.8683006535947713
+The Bank of London,$1.1,United Kingdom,London,Fintech,$90M,2018,1.0,,"Mangrove Capital Partners,14W. ForgeLight",0.9777777777777777,0.9313725490196079,0.9545751633986927
+Turing,$1.1,United States,Palo Alto,Internet software & services,$136.05M,2018,1.0,,"Foundation Capital, 	Frontier Ventures, AltaIR Capital",0.0,0.9313725490196079,0.46568627450980393
+GlobalBees,$1.1,India,New Delhi,E-commerce & direct-to-consumer,$291.5M,2021,1.0,,"Chiratae Ventures, SoftBank Group, Trifecta Capital",0.9222222222222223,0.9607843137254902,0.9415032679738562
+LEAD School,$1.1,India,Andheri,Edtech,$166M,2012,1.0,,"WestBridge Capital, GSV Ventures, Elevar Equity",0.9444444444444444,0.8627450980392157,0.9035947712418301
+eSentire,$1.1,Canada,Waterloo,Cybersecurity,$287.88M,2001,2.0,,"Edison Partners, Georgian Partners, VentureLink",0.8777777777777778,0.7549019607843137,0.8163398692810457
+Beyond Identity,$1.1,United States,New York,Cybersecurity,$205M,2019,1.0,,"New Enterprise Associates, Koch Disruptive Technologies, Evolution Equity Partners",0.9333333333333333,0.9313725490196079,0.9323529411764706
+Nxin,$1.08,China,Beijing,Internet software & services,$53.05M,2015,1.0,,"Beijing Juneng Hesheng Industry Investment Fund, Beijing Shuju Xinrong Fund",0.9555555555555556,0.9313725490196079,0.9434640522875817
+UISEE Technology,$1.08,China,Beijing,"Supply chain, logistics, & delivery",$154.3M,2016,1.0,,"Shenzhen Capital Group, Robert Bosch Venture Capital, SeptWolves Ventures",0.8444444444444444,0.9117647058823529,0.8781045751633987
+56PINGTAI,$1.08,China,Shanghai,"Supply chain, logistics, & delivery",$187.82M,2013,1.0,,"QF Capital, QC Capital, Unicom Innovation Venture Capital",0.8888888888888888,0.8823529411764706,0.8856209150326797
+Rubicon,$1.07,United States,Atlanta,Other,$285.71M,2008,7.0,,"Goldman Sachs, Leonardo DiCaprio, Promecap",0.8222222222222222,0.8725490196078431,0.8473856209150327
+Radius Payment Solutions,$1.07,United Kingdom,Crewe,Fintech,$200.11M,1990,1.0,,Inflexion Private Equity,1.0,0.696078431372549,0.8480392156862745
+Rivigo,$1.07,India,Gurgaon,"Supply chain, logistics, & delivery",$319.89M,2014,7.0,,"SAIF Partners India, Warburg Pincus, Trifecta Capital Advisors",0.9333333333333333,0.9117647058823529,0.9225490196078432
+Mamaearth,$1.07,India,Gurgaon,E-commerce & direct-to-consumer,$153.3M,2016,3.0,,"Fireside Ventures, Sequoia Capital India, Stellaris Venture Partners",0.8888888888888888,0.9117647058823529,0.9003267973856208
+Jiuxian,$1.05,China,Beijing,E-commerce & direct-to-consumer,$249.21M,2009,3.0,,"Sequoia Capital China, Rich Land Capital, Merrysunny Wealth",0.9222222222222223,0.9019607843137255,0.912091503267974
+Instabase,$1.05,United States,San Francisco,Data management & analytics,$131.94M,2015,3.0,,"New Enterprise Associates, Greylock Partners, Andreessen Horowitz",0.9111111111111111,0.9215686274509804,0.9163398692810458
+Sendbird,$1.05,United States,San Mateo,Mobile & telecommunications,$219.64M,2013,2.0,,"FundersClub, Y Combinator, Tiger Global Management",0.8333333333333334,0.8823529411764706,0.857843137254902
+Density,$1.05,United States,San Francisco,Hardware,$217.2M,2014,2.0,,"Founders Fund, Upfront Ventures, 	01 Advisors",0.7666666666666666,0.892156862745098,0.8294117647058823
+Mixpanel,$1.05,United States,San Francisco,Internet software & services,$284.52M,2009,3.0,,"Bain Capital Tech Opportunities, Andreessen Horowitz, Sequoia Capital",0.9,0.8431372549019608,0.8715686274509804
+Aprogen,$1.04,South Korea,Seongnam-Si,Health,$62.12M,2000,3.0,,"Lindeman Asia Investment, Nichi-Iko Pharmaceutical",0.9888888888888889,0.7745098039215687,0.8816993464052287
+OrCam Technologies,$1.03,Israel,Jerusalem,Artificial intelligence,$77.4M,2010,2.0,,"Intel Capital, Aviv Venture Capital",0.9555555555555556,0.8823529411764706,0.9189542483660131
+Leap Motor,$1.01,China,Hangzhou,Auto & transportation,$1.761B,2015,1.0,,"Sequoia Capital China, Gopher Asset Management, Shanghai Electric Group",0.7888888888888889,0.9313725490196079,0.8601307189542484
+Lookout,$1,United States,San Francisco,Cybersecurity,$281M,2007,7.0,,"Accel Partners, Greylock Partners, Lowercase Capital",0.7222222222222222,0.9019607843137255,0.8120915032679739
+TechStyle Fashion Group,$1,United States,El Segundo,E-commerce & direct-to-consumer,$300M,2010,5.0,,"Matrix Partners, Passport Capital, Rho Ventures",0.8888888888888888,0.9215686274509804,0.9052287581699346
+InMobi,$1,India,Bengaluru,Mobile & telecommunications,$510.6M,2007,4.0,,"Kleiner Perkins Caufield & Byers, Softbank Corp., Sherpalo Ventures",0.9222222222222223,0.892156862745098,0.9071895424836601
+LinkSure Network,$1,China,Shanghai,Mobile & telecommunications,$52M,2013,1.0,,,0.9888888888888889,0.9411764705882353,0.9650326797385621
+Red Ventures,$1,United States,Fort Mill,Other,$1.05B,2000,1.0,,"Silver Lake Partners, General Atlantic",0.9888888888888889,0.8137254901960784,0.9013071895424837
+BeiBei,$1,China,Hangzhou,E-commerce & direct-to-consumer,$224.4M,2011,1.0,,"Banyan Capital, New Horizon Capital, IDG Capital Partners",0.9444444444444444,0.9215686274509804,0.9330065359477124
+Lamabang,$1,China,Shenzhen,E-commerce & direct-to-consumer,$120M,2011,1.0,,"5Y Capital, Matrix Partners China, K2VC",0.9444444444444444,0.9215686274509804,0.9330065359477124
+JimuBox,$1,China,Beijing,Fintech,$131M,2013,,,"Matrix Partners China, Ventech China, Shunwei Capital Partners",0.9,0.9411764705882353,0.9205882352941177
+BenevolentAI,$1,United Kingdom,London,Artificial intelligence,$345.55M,2013,4.0,,Woodford Investment Management,0.9333333333333333,0.9411764705882353,0.9372549019607843
+FXiaoKe,$1,China,Beijing,Mobile & telecommunications,$293M,2011,2.0,,"IDG Capital, Northern Light Venture Capital, DCM Ventures",0.8555555555555556,0.9215686274509804,0.888562091503268
+Vox Media,$1,United States,Washington,Internet software & services,$324.65M,2011,8.0,,"Accel Partners, Comcast Ventures, General Atlantic",0.9111111111111111,0.9215686274509804,0.9163398692810458
+Mia.com,$1,China,Beijing,E-commerce & direct-to-consumer,$231.6M,2011,1.0,,"Sequoia Capital China, ZhenFund, K2 Ventures",0.9444444444444444,0.9215686274509804,0.9330065359477124
+58 Daojia,$1,China,Beijing,Internet software & services,$300M,2014,1.0,,"KKR, Alibaba Group, Ping An Insurance",0.9777777777777777,0.9509803921568627,0.9643790849673202
+Womai,$1,China,Beijing,E-commerce & direct-to-consumer,$320M,2009,1.0,,"SAIF Partners China, Baidu, IDG Capital",0.9555555555555556,0.9019607843137255,0.9287581699346406
+HuJiang,$1,China,Shanghai,Edtech,$223.29M,2001,1.0,,"China Minsheng Investment, Baidu, Wanxin Media",0.9777777777777777,0.8235294117647058,0.9006535947712417
+iTutorGroup,$1,China,Shanghai,Edtech,$315M,1998,1.0,,"QiMing Venture Partners, Temasek Holdings, Silverlink Capital",0.9,0.7941176470588236,0.8470588235294119
+MindMaze,$1,Switzerland,Lausanne,Health,$348.5M,2012,3.0,,Hinduja Group,0.9555555555555556,0.9215686274509804,0.938562091503268
+SMS Assist,$1,United States,Chicago,Internet software & services,$255M,2003,3.0,,"Goldman Sachs, Insights Venture Partners, Pritzker Group Venture Capital",0.9777777777777777,0.8333333333333334,0.9055555555555556
+Mobvoi,$1,China,Beijing,Consumer & retail,$259.64M,2012,1.0,,"Sequoia Capital China, SIG Asia Investments, ZhenFund",0.9333333333333333,0.9117647058823529,0.9225490196078432
+Zhuan Zhuan,$1,China,Beijing,E-commerce & direct-to-consumer,$990M,2015,1.0,,"58.com, Tencent Holdings",0.9333333333333333,0.9411764705882353,0.9372549019607843
+Modernizing Medicine,$1,United States,Boca Raton,Health,$393.79M,2010,4.0,,"Warburg Pincus, Summit Partners, Sands Capital",0.9444444444444444,0.892156862745098,0.9183006535947712
+Zhaogang,$1,China,Shanghai,E-commerce & direct-to-consumer,$361.25M,2012,2.0,,"K2 Ventures, Matrix Partners China, IDG Capital",0.9111111111111111,0.9117647058823529,0.911437908496732
+DianRong,$1,China,Shanghai,E-commerce & direct-to-consumer,$649M,2012,1.0,,"Standard Chartered, FinSight Ventures, Affirma Capital",0.8333333333333334,0.9117647058823529,0.8725490196078431
+Cell C,$1,South Africa,Midrand,Mobile & telecommunications,$546.97M,2000,2.0,,"Blue Label Telecoms, Net1 UEPS Technologies",0.9888888888888889,0.7941176470588236,0.8915032679738563
+YH Global,$1,China,Shenzhen,"Supply chain, logistics, & delivery",$182.05M,1997,1.0,,"Co-Energy Finance, Grandland",0.9222222222222223,0.7647058823529411,0.8434640522875817
+Revolution Precrafted,$1,Philippines,Manila,Other,$15.4M,2015,2.0,,"K2 Global, 500 Startups",0.9888888888888889,0.9411764705882353,0.9650326797385621
+WeLab,$1,Hong Kong,China,Fintech,$896M,2013,3.0,,"Sequoia Capital China, ING, Alibaba Entrepreneurs Fund",0.8666666666666667,0.9215686274509804,0.8941176470588236
+Maimai,$1,China,Beijing,Mobile & telecommunications,$300M,2013,4.0,,"Morningside Venture Capital, IDG Capital, DCM Ventures",0.9555555555555556,0.9215686274509804,0.938562091503268
+Dxy.cn,$1,China,Hangzhou,Health,$672M,2000,1.0,,"Tencent Holdings, DCM Ventures",0.9555555555555556,0.7843137254901961,0.8699346405228758
+Orbbec Technology,$1,China,Shenzhen,Hardware,$200M,2013,1.0,,"R-Z Capital, Green Pine Capital Partners, SAIF Partners China",0.9222222222222223,0.9117647058823529,0.9169934640522877
+HMD Global,$1,Finland,Espoo,Mobile & telecommunications,$330M,2016,1.0,,Ginko Ventures,0.9444444444444444,0.9411764705882353,0.9428104575163399
+Huike Group,$1,China,Beijing,Edtech,$63M,2010,1.0,,"Fosun RZ Capital, Oceanwide Holdings, Shenzhen Qianhe Capital Management Co.",0.9666666666666667,0.8823529411764706,0.9245098039215687
+China Cloud,$1,China,Wuxi,Hardware,$522.8M,2010,1.0,,"V Star Capital, GF Xinde Investment Management Co., Haitong Leading Capital Management",0.6666666666666667,0.8823529411764706,0.7745098039215687
+LinkDoc Technology,$1,China,Beijing,Health,$253.02M,2014,1.0,,"China Investment Corporation, New Enterprise Associates",0.9,0.9215686274509804,0.9107843137254903
+MediaMath,$1,United States,New York,Internet software & services,$613.16M,2007,6.0,,"Silicon Valley Bank, QED Investors, European Founders Fund",0.8555555555555556,0.8529411764705882,0.854248366013072
+Kuaigou Dache,$1,China,Tianjin,"Supply chain, logistics, & delivery",$650M,2014,1.0,,"Sequoia Capital China, InnoVision Capital, Qianhai Fund of Funds",0.9111111111111111,0.9215686274509804,0.9163398692810458
+Pat McGrath Labs,$1,United States,New York,Consumer & retail,$82M,2016,1.0,,"One Luxury Group, Eurazeo",0.9888888888888889,0.9411764705882353,0.9650326797385621
+Wacai,$1,China,Hangzhou,Mobile & telecommunications,$368.6M,2009,2.0,1.0,"Qiming Venture Partners, China Broadband Capital, CDH Investments",0.8777777777777778,0.8725490196078431,0.8751633986928105
+FlashEx,$1,China,Beijing,"Supply chain, logistics, & delivery",$339M,2014,1.0,,"Prometheus Capital, Matrix Partners China, JD Capital Management",0.7666666666666666,0.9215686274509804,0.8441176470588235
+Banma Network Technologies,$1,China,Shanghai,Auto & transportation,$696.76M,2015,1.0,,"Yunfeng Capital, SDIC Innovation Investment Management, Shang Qi Capital",0.9555555555555556,0.9313725490196079,0.9434640522875817
+Tresata,$1,United States,Charlotte,Fintech,$51.93M,2011,1.0,,GCP Capital Partners,0.9888888888888889,0.892156862745098,0.9405228758169935
+Momenta,$1,China,Beijing,Artificial intelligence,$1.283B,2016,1.0,,"Sinovation Ventures, Tencent Holdings, Sequoia Capital China",0.7,0.9411764705882353,0.8205882352941176
+Hosjoy,$1,China,Nanjing,E-commerce & direct-to-consumer,$138.53M,2009,1.0,,"U.S.-China Green Fund, Founder H Fund, Richland Equities",0.9333333333333333,0.8725490196078431,0.9029411764705882
+Omio,$1,Germany,Berlin,Travel,$396M,2013,3.0,,"Lakestar, Battery Ventures, New Enterprise Associates",0.7666666666666666,0.9117647058823529,0.8392156862745097
+TERMINUS Technology,$1,China,Beijing,Hardware,$629.58M,2015,4.0,,"China Everbright Limited, IDG Capital, iFLYTEK",0.9222222222222223,0.9313725490196079,0.9267973856209151
+iFood,$1,Brazil,Osasco,"Supply chain, logistics, & delivery",$591.86M,2011,2.0,,"Movile, Just Eat, Naspers",0.9444444444444444,0.892156862745098,0.9183006535947712
+Geek+,$1,China,Beijing,Hardware,$433.61M,2015,1.0,,"Volcanics Ventures, Vertex Ventures China, Warburg Pincus",0.9111111111111111,0.9313725490196079,0.9212418300653595
+REEF Technology,$1,United States,Miami,"Supply chain, logistics, & delivery",$433.61M,2015,1.0,,"Target Global, UBS Asset Management, Mubadala Capital",0.9111111111111111,0.9313725490196079,0.9212418300653595
+Globality,$1,United States,Menlo Park,Artificial intelligence,$310.3M,2015,3.0,,SoftBank Group,0.7888888888888889,0.9215686274509804,0.8552287581699347
+Ynsect,$1,France,Evry,Other,$393.4M,2011,1.0,,"Astanor Ventures, Upfront Ventures, IDInvest Partners",0.7888888888888889,0.8823529411764706,0.8356209150326797
+Intellifusion,$1,China,Shenzhen,Artificial intelligence,$287.85M,2014,1.0,,"BOC International, TopoScend Capital, Hongxiu VC",0.6111111111111112,0.9117647058823529,0.761437908496732
+Liquid,$1,Japan,Tokyo,Fintech,$158M,2014,2.0,,"JAFCO Co, Bitmain Technologies, IDG Capital",0.9222222222222223,0.9117647058823529,0.9169934640522877
+VTS,$1,United States,New York,Internet software & services,$327.18M,2012,5.0,,"Trinity Ventures, Fifth Wall Ventures, OpenView Venture Partners",0.8222222222222222,0.892156862745098,0.8571895424836601
+KnowBox,$1,China,Beijing,Edtech,$306.16M,2014,2.0,,"TAL Education Group, Legend Star, Alibaba Group",0.8666666666666667,0.9117647058823529,0.8892156862745098
+Yanolja,$1,South Korea,Seoul,Travel,$2.036B,2005,4.0,,"SBI Investment Korea, Partners Investment, GIC",0.8888888888888888,0.8235294117647058,0.8562091503267973
+Meero,$1,France,Paris,Artificial intelligence,$297.5M,2016,3.0,,"Aglae Ventures, Global Founders Capital, Alven Capital",0.9,0.9313725490196079,0.915686274509804
+Ibotta,$1,United States,Denver,Fintech,$95.91M,2011,3.0,,"Koch Disruptive Technologies, Teamworthy Ventures, GGV Capital",0.8,0.8823529411764706,0.8411764705882353
+C2FO,$1,United States,Leawood,Fintech,$539.68M,2008,7.0,,"Union Square Ventures, Summerhill Venture Partners, Mithril Capital Management",0.8555555555555556,0.8529411764705882,0.854248366013072
+Numbrs,$1,Switzerland,Zurich,Fintech,$127.6M,2012,2.0,,"Investment Corporation of Dubai, Centralway",0.9444444444444444,0.892156862745098,0.9183006535947712
+EBANX,$1,Brazil,Curitiba,Fintech,$460M,2012,1.0,,"FTV Capital, Endeavor",0.9777777777777777,0.892156862745098,0.9349673202614379
+KK Group,$3,China,Dongguan,E-commerce & direct-to-consumer,$614.44M,2014,2.0,,"Matrix Partners China, Bright Venture Capita, Shenzhen Capital Group",0.8444444444444444,0.9117647058823529,0.8781045751633987
+Alto Pharmacy,$1,United States,San Francisco,Health,$588.07M,2015,2.0,,"Jackson Square Ventures, Greenoaks Capital Management, Softbank Group",0.8888888888888888,0.9117647058823529,0.9003267973856208
+Emerging Markets Property Group,$1,United Arab Emirates,Dubai,Other,$279M,2015,1.0,,"OLX Group, KCK Group, EXOR Seeds",0.9777777777777777,0.9117647058823529,0.9447712418300653
+Quizlet,$1,United States,San Francisco,Edtech,$62M,2005,3.0,,"Union Square Ventures, Altos Ventures, Costanoa Ventures",0.9222222222222223,0.8137254901960784,0.8679738562091504
+Orca Bio,$1,United States,Menlo Park,Health,$192M,2016,1.0,,"Lightspeed Venture Partners, Data Collective, 8VC",0.9333333333333333,0.9215686274509804,0.9274509803921569
+Newlink Group,$1,China,Beijing,E-commerce & direct-to-consumer,$978.4M,2016,1.0,,"JOY Capital, NIO Capital, Blueflame Capital",0.6777777777777778,0.9215686274509804,0.7996732026143791
+Infobip,$1,Croatia,Vodnjan,Mobile & telecommunications,$800M,2006,1.0,,One Equity Partners,0.9777777777777777,0.8235294117647058,0.9006535947712417
+Zwift,$1,United States,Long Beach,E-commerce & direct-to-consumer,$597M,2014,2.0,,"Novator Partners, True, Causeway Media Partners",0.8666666666666667,0.9019607843137255,0.884313725490196
+Playco,$1,Japan,Tokyo,Other,$100M,2020,1.0,,"Sozo Ventures, Caffeinated Capital, Sequoia Capital",0.9111111111111111,0.9607843137254902,0.9359477124183007
+Socar,$1,South Korea,Jeju-do,Auto & transportation,$100M,2011,1.0,,"Bain Capital, Altos Ventures, Songhyun Investment",0.9111111111111111,0.8725490196078431,0.8918300653594771
+Gousto,$1.7,United Kingdom,London,"Supply chain, logistics, & delivery",$361M,2012,4.0,,"MMC Ventures, BGF Ventures, Unilever Ventures",0.8333333333333334,0.8823529411764706,0.857843137254902
+Boom Supersonic,$1,United States,Englewood,Other,$247.61M,2014,2.0,,"WRVI Capital, Caffeinated Capital, Y Combinator",0.7666666666666666,0.9019607843137255,0.834313725490196
+Qualia,$1,United States,San Francisco,Fintech,$200.18M,2015,3.0,,"8VC, Menlo Ventures, Tiger Global Management",0.9333333333333333,0.9117647058823529,0.9225490196078432
+Quantum Metric,$1,United States,Colorado Springs,Data management & analytics,$251M,2015,2.0,,"Insight Partners, Bain Capital Ventures",0.9444444444444444,0.9019607843137255,0.923202614379085
+News Break,$1,United States,Mountain View,Internet software & services,$140.23M,2015,3.0,,"IDG Capital, Francisco Partners, ZhenFund",0.9555555555555556,0.9019607843137255,0.9287581699346406
+MadeiraMadeira,$1,Brazil,Parana,E-commerce & direct-to-consumer,$304.58M,2009,2.0,,"Flybridge Capital Partners, SoftBank Group, Monashees+",0.9,0.8431372549019608,0.8715686274509804
+PPRO,$1,United Kingdom,London,Fintech,$370M,2006,1.0,,"Wellington Management, Eurazeo, Citi Ventures",0.9111111111111111,0.8137254901960784,0.8624183006535948
+Splashtop,$1,United States,San Jose,Internet software & services,$111.5M,2006,4.0,,"Storm Ventures, DFJ DragonFund, New Enterprise Associates",0.8111111111111111,0.8137254901960784,0.8124183006535948
+DriveNets,$1,Israel,Ra'anana,Internet software & services,$325M,2015,1.0,,"Bessemer Venture Partners, Pitango Venture Capital, D1 Capital Partners",0.9,0.9019607843137255,0.9009803921568628
+Flash Express,$1,Thailand,Bangkok,"Supply chain, logistics, & delivery",$360M,2017,2.0,,"SCB 10X, Krungsri Finnovate, eWTP Capital",0.9,0.9215686274509804,0.9107843137254903
+Axiom Space,$1,United States,Houston,Other,$230M,2016,1.0,,"C5 Capital, Hemisphere Ventures, The Venture Collective",0.8777777777777778,0.9117647058823529,0.8947712418300653
+Locus Robotics,$1,United States,Wilmington,Hardware,$315.82M,2014,3.0,,"Scale Venture Partners, Bond, Tiger Global Management",0.9222222222222223,0.892156862745098,0.9071895424836601
+Standard,$1,United States,San Francisco,Artificial intelligence,$235.62M,2017,3.0,,"CRV, Y Combinator, Initialized Capital",0.8888888888888888,0.9215686274509804,0.9052287581699346
+Sentry,$1,United States,San Francisco,Other,$126.5M,2011,3.0,,"New Enterprise Associates, Accel, Bond",0.9555555555555556,0.8627450980392157,0.9091503267973857
+WeBull,$1,China,Changsha,Fintech,$230.31M,2016,2.0,,"Bojiang Capital, Hongdao Capital, Mobai Capital",0.9333333333333333,0.9117647058823529,0.9225490196078432
+Skydio,$1,United States,Redwood City,"Supply chain, logistics, & delivery",$344M,2014,4.0,,"Andreessen Horowitz, Andreessen Horowitz, Institutional Venture Partners, Accel",0.8777777777777778,0.892156862745098,0.8849673202614379
+Newsela,$1,United States,New York,Internet software & services,$170.72M,2013,3.0,,"Owl Ventures, Technology Crossover Ventures, Tao Capital Partners",0.6555555555555556,0.8823529411764706,0.768954248366013
+Aqua Security,$1,Israel,Ramat Gan,Cybersecurity,$265M,2015,3.0,,"TLV Partners, Lightspeed Venture Partners, M12",0.9111111111111111,0.9019607843137255,0.9065359477124183
+PatSnap,$1,Singapore,Singapore,Internet software & services,$352.32M,2007,3.0,,"Sequoia Capital China, Shunwei Capital Partners, Qualgro",0.9,0.8235294117647058,0.861764705882353
+Evidation,$1,United States,San Mateo,Health,$259.18M,2012,4.0,,"B Capital Group,, GE Ventures, McKesson Ventures",0.8444444444444444,0.8725490196078431,0.8584967320261438
+Sidecar Health,$1,United States,El Segundo,Fintech,$163M,2018,1.0,,"GreatPoint Ventures, Tiger Global Management, Menlo Ventures",0.9,0.9313725490196079,0.915686274509804
+Feedzai,$1,United States,San Mateo,Artificial intelligence,$277.8M,2009,3.0,,"Global Founders Capital, Shea Ventures, Greycroft",0.9,0.8431372549019608,0.8715686274509804
+Yunxuetang,$1,China,Suzhou,Edtech,$397.28M,2011,1.0,,"Matrix Partners China, Sequoia Capital China, Hundreds Capital",0.9111111111111111,0.8627450980392157,0.8869281045751634
+Cameo,$1,United States,Chicago,Internet software & services,$165.71M,2016,2.0,,"Lightspeed Venture Partners, Kleiner Perkins Caufield & Byers, Origin Ventures",0.7888888888888889,0.9117647058823529,0.8503267973856209
+Fetch Rewards,$1,United States,Madison,E-commerce & direct-to-consumer,$341.51M,2014,3.0,,"Greycroft, Loeb.NYC, DST Global",0.8777777777777778,0.892156862745098,0.8849673202614379
+Hyperchain,$1,China,Hangzhou,Fintech,$249M,2016,2.0,,"Yinhong Equity Investment Fund, E Fund, Ideal International",0.8555555555555556,0.9117647058823529,0.8836601307189542
+The Zebra,$1,United States,Austin,E-commerce & direct-to-consumer,$255.08M,2012,5.0,,"Silverton Partners, Accel, Ballast Point Ventures",0.8888888888888888,0.8725490196078431,0.880718954248366
+Clearcover,$1,United States,Chicago,Fintech,$307M,2016,2.0,,"American Family Ventures, Cox Enterprises, OMERS Ventures",0.9,0.9117647058823529,0.9058823529411765
+Groq,$1,United States,Mountain View,Artificial intelligence,$362.55M,2016,3.0,,"TDK Ventures, Social Capital, D1 Capital Partners",0.8555555555555556,0.9117647058823529,0.8836601307189542
+Fiture,$1,China,Chengdu,Health,$391M,2019,1.0,,"Bertelsmann Asia Investments, Sequoia Capital China, NIO Capital",0.8444444444444444,0.9411764705882353,0.8928104575163398
+Injective Protocol,$1,United States,New York,Fintech,$13.1M,2018,1.0,,"Pantera Capital, Cadenza Ventures, BlockTower Capital",0.8777777777777778,0.9313725490196079,0.9045751633986928
+Sift,$1,United States,San Francisco,Artificial intelligence,$156.52M,2011,4.0,,"Union Square Ventures, Insight Partners, Spark Capital",0.7888888888888889,0.8627450980392157,0.8258169934640522
+SaltPay,$1,United Kingdom,London,Fintech,$156.52M,2019,4.0,,"Tiger Global Management, Hedosophia",0.7888888888888889,0.9411764705882353,0.8650326797385621
+Capsule,$1,United States,New York,Health,$570M,2016,3.0,,"Thrive Capital, Durable Capital Partners, G Squared",0.8888888888888888,0.9117647058823529,0.9003267973856208
+MOLOCO,$1.5,United States,Redwood City,Artificial intelligence,$187.57M,2013,3.0,,"Smilegate Investment, DSC Investments, KTB Ventures",0.9222222222222223,0.8823529411764706,0.9022875816993464
+Mux,$1,United States,San Francisco,Internet software & services,$173.92M,2015,2.0,,"Accel, Cobalt Capital, Andreessen Horowitz",0.7888888888888889,0.9019607843137255,0.8454248366013072
+XForcePlus,$1,China,Shanghai,Internet software & services,$200M,2015,2.0,,"Eastern Bell Capital, Danhua Capital, MSA Capital",0.8777777777777778,0.9019607843137255,0.8898692810457516
+Firefly Aerospace,$1.1,United States,Cedar Park,Other,$100.25M,2014,3.0,,"XBTO Ventures, Raven One Ventures, SK Ventures",0.8777777777777778,0.892156862745098,0.8849673202614379
+HoneyBook,$1.1,United States,San Francisco,Internet software & services,$480.34M,2013,5.0,,"Norwest Venture Partners, Hillsven Capital, Aleph",0.7555555555555555,0.8823529411764706,0.818954248366013
+Shift Technology,$1,France,Paris,Artificial intelligence,$319.72M,2014,3.0,,"Griffin Gaming Partners, Andreessen Horowitz, Battery Ventures",0.8888888888888888,0.892156862745098,0.8905228758169934
+TensTorrent,$1,Canada,Toronto,Artificial intelligence,$221.03M,2016,1.0,,"Eclipse Ventures, Fidelity Investments, Moore Capital Management",0.9666666666666667,0.9117647058823529,0.9392156862745098
+Zihaiguo,$1,China,Chongqing,Consumer & retail,$64.08M,2018,2.0,,"Xingwang Investment Management, China Capital Investment Group, Matrix Partners China",0.9555555555555556,0.9313725490196079,0.9434640522875817
+Forte Labs,$1,United States,San Francisco,Fintech,$64.08M,2018,2.0,,"Iris Capital, Accel, Elaia Partners",0.9555555555555556,0.9313725490196079,0.9434640522875817
+Axtria,$1,United States,Berkeley Heights,Data management & analytics,$206.32M,2009,3.0,,"Helion Venture Partners, Bain Capital Tech Opportunities, Sequoia Capital India",0.9111111111111111,0.8431372549019608,0.8771241830065359
+Amount,$1,United States,Chicago,Fintech,$187.5M,2020,2.0,,"Invus Group, Hanaco Venture Capital, WestCap Group",0.9111111111111111,0.9509803921568627,0.931045751633987
+Vise,$1,United States,New York,Fintech,$126.55M,2016,1.0,,"Sequoia Capital, Founders Fund, Bling Capital",0.7666666666666666,0.9117647058823529,0.8392156862745097
+Printful,$1,United States,Charlotte,Other,$126.55M,2016,1.0,,Bregal Sagemount,0.7666666666666666,0.9117647058823529,0.8392156862745097
+Matrixport,$1.05,Singapore,Singapore,Fintech,$126.55M,2019,1.0,,"Dragonfly Captial, Qiming Venture Partners, DST Global",0.7666666666666666,0.9411764705882353,0.8539215686274509
+Shippo,$1,United States,San Francisco,"Supply chain, logistics, & delivery",$154.03M,2013,6.0,,"Version One Ventures, Uncork Capital, Bessemer Venture Partners",0.8333333333333334,0.8823529411764706,0.857843137254902
+Thirty Madison,$1,United States,New York,Health,$8M,1993,1.0,,"Northzone Ventures, Maveron, Johnson & Johnson Innovation",0.9888888888888889,0.6862745098039216,0.8375816993464053
+LetsGetChecked,$1,Ireland,Dublin,Health,$263M,2015,2.0,,"Optum Ventures, Qiming Venture Partners, Transformation Capital",0.9,0.9019607843137255,0.9009803921568628
+EcoFlow,$1,China,Shenzhen,Hardware,$110.59M,2017,1.0,,"Delian Capital, China International Capital Corporation, Sequoia Capital China",0.8666666666666667,0.9215686274509804,0.8941176470588236
+Carro,$1,Singapore,Singapore,E-commerce & direct-to-consumer,$684.52M,2015,4.0,,"SingTel Innov8, Alpha JWC Ventures, Golden Gate Ventures",0.6666666666666667,0.9019607843137255,0.7843137254901962
+Tractable,$1,United Kingdom,London,Artificial intelligence,$119.83M,2014,3.0,,"Insight Partners, Ignition Partners, Georgian Partners",0.9,0.892156862745098,0.896078431372549
+Bringg,$1,Israel,Tel Aviv,"Supply chain, logistics, & delivery",$184.5M,2013,3.0,,"Salesforce Ventures, next47, Pereg Ventures",0.8555555555555556,0.8823529411764706,0.8689542483660131
+Claroty,$1,United States,New York,Cybersecurity,$632M,2015,3.0,,"Bessemer Venture Partners, MoreVC, Team8",0.7666666666666666,0.9019607843137255,0.834313725490196
+JoyTunes,$1,Israel,Tel Aviv,Edtech,$91.5M,2011,3.0,,"Genesis Partners, Aleph, Insight Partners",0.9,0.8627450980392157,0.8813725490196078
+Aircall,$1,United States,New York,Internet software & services,$225.63M,2014,3.0,,"Balderton Capital, Next World Capital, Draper Esprit",0.8444444444444444,0.892156862745098,0.8683006535947713
+SmartAsset,$1,United States,New York,Fintech,$157.62M,2012,4.0,,"Javelin Venture Partners, TTV Capital, Peterson Ventures",0.8222222222222222,0.8725490196078431,0.8473856209150327
+Morning Consult,$1,United States,Washington DC,Internet software & services,$91M,2014,2.0,,"Advance Venture Partners, Susquehanna Growth Equity, Lupa Systems",0.9777777777777777,0.892156862745098,0.9349673202614379
+Visier,$1,Canada,Vancouver,Internet software & services,$216.5M,2010,3.0,,"Foundation Capital, 	Summit Partners, Adams Street Partners",0.9555555555555556,0.8529411764705882,0.9042483660130719
+ShipBob,$1,United States,Chicago,"Supply chain, logistics, & delivery",$331.1M,2014,3.0,,"Hyde Park Venture Partners,	FundersClub. Bain Capital Ventures",0.8666666666666667,0.892156862745098,0.8794117647058823
+Blinkit,$1.01,India,Gurgaon,"Supply chain, logistics, & delivery",$573.82M,2013,9.0,,"Tiger Global Management, Sequoia Capital India, SoftBank Group",0.9111111111111111,0.8823529411764706,0.8967320261437908
+Kitopi,$1,United Arab Emirates,Dubai,"Supply chain, logistics, & delivery",$502.2M,2018,1.0,,"CE-Ventures, BECO Capital, Nordstar",0.8222222222222222,0.9313725490196079,0.876797385620915
+bolttech,$1,Singapore,Singapore,Fintech,$502.2M,2018,1.0,,"Mundi Ventures, Doqling Capital Partners, Activant Capital",0.8222222222222222,0.9313725490196079,0.876797385620915
+MobileCoin,$1,United States,San Francisco,Fintech,$108.03M,2018,1.0,,"General Catalyst, Future Ventures, AU21",0.8777777777777778,0.9313725490196079,0.9045751633986928
+Lunar,$1,Denmark,Aarhus,Fintech,$371.29M,2015,1.0,,"SEED Capital, Greyhound Capital, Socii Capital",0.8111111111111111,0.9019607843137255,0.8565359477124184
+Amperity,$1,United States,Seattle,Artificial intelligence,$217.3M,2016,3.0,,"Madrona Venture Group, Tiger Global Management, Madera Technology Partners",0.8444444444444444,0.9117647058823529,0.8781045751633987
+Remote,$1,United States,San Francisco,Fintech,$217.3M,2016,3.0,,"Index Ventures, Sequoia Capital, General Catalyst",0.8444444444444444,0.9117647058823529,0.8781045751633987
+Pantheon Systems,$1,United States,San Francisco,Internet software & services,$150K,2020,,,"Foundry Group, Scale Venture Partners, SoftBank Group",1.0,0.9509803921568627,0.9754901960784313
+GO1,$1,Australia,Brisbane,Internet software & services,$273.25M,2015,3.0,,"Y Combinator, M12, SEEK",0.7555555555555555,0.9019607843137255,0.8287581699346405
+Interos,$1,United States,Arlington,Fintech,$132.35M,2005,1.0,,"Kleiner Perkins Caufield & Byers, NightDragon Security, Venrock",0.9444444444444444,0.803921568627451,0.8741830065359477
+BlackBuck,$1,India,Bengaluru,"Supply chain, logistics, & delivery",$330.88M,2015,7.0,,"Accel, Sands Capital, International Finance Corporation",0.7888888888888889,0.9019607843137255,0.8454248366013072
+NIUM,$1,Singapore,Singapore,Fintech,$259.1M,2014,3.0,,"Vertex Ventures SE Asia, Global Founders Capital, Visa Ventures",0.7666666666666666,0.892156862745098,0.8294117647058823
+Unico,$1,Brazil,Sao Paulo,Artificial intelligence,$235.94M,2007,1.0,,"Big Bets, General Atlantic, SOFTBANK Latin America Ventures",0.9555555555555556,0.8235294117647058,0.8895424836601307
+Human Interest,$1,United States,San Francisco,Fintech,$335.02M,2015,3.0,,"Wing Venture Capital, Slow Ventures, Uncork Capital",0.7222222222222222,0.9019607843137255,0.8120915032679739
+Bluecore,$1,United States,New York,Artificial intelligence,$238.12M,2013,4.0,,"FirstMark Capital, Georgian Partners, Norwest Venture Partners",0.9222222222222223,0.8823529411764706,0.9022875816993464
+Freshbooks,$1,Canada,Toronto,Fintech,$203.75M,2004,3.0,,"Accomplice, Oak Investment Partners, Georgian Partners",0.9111111111111111,0.7941176470588236,0.8526143790849674
+Snorkel AI,$1,United States,Palo Alto,Artificial intelligence,$135M,2019,1.0,,"Greylock Partners, Google Ventures, BlackRock",0.9,0.9411764705882353,0.9205882352941177
+Gelato,$1,Norway,Oslo,E-commerce & direct-to-consumer,$293.61M,2007,4.0,,"Greylock Partners, Google Ventures, BlackRock",0.9111111111111111,0.8235294117647058,0.8673202614379085
+Maven Clinic,$1,United States,New York,Health,$199.47M,2014,3.0,,"Female Founders Fund, Oak HC/FT Partners, Sequoia Capital",0.7222222222222222,0.892156862745098,0.8071895424836601
+Dunamu,$1,South Korea,Seoul,Fintech,$72.44M,2012,2.0,,"Qualcomm Ventures, Woori Investment, Hanwha Investment & Securities",0.9,0.8725490196078431,0.8862745098039215
+Shield AI,$1,United States,San Diego,Artificial intelligence,$345.35M,2015,2.0,,"Andreessen Horowitz, Homebrew, Point72 Ventures",0.9444444444444444,0.9019607843137255,0.923202614379085
+PicsArt,$1,United States,San Francisco,Mobile & telecommunications,$175M,2011,4.0,,"Sequoia Capital, DCM Ventures, Insight Partners",0.9111111111111111,0.8627450980392157,0.8869281045751634
+1KMXC,$1,China,Hangzhou,Hardware,$98.96M,2014,3.0,,"Goldman Sachs Asset Management, SDP Investment, Alibaba Group",0.9222222222222223,0.892156862745098,0.9071895424836601
+Cider,$1,Hong Kong,China,E-commerce & direct-to-consumer,$131.46M,2020,2.0,,"Andreessen Horowitz, DST Global, IDG Capital",0.9222222222222223,0.9509803921568627,0.9366013071895425
+Berlin Brands Group,$1,Germany,Berlin,E-commerce & direct-to-consumer,$938.71M,2005,1.0,,"Ardian, Bain Capital",0.9888888888888889,0.803921568627451,0.89640522875817
+Agile Robots,$1,Germany,Munich,Hardware,$350M,2018,1.0,,"Hillhouse Capital Management, Sequoia Capital China, Linear Venture",0.8555555555555556,0.9313725490196079,0.8934640522875817
+GrubMarket,$1.2,United States,San Francisco,E-commerce & direct-to-consumer,$396.06M,2013,5.0,,"GGV Capital, BlackRock, ACE & Company",0.4,0.8823529411764706,0.6411764705882352
+Xendit,$1,Indonesia,Jakarta,Fintech,$215.01M,2014,1.0,,"Accel, Y Combinator, Amasia",0.9222222222222223,0.892156862745098,0.9071895424836601
+TrueLayer,$1,United Kingdom,London,Fintech,$271.8M,2016,3.0,,"Anthemis, Connect Ventures, Northzone Ventures",0.8222222222222222,0.9117647058823529,0.8669934640522876
+PandaDoc,$1,United States,San Francisco,Internet software & services,$271.8M,2016,3.0,,"Rembrandt Venture Partners, M12, Altos Ventures",0.8222222222222222,0.9117647058823529,0.8669934640522876
+Keenon Robotics,$1,China,Shanghai,"Supply chain, logistics, & delivery",$228.79M,2010,1.0,,"Yunqi Partners, SoftBank Group, iVision Ventures",0.8666666666666667,0.8529411764705882,0.8598039215686275
+HAYDON,$1,China,Shanghai,Consumer & retail,$100M,2020,1.0,,"Tencent Holdings, Hillhouse Capital Management",0.9888888888888889,0.9509803921568627,0.9699346405228758
+Ninja Van,$1,Singapore,Singapore,"Supply chain, logistics, & delivery",$976.5M,2014,6.0,,"B Capital Group, Monk's Hill Ventures, Dynamic Parcel Distribution",0.8444444444444444,0.892156862745098,0.8683006535947713
+Vedantu,$1,India,Bengaluru,Edtech,$308.38M,2014,5.0,,"Accel, Tiger Global Management, Omidyar Network",0.8666666666666667,0.892156862745098,0.8794117647058823
+TrialSpark,$1,United States,New York,Health,$238.3M,2014,1.0,,"Sequoia Capital, Thrive Capital, Sound Ventures",0.8555555555555556,0.892156862745098,0.8738562091503268
+Ajaib,$1,Indonesia,Jakarta,Fintech,$245.22M,2018,1.0,,"Softbank Ventures Asia, Alpha JWC Ventures, Insignia Ventures Partners",0.8777777777777778,0.9313725490196079,0.9045751633986928
+Licious,$1,India,Bengaluru,E-commerce & direct-to-consumer,$338M,2015,5.0,,"3one4 Capital Partners, Bertelsmann India Investments, Vertex Ventures SE Asia",0.7777777777777778,0.9019607843137255,0.8398692810457516
+Masterworks,$1,United States,New York,Fintech,$110M,2017,1.0,,"Left Lane Capital, Galaxy Interactive, Tru Arrow Partners",0.9777777777777777,0.9215686274509804,0.949673202614379
+Chronosphere,$1,United States,New York,Data management & analytics,$255.34M,2019,1.0,,"Greylock Partners, Lux Capital, General Atlantic",0.9444444444444444,0.9411764705882353,0.9428104575163399
+Solo.io,$1,United States,Cambridge,Internet software & services,$171.85M,2017,1.0,,"True Ventures, Altimeter Capital, Redpoint Ventures",0.9777777777777777,0.9215686274509804,0.949673202614379
+Swile,$1,France,Montpellier,Fintech,$328.43M,2016,2.0,,"Index Ventures, IDInvest Partners, Daphni",0.9222222222222223,0.9117647058823529,0.9169934640522877
+MobiKwik,$1,India,Gurugram,Fintech,$248.96M,2009,9.0,,"Sequoia Capital India, The Times Group, GMO VenturePartners",0.6666666666666667,0.8431372549019608,0.7549019607843137
+Zopa,$1,United Kingdom,London,Fintech,$671.93M,2005,2.0,,"IAG Capital Partners, Augmentum Fintech, Northzone Ventures",0.8222222222222222,0.803921568627451,0.8130718954248366
+Dental Monitoring,$1,France,Paris,Health,$210.08M,2014,1.0,,"Vitruvian Partners, Merieux Equity Partners, Straumann",0.9777777777777777,0.892156862745098,0.9349673202614379
+CargoX,$1,Brazil,Sao Paulo,"Supply chain, logistics, & delivery",$377.93M,2015,3.0,,"Valor Capital Group, Lightrock, Softbank Group",0.8111111111111111,0.9019607843137255,0.8565359477124184
+Augury,$1,United States,New York,Artificial intelligence,$294M,2011,3.0,,"Lerer Hippeau, Munich Re Ventures, Eclipse Ventures",0.8666666666666667,0.8627450980392157,0.8647058823529412
+Moka,$1,China,Beijing,Internet software & services,$142.27M,2015,2.0,,"GGV Capital, GSR Ventures, FreesFund",0.9222222222222223,0.9019607843137255,0.912091503267974
+Tezign,$1,China,Shanghai,Internet software & services,$110M,2015,1.0,,"Sequoia Capital China, Linear Venture, Hearst Ventures",0.8555555555555556,0.9019607843137255,0.8787581699346405
+Vagaro,$1,United States,Dublin,Internet software & services,$64.5M,2009,1.0,,FTV Capital,0.9888888888888889,0.8431372549019608,0.9160130718954249
+Drata,$1,United States,San Diego,Cybersecurity,$128.2M,2020,1.0,,"Cowboy Ventures, Leaders Fund, GGV Capital",0.9111111111111111,0.9509803921568627,0.931045751633987
+Razor,$1,Germany,Berlin,Consumer & retail,$558.71M,2020,2.0,,"Global Founders Capital, 468 Capital, Redalpine Venture Partners",0.8666666666666667,0.9509803921568627,0.9088235294117647
+OpenWeb,$1,United States,New York,Internet software & services,$213M,2012,2.0,,"Insight Partners, AltaIR Capital, Norma Investments",0.7555555555555555,0.8725490196078431,0.8140522875816993
+Contrast Security,$1,United States,Los Altos,Cybersecurity,$269M,2014,3.0,,"Acero Capital, General Catalyst, M12",0.8888888888888888,0.892156862745098,0.8905228758169934
+Wrapbook,$1,United States,New York,Fintech,$130.6M,2018,1.0,,"Equal Ventures, Uncork Capital, Andreessen Horowitz",0.9222222222222223,0.9313725490196079,0.9267973856209151
+Gaussian Robotics,$1.1,China,Shanghai,Hardware,$287.83M,2013,1.0,,"BlueRun Ventures, Grand Flight Investment, Meituan Dianping",0.8222222222222222,0.8823529411764706,0.8522875816993464
+Mensa Brands,$1,India,Bengaluru,Other,$228.58M,2021,3.0,,"Accel, Falcon Edge Capital, Norwest Venture Partners",0.8666666666666667,0.9607843137254902,0.9137254901960785
+Heyday,$1,United States,Chicago,E-commerce & direct-to-consumer,$6.62M,2017,1.0,,"Khosla Ventures,General Catalyst, Victory Park Capital",0.9,0.9215686274509804,0.9107843137254903
+PLACE,$1,United States,Bellingham,Internet software & services,$100M,2020,1.0,,"Goldman Sachs Asset Management, 3L",0.9888888888888889,0.9509803921568627,0.9699346405228758
+Stytch,$1,United States,San Francisco,Cybersecurity,$126M,2020,3.0,,"Index Ventures, Benchmark, Thrive Capital",0.8888888888888888,0.9509803921568627,0.9199346405228758
+Owkin,$1,United States,New York,Artificial Intelligence,$254.1M,2016,2.0,,"Google Ventures, Cathay Innovation, NJF Capital",0.8777777777777778,0.9117647058823529,0.8947712418300653
+Expel,$1,United States,Herndon,Cybersecurity,$257.8M,2016,3.0,,"Paladin Capital Group, Greycroft, Scale Venture Partners",0.8888888888888888,0.9117647058823529,0.9003267973856208
+NoBroker,$1,India,Bengaluru,Internet software & services,$371.4M,2014,5.0,,"General Atlantic, Elevation Capital, BEENEXT",0.8555555555555556,0.892156862745098,0.8738562091503268
+Slice,$1,India,Bengaluru,Fintech,$303.73M,2015,3.0,,"Gunosy Capital, Blume Ventures, Das Capital",0.6777777777777778,0.9019607843137255,0.7898692810457517
+Thought Machine,$1,United Kingdom,London,Fintech,$402.05M,2014,3.0,,"British Patient Capital, SEB Venture Capital, IQ Capital",0.8444444444444444,0.892156862745098,0.8683006535947713
+Lessen,$1,United States,Scottsdale,Internet software & services,$205M,2019,1.0,,"Khosla Ventures, General Catalyst, Navitas Capital",0.9666666666666667,0.9411764705882353,0.9539215686274509
+Clara,$1,Mexico,Mexico City,Fintech,$108.5M,2020,2.0,,"DST Global, General Catalyst, Monashees+",0.8555555555555556,0.9509803921568627,0.9032679738562092
+YipitData,$1,United States,New York,Internet software & services,$492.05M,2008,3.0,,"RRE Ventures+, Highland Capital Partners, The Carlyle Group",0.8444444444444444,0.8333333333333334,0.8388888888888889
+Anyscale,$1,United States,Berkeley,Artificial Intelligence,$160.6M,2019,1.0,,"Andreessen Horowitz, Intel Capital, Foundation Capital",0.9,0.9411764705882353,0.9205882352941177
+ReliaQuest,$1,United States,Tampa,Cybersecurity,$330M,2007,1.0,,"KKR, FTV Capital, Ten Eleven Ventures",0.9666666666666667,0.8235294117647058,0.8950980392156862
+Pet Circle,$1,Australia,Alexandria,E-commerce & direct-to-consumer,$126.35M,2011,1.0,,"Prysm Capital, Baillie Gifford & Co., TDM Growth Partners",0.9444444444444444,0.8627450980392157,0.9035947712418301
+Nature's Fynd,$1,United States,Chicago,Other,$508.48M,2012,1.0,,"Danone Manifesto Ventures, 1955 Capital, Breakthrough Energy Ventures",0.7888888888888889,0.8725490196078431,0.830718954248366
+Lydia,$1,France,Paris,Fintech,$260.33M,2011,3.0,,"NewAlpha, XAnge Private Equity, Tencent Holdings",0.8777777777777778,0.8627450980392157,0.8702614379084967
+SellerX,$1,Germany,Berlin,E-commerce & direct-to-consumer,$766.7M,2020,1.0,,"Cherry Ventures, Felix Capital, 83North",0.8666666666666667,0.9509803921568627,0.9088235294117647
+SnapLogic,$1,United States,San Mateo,Internet software & services,$397.86M,2006,8.0,,"Andreessen Horowitz, Triangle Peak Partners, Ignition Partners",0.8111111111111111,0.8137254901960784,0.8124183006535948
+Cadence,$1,United States,New York,Health,$141M,2020,1.0,,"Thrive Capital, General Catalyst, Coatue Management",0.9222222222222223,0.9509803921568627,0.9366013071895425
+Noname Security,$1,United States,Palo Alto,Cybersecurity,$220M,2020,1.0,,"Insight Partners, Lightspeed Venture Partners, CyberStarts",0.9333333333333333,0.9509803921568627,0.942156862745098
+Rothy's,$1,United States,San Francisco,Consumer & retail,$44M,2016,2.0,,"Alpargatas, GS Growth, Lightspeed Venture Partners",0.9444444444444444,0.9117647058823529,0.9281045751633987
+VOI,$1,Sweden,Stockholm,Travel,$517.9M,2018,3.0,,"Vostok New Ventures, The Raine Group, Balderton Capital",0.6444444444444444,0.9313725490196079,0.7879084967320261
+Haomao.AI,$1,China,Beijing,Artificial Intelligence,$203.91M,2019,1.0,,"Qualcomm Ventures, Nine Intelligence Capital, Hillhouse Capital Management",0.9333333333333333,0.9411764705882353,0.9372549019607843
+Kopi Kenangan,$1,Indonesia,Jakarta,Consumer & retail,$233M,2017,1.0,,"Horizons Ventures, Sequoia Capital India, Alpha JWC Ventures",0.8666666666666667,0.9215686274509804,0.8941176470588236
+InFarm,$1,Germany,Berlin,Other,$601.59M,2013,2.0,,"Atomico, Hanaco Venture Capital, TriplePoint Capital",0.7666666666666666,0.8823529411764706,0.8245098039215686
+ONE,$1,Singapore,Singapore,Internet software & services,$486M,2011,1.0,,"Temasek, Guggenheim Investments, Qatar Investment Authority",0.8888888888888888,0.8627450980392157,0.8758169934640523
+Fractal Analytics,$1,India,Mumbai,Data management & analytics,$688M,2000,3.0,,"TPG Capital, Apax Partners, TA Associates",0.9444444444444444,0.7450980392156863,0.8447712418300654
+Assent Compliance,$1,Canada,Ottawa,"Supply chain, logistics, & delivery",$501.64M,2005,3.0,,"Vista Equity Partners, Warburg Pincus, First Ascent Ventures",0.9222222222222223,0.7941176470588236,0.8581699346405229
+CAIS,$1,United States,New York,Fintech,$283M,2009,2.0,,"Franklin Templeton, Motive Partners. Apollo Global Management",0.9333333333333333,0.8333333333333334,0.8833333333333333
+Placer.ai,$1,United States,Los Altos,Artificial intelligence,$166.34M,2016,1.0,,"Fifth Wall Ventures, JBV Capital, Array Ventures",0.8,0.9019607843137255,0.8509803921568628
+Pentera,$1,Israel,Petah Tikva,Cybersecurity,$185M,2015,1.0,,"AWZ Ventures, Blackstone, Insight Partners",0.9444444444444444,0.892156862745098,0.9183006535947712
+Darwinbox,$1,India,Hyderabad,Internet software & services,$106.7M,2015,2.0,,"Lightspeed India Partners, Sequoia Capital India, Endiya Partners",0.9,0.892156862745098,0.896078431372549
+Minio,$1,United States,Palo Alto,Data management & analytics,$126.3M,2014,2.0,,"General Catalyst, Nexus Venture Partners, Dell Technologies Capital",0.8666666666666667,0.8823529411764706,0.8745098039215686
+Fever Labs,$1,United States,New York,Internet software & services,$315.43M,2012,4.0,,"Accel, 14W, GS Growth",0.7222222222222222,0.8627450980392157,0.792483660130719
+Esusu,$1,United States,New York,Fintech,$144.43M,2015,1.0,,"Next Play Ventures, Zeal Capital Partners, SoftBank Group",0.7333333333333334,0.892156862745098,0.8127450980392157
+Betterfly,$1,Chile,Santiago,Artificial intelligence,$202.5M,2018,1.0,,"QED Investors, DST Global, Endeavor",0.8666666666666667,0.9215686274509804,0.8941176470588236
+Dune Analytics,$1,Norway,Oslo,Data management & analytics,$79.42M,2018,1.0,,"Multicoin Capital, Coatue Management, Dragonfly Capital Partners",0.8777777777777778,0.9215686274509804,0.8996732026143791
+Scandit,$1,Switzerland,Zurich,"Supply chain, logistics, & delivery",$273M,2009,3.0,,"Atomico, NGP Capital, Google Ventures",0.8777777777777778,0.8333333333333334,0.8555555555555556
+Payhawk,$1,United Kingdom,London,Fintech,$236.5M,2018,2.0,,"Earlybird Venture Capital, Eleven Ventures, QED Investors",0.8444444444444444,0.9215686274509804,0.8830065359477124
+Watershed,$1,United States,San Francisco,Internet software & services,$70M,2019,1.0,,"Kleiner Perkins Caufield & Byers, Sequoia Capital",0.9666666666666667,0.9313725490196079,0.9490196078431372
+Axelar,$1,Canada,Waterloo,Internet software & services,$63.75M,2020,1.0,,"Lemniscap VC, North Island Ventures, Polychain Capital",0.7222222222222222,0.9411764705882353,0.8316993464052287
+CHEQ,$1,United States,New York,Cybersecurity,$171M,2014,2.0,,"Battery Ventures, Tiger Global Management, Hanaco Ventures",0.9444444444444444,0.8823529411764706,0.9133986928104575
+Hasura,$1,India,Bengaluru,Internet software & services,$136.51M,2017,1.0,,"Nexus Venture Partners, Vertex Ventures, STRIVE",0.8888888888888888,0.9117647058823529,0.9003267973856208
+Timescale,$1,United States,New York,Internet software & services,$181.06M,2015,2.0,,"New Enterprise Associates, Benchmark, Two Sigma Ventures",0.9333333333333333,0.892156862745098,0.9127450980392157
+Scalapay,$1,Italy,Milan,Fintech,$700M,2019,2.0,,"Fasanara Capital, Tiger Global Management, Baleen Capital",0.9,0.9313725490196079,0.915686274509804
+Omada Health,$1,United States,San Francisco,Health,$449.72M,2011,6.0,,"U.S. Venture Partners, dRx Capital, Andreessen Horowitz",0.6777777777777778,0.8529411764705882,0.765359477124183
+BlueVoyant,$1,United States,New York,Cybersecurity,$525.5M,2017,2.0,,"8VC, Liberty Strategic Capital, Eden Global Partners",0.9444444444444444,0.9117647058823529,0.9281045751633987
+Veev,$1,United States,San Mateo,Internet software & services,$604.5M,2008,1.0,,"Zeev Ventures, Bond, Fifth Wall Ventures",0.8888888888888888,0.8235294117647058,0.8562091503267973
